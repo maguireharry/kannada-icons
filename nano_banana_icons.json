@@ -1,0 +1,3053 @@
+{
+  "total": 508,
+  "icons": [
+    {
+      "id": "aadu_huli_aata",
+      "title": "Aadu Huli Aata",
+      "filename": "aadu_huli_aata.png",
+      "path": "nano-banana-icons/individual/aadu_huli_aata.png"
+    },
+    {
+      "id": "abbey_falls_coorg_coffee",
+      "title": "Abbey Falls Coorg Coffee",
+      "filename": "abbey_falls_coorg_coffee.png",
+      "path": "nano-banana-icons/individual/abbey_falls_coorg_coffee.png"
+    },
+    {
+      "id": "aihole_durga_temple",
+      "title": "Aihole Durga Temple",
+      "filename": "aihole_durga_temple.png",
+      "path": "nano-banana-icons/individual/aihole_durga_temple.png"
+    },
+    {
+      "id": "aihole_ravikirti_slab",
+      "title": "Aihole Ravikirti Slab",
+      "filename": "aihole_ravikirti_slab.png",
+      "path": "nano-banana-icons/individual/aihole_ravikirti_slab.png"
+    },
+    {
+      "id": "akka_mahadevi_vachanakarthi",
+      "title": "Akka Mahadevi Vachanakarthi",
+      "filename": "akka_mahadevi_vachanakarthi.png",
+      "path": "nano-banana-icons/individual/akka_mahadevi_vachanakarthi.png"
+    },
+    {
+      "id": "akki_rotti_banana_leaf",
+      "title": "Akki Rotti Banana Leaf",
+      "filename": "akki_rotti_banana_leaf.png",
+      "path": "nano-banana-icons/individual/akki_rotti_banana_leaf.png"
+    },
+    {
+      "id": "akki_rotti_dill_leaves",
+      "title": "Akki Rotti Dill Leaves",
+      "filename": "akki_rotti_dill_leaves.png",
+      "path": "nano-banana-icons/individual/akki_rotti_dill_leaves.png"
+    },
+    {
+      "id": "almatti_dam_gates",
+      "title": "Almatti Dam Gates",
+      "filename": "almatti_dam_gates.png",
+      "path": "nano-banana-icons/individual/almatti_dam_gates.png"
+    },
+    {
+      "id": "anshi_black_panther",
+      "title": "Anshi Black Panther",
+      "filename": "anshi_black_panther.png",
+      "path": "nano-banana-icons/individual/anshi_black_panther.png"
+    },
+    {
+      "id": "anthargange_caves_spring",
+      "title": "Anthargange Caves Spring",
+      "filename": "anthargange_caves_spring.png",
+      "path": "nano-banana-icons/individual/anthargange_caves_spring.png"
+    },
+    {
+      "id": "archery_bow_arrow",
+      "title": "Archery Bow Arrow",
+      "filename": "archery_bow_arrow.png",
+      "path": "nano-banana-icons/individual/archery_bow_arrow.png"
+    },
+    {
+      "id": "areca_nut_adike",
+      "title": "Areca Nut Adike",
+      "filename": "areca_nut_adike.png",
+      "path": "nano-banana-icons/individual/areca_nut_adike.png"
+    },
+    {
+      "id": "arecanut_betel_palm",
+      "title": "Arecanut Betel Palm",
+      "filename": "arecanut_betel_palm.png",
+      "path": "nano-banana-icons/individual/arecanut_betel_palm.png"
+    },
+    {
+      "id": "asian_elephant",
+      "title": "Asian Elephant",
+      "filename": "asian_elephant.png",
+      "path": "nano-banana-icons/individual/asian_elephant.png"
+    },
+    {
+      "id": "asian_paradise_flycatcher",
+      "title": "Asian Paradise Flycatcher",
+      "filename": "asian_paradise_flycatcher.png",
+      "path": "nano-banana-icons/individual/asian_paradise_flycatcher.png"
+    },
+    {
+      "id": "atakur_dog_hero_stone",
+      "title": "Atakur Dog Hero Stone",
+      "filename": "atakur_dog_hero_stone.png",
+      "path": "nano-banana-icons/individual/atakur_dog_hero_stone.png"
+    },
+    {
+      "id": "auto_raja_driver_cap",
+      "title": "Auto Raja Driver Cap",
+      "filename": "auto_raja_driver_cap.png",
+      "path": "nano-banana-icons/individual/auto_raja_driver_cap.png"
+    },
+    {
+      "id": "avarekalu_mixture",
+      "title": "Avarekalu Mixture",
+      "filename": "avarekalu_mixture.png",
+      "path": "nano-banana-icons/individual/avarekalu_mixture.png"
+    },
+    {
+      "id": "ayudha_pooja_tools",
+      "title": "Ayudha Pooja Tools",
+      "filename": "ayudha_pooja_tools.png",
+      "path": "nano-banana-icons/individual/ayudha_pooja_tools.png"
+    },
+    {
+      "id": "babruvahana_sword_shield",
+      "title": "Babruvahana Sword Shield",
+      "filename": "babruvahana_sword_shield.png",
+      "path": "nano-banana-icons/individual/babruvahana_sword_shield.png"
+    },
+    {
+      "id": "badami_cave_1_nataraja",
+      "title": "Badami Cave 1 Nataraja",
+      "filename": "badami_cave_1_nataraja.png",
+      "path": "nano-banana-icons/individual/badami_cave_1_nataraja.png"
+    },
+    {
+      "id": "badami_cave_3_vishnu",
+      "title": "Badami Cave 3 Vishnu",
+      "filename": "badami_cave_3_vishnu.png",
+      "path": "nano-banana-icons/individual/badami_cave_3_vishnu.png"
+    },
+    {
+      "id": "badami_cave_temple",
+      "title": "Badami Cave Temple",
+      "filename": "badami_cave_temple.png",
+      "path": "nano-banana-icons/individual/badami_cave_temple.png"
+    },
+    {
+      "id": "badami_mango",
+      "title": "Badami Mango",
+      "filename": "badami_mango.png",
+      "path": "nano-banana-icons/individual/badami_mango.png"
+    },
+    {
+      "id": "bahmani_silver_tanka_calligraphy",
+      "title": "Bahmani Silver Tanka Calligraphy",
+      "filename": "bahmani_silver_tanka_calligraphy.png",
+      "path": "nano-banana-icons/individual/bahmani_silver_tanka_calligraphy.png"
+    },
+    {
+      "id": "bamboo_shoot_kanile_curry",
+      "title": "Bamboo Shoot Kanile Curry",
+      "filename": "bamboo_shoot_kanile_curry.png",
+      "path": "nano-banana-icons/individual/bamboo_shoot_kanile_curry.png"
+    },
+    {
+      "id": "bandipur_elephant_crossing_sign",
+      "title": "Bandipur Elephant Crossing Sign",
+      "filename": "bandipur_elephant_crossing_sign.png",
+      "path": "nano-banana-icons/individual/bandipur_elephant_crossing_sign.png"
+    },
+    {
+      "id": "bangalore_auto_meter",
+      "title": "Bangalore Auto Meter",
+      "filename": "bangalore_auto_meter.png",
+      "path": "nano-banana-icons/individual/bangalore_auto_meter.png"
+    },
+    {
+      "id": "bangalore_auto_rickshaw",
+      "title": "Bangalore Auto Rickshaw",
+      "filename": "bangalore_auto_rickshaw.png",
+      "path": "nano-banana-icons/individual/bangalore_auto_rickshaw.png"
+    },
+    {
+      "id": "bangalore_karaga",
+      "title": "Bangalore Karaga",
+      "filename": "bangalore_karaga.png",
+      "path": "nano-banana-icons/individual/bangalore_karaga.png"
+    },
+    {
+      "id": "bangalore_palace_tudor",
+      "title": "Bangalore Palace Tudor",
+      "filename": "bangalore_palace_tudor.png",
+      "path": "nano-banana-icons/individual/bangalore_palace_tudor.png"
+    },
+    {
+      "id": "bangalore_vidhana_soudha",
+      "title": "Bangalore Vidhana Soudha",
+      "filename": "bangalore_vidhana_soudha.png",
+      "path": "nano-banana-icons/individual/bangalore_vidhana_soudha.png"
+    },
+    {
+      "id": "bangude_mackerel_fish",
+      "title": "Bangude Mackerel Fish",
+      "filename": "bangude_mackerel_fish.png",
+      "path": "nano-banana-icons/individual/bangude_mackerel_fish.png"
+    },
+    {
+      "id": "bar_headed_goose",
+      "title": "Bar Headed Goose",
+      "filename": "bar_headed_goose.png",
+      "path": "nano-banana-icons/individual/bar_headed_goose.png"
+    },
+    {
+      "id": "barkur_stone_pavilion_ruins",
+      "title": "Barkur Stone Pavilion Ruins",
+      "filename": "barkur_stone_pavilion_ruins.png",
+      "path": "nano-banana-icons/individual/barkur_stone_pavilion_ruins.png"
+    },
+    {
+      "id": "basavakalyana_fort_ramparts",
+      "title": "Basavakalyana Fort Ramparts",
+      "filename": "basavakalyana_fort_ramparts.png",
+      "path": "nano-banana-icons/individual/basavakalyana_fort_ramparts.png"
+    },
+    {
+      "id": "basavanna_kayakave_kailasa",
+      "title": "Basavanna Kayakave Kailasa",
+      "filename": "basavanna_kayakave_kailasa.png",
+      "path": "nano-banana-icons/individual/basavanna_kayakave_kailasa.png"
+    },
+    {
+      "id": "beach_sailing_doni_canoe",
+      "title": "Beach Sailing Doni Canoe",
+      "filename": "beach_sailing_doni_canoe.png",
+      "path": "nano-banana-icons/individual/beach_sailing_doni_canoe.png"
+    },
+    {
+      "id": "beesuva_kallu_grinder",
+      "title": "Beesuva Kallu Grinder",
+      "filename": "beesuva_kallu_grinder.png",
+      "path": "nano-banana-icons/individual/beesuva_kallu_grinder.png"
+    },
+    {
+      "id": "belagavi_kunda",
+      "title": "Belagavi Kunda",
+      "filename": "belagavi_kunda.png",
+      "path": "nano-banana-icons/individual/belagavi_kunda.png"
+    },
+    {
+      "id": "bele_obbattu_holige_ghee",
+      "title": "Bele Obbattu Holige Ghee",
+      "filename": "bele_obbattu_holige_ghee.png",
+      "path": "nano-banana-icons/individual/bele_obbattu_holige_ghee.png"
+    },
+    {
+      "id": "bellary_rock_fort",
+      "title": "Bellary Rock Fort",
+      "filename": "bellary_rock_fort.png",
+      "path": "nano-banana-icons/individual/bellary_rock_fort.png"
+    },
+    {
+      "id": "belur_chennakeshava_temple",
+      "title": "Belur Chennakeshava Temple",
+      "filename": "belur_chennakeshava_temple.png",
+      "path": "nano-banana-icons/individual/belur_chennakeshava_temple.png"
+    },
+    {
+      "id": "belur_pedestal_inscription",
+      "title": "Belur Pedestal Inscription",
+      "filename": "belur_pedestal_inscription.png",
+      "path": "nano-banana-icons/individual/belur_pedestal_inscription.png"
+    },
+    {
+      "id": "bengaluru_tech_desk_laptop",
+      "title": "Bengaluru Tech Desk Laptop",
+      "filename": "bengaluru_tech_desk_laptop.png",
+      "path": "nano-banana-icons/individual/bengaluru_tech_desk_laptop.png"
+    },
+    {
+      "id": "besan_laddoo_pistachio",
+      "title": "Besan Laddoo Pistachio",
+      "filename": "besan_laddoo_pistachio.png",
+      "path": "nano-banana-icons/individual/besan_laddoo_pistachio.png"
+    },
+    {
+      "id": "bhadra_tiger_paw_pugmark",
+      "title": "Bhadra Tiger Paw Pugmark",
+      "filename": "bhadra_tiger_paw_pugmark.png",
+      "path": "nano-banana-icons/individual/bhadra_tiger_paw_pugmark.png"
+    },
+    {
+      "id": "bhakta_kanakadasa",
+      "title": "Bhakta Kanakadasa",
+      "filename": "bhakta_kanakadasa.png",
+      "path": "nano-banana-icons/individual/bhakta_kanakadasa.png"
+    },
+    {
+      "id": "bharachukki_falls_horseshoe",
+      "title": "Bharachukki Falls Horseshoe",
+      "filename": "bharachukki_falls_horseshoe.png",
+      "path": "nano-banana-icons/individual/bharachukki_falls_horseshoe.png"
+    },
+    {
+      "id": "bhatkal_lighthouse_cliff",
+      "title": "Bhatkal Lighthouse Cliff",
+      "filename": "bhatkal_lighthouse_cliff.png",
+      "path": "nano-banana-icons/individual/bhatkal_lighthouse_cliff.png"
+    },
+    {
+      "id": "bhoota_kola_frond_aani",
+      "title": "Bhoota Kola Frond Aani",
+      "filename": "bhoota_kola_frond_aani.png",
+      "path": "nano-banana-icons/individual/bhoota_kola_frond_aani.png"
+    },
+    {
+      "id": "bhoota_kola_mask",
+      "title": "Bhoota Kola Mask",
+      "filename": "bhoota_kola_mask.png",
+      "path": "nano-banana-icons/individual/bhoota_kola_mask.png"
+    },
+    {
+      "id": "bidar_fort_gate",
+      "title": "Bidar Fort Gate",
+      "filename": "bidar_fort_gate.png",
+      "path": "nano-banana-icons/individual/bidar_fort_gate.png"
+    },
+    {
+      "id": "bidriware_silver_vase",
+      "title": "Bidriware Silver Vase",
+      "filename": "bidriware_silver_vase.png",
+      "path": "nano-banana-icons/individual/bidriware_silver_vase.png"
+    },
+    {
+      "id": "bisi_bele_bath",
+      "title": "Bisi Bele Bath",
+      "filename": "bisi_bele_bath.png",
+      "path": "nano-banana-icons/individual/bisi_bele_bath.png"
+    },
+    {
+      "id": "bisi_bele_bath_boondi",
+      "title": "Bisi Bele Bath Boondi",
+      "filename": "bisi_bele_bath_boondi.png",
+      "path": "nano-banana-icons/individual/bisi_bele_bath_boondi.png"
+    },
+    {
+      "id": "blackbuck_antelope",
+      "title": "Blackbuck Antelope",
+      "filename": "blackbuck_antelope.png",
+      "path": "nano-banana-icons/individual/blackbuck_antelope.png"
+    },
+    {
+      "id": "blue_flag_beach",
+      "title": "Blue Flag Beach",
+      "filename": "blue_flag_beach.png",
+      "path": "nano-banana-icons/individual/blue_flag_beach.png"
+    },
+    {
+      "id": "bmtc_electric_bus",
+      "title": "Bmtc Electric Bus",
+      "filename": "bmtc_electric_bus.png",
+      "path": "nano-banana-icons/individual/bmtc_electric_bus.png"
+    },
+    {
+      "id": "boondi_laddoo_golden",
+      "title": "Boondi Laddoo Golden",
+      "filename": "boondi_laddoo_golden.png",
+      "path": "nano-banana-icons/individual/boondi_laddoo_golden.png"
+    },
+    {
+      "id": "brahmagiri_coffee_blossom",
+      "title": "Brahmagiri Coffee Blossom",
+      "filename": "brahmagiri_coffee_blossom.png",
+      "path": "nano-banana-icons/individual/brahmagiri_coffee_blossom.png"
+    },
+    {
+      "id": "brahminy_kite",
+      "title": "Brahminy Kite",
+      "filename": "brahminy_kite.png",
+      "path": "nano-banana-icons/individual/brahminy_kite.png"
+    },
+    {
+      "id": "brass_arati_deepa",
+      "title": "Brass Arati Deepa",
+      "filename": "brass_arati_deepa.png",
+      "path": "nano-banana-icons/individual/brass_arati_deepa.png"
+    },
+    {
+      "id": "brass_gejje_ankle_bells",
+      "title": "Brass Gejje Ankle Bells",
+      "filename": "brass_gejje_ankle_bells.png",
+      "path": "nano-banana-icons/individual/brass_gejje_ankle_bells.png"
+    },
+    {
+      "id": "brass_milk_can",
+      "title": "Brass Milk Can",
+      "filename": "brass_milk_can.png",
+      "path": "nano-banana-icons/individual/brass_milk_can.png"
+    },
+    {
+      "id": "bronze_nataraja",
+      "title": "Bronze Nataraja",
+      "filename": "bronze_nataraja.png",
+      "path": "nano-banana-icons/individual/bronze_nataraja.png"
+    },
+    {
+      "id": "bronze_thali_katoris",
+      "title": "Bronze Thali Katoris",
+      "filename": "bronze_thali_katoris.png",
+      "path": "nano-banana-icons/individual/bronze_thali_katoris.png"
+    },
+    {
+      "id": "buguri_spinning_top",
+      "title": "Buguri Spinning Top",
+      "filename": "buguri_spinning_top.png",
+      "path": "nano-banana-icons/individual/buguri_spinning_top.png"
+    },
+    {
+      "id": "bullock_cart",
+      "title": "Bullock Cart",
+      "filename": "bullock_cart.png",
+      "path": "nano-banana-icons/individual/bullock_cart.png"
+    },
+    {
+      "id": "byadagi_red_chili",
+      "title": "Byadagi Red Chili",
+      "filename": "byadagi_red_chili.png",
+      "path": "nano-banana-icons/individual/byadagi_red_chili.png"
+    },
+    {
+      "id": "cane_fish_trap_koodu",
+      "title": "Cane Fish Trap Koodu",
+      "filename": "cane_fish_trap_koodu.png",
+      "path": "nano-banana-icons/individual/cane_fish_trap_koodu.png"
+    },
+    {
+      "id": "carnatic_mridangam",
+      "title": "Carnatic Mridangam",
+      "filename": "carnatic_mridangam.png",
+      "path": "nano-banana-icons/individual/carnatic_mridangam.png"
+    },
+    {
+      "id": "carnatic_veena",
+      "title": "Carnatic Veena",
+      "filename": "carnatic_veena.png",
+      "path": "nano-banana-icons/individual/carnatic_veena.png"
+    },
+    {
+      "id": "carnatic_violin",
+      "title": "Carnatic Violin",
+      "filename": "carnatic_violin.png",
+      "path": "nano-banana-icons/individual/carnatic_violin.png"
+    },
+    {
+      "id": "cashew_apple_nut",
+      "title": "Cashew Apple Nut",
+      "filename": "cashew_apple_nut.png",
+      "path": "nano-banana-icons/individual/cashew_apple_nut.png"
+    },
+    {
+      "id": "chakkuli_murukku",
+      "title": "Chakkuli Murukku",
+      "filename": "chakkuli_murukku.png",
+      "path": "nano-banana-icons/individual/chakkuli_murukku.png"
+    },
+    {
+      "id": "chalukya_varaha",
+      "title": "Chalukya Varaha",
+      "filename": "chalukya_varaha.png",
+      "path": "nano-banana-icons/individual/chalukya_varaha.png"
+    },
+    {
+      "id": "chalukya_varaha_boar_coin",
+      "title": "Chalukya Varaha Boar Coin",
+      "filename": "chalukya_varaha_boar_coin.png",
+      "path": "nano-banana-icons/individual/chalukya_varaha_boar_coin.png"
+    },
+    {
+      "id": "chamundeshwari_golden_idol",
+      "title": "Chamundeshwari Golden Idol",
+      "filename": "chamundeshwari_golden_idol.png",
+      "path": "nano-banana-icons/individual/chamundeshwari_golden_idol.png"
+    },
+    {
+      "id": "chandra_silver_moon_mask",
+      "title": "Chandra Silver Moon Mask",
+      "filename": "chandra_silver_moon_mask.png",
+      "path": "nano-banana-icons/individual/chandra_silver_moon_mask.png"
+    },
+    {
+      "id": "chandra_surya_hair_jewels",
+      "title": "Chandra Surya Hair Jewels",
+      "filename": "chandra_surya_hair_jewels.png",
+      "path": "nano-banana-icons/individual/chandra_surya_hair_jewels.png"
+    },
+    {
+      "id": "chandrayaan_moon_lander",
+      "title": "Chandrayaan Moon Lander",
+      "filename": "chandrayaan_moon_lander.png",
+      "path": "nano-banana-icons/individual/chandrayaan_moon_lander.png"
+    },
+    {
+      "id": "channapatna_rattle_toy",
+      "title": "Channapatna Rattle Toy",
+      "filename": "channapatna_rattle_toy.png",
+      "path": "nano-banana-icons/individual/channapatna_rattle_toy.png"
+    },
+    {
+      "id": "channapatna_wooden_horse",
+      "title": "Channapatna Wooden Horse",
+      "filename": "channapatna_wooden_horse.png",
+      "path": "nano-banana-icons/individual/channapatna_wooden_horse.png"
+    },
+    {
+      "id": "chenne_mane_mancala",
+      "title": "Chenne Mane Mancala",
+      "filename": "chenne_mane_mancala.png",
+      "path": "nano-banana-icons/individual/chenne_mane_mancala.png"
+    },
+    {
+      "id": "chinnaswamy_stadium",
+      "title": "Chinnaswamy Stadium",
+      "filename": "chinnaswamy_stadium.png",
+      "path": "nano-banana-icons/individual/chinnaswamy_stadium.png"
+    },
+    {
+      "id": "chipla_hand_clappers",
+      "title": "Chipla Hand Clappers",
+      "filename": "chipla_hand_clappers.png",
+      "path": "nano-banana-icons/individual/chipla_hand_clappers.png"
+    },
+    {
+      "id": "chirava_mane_coconut_scraper",
+      "title": "Chirava Mane Coconut Scraper",
+      "filename": "chirava_mane_coconut_scraper.png",
+      "path": "nano-banana-icons/individual/chirava_mane_coconut_scraper.png"
+    },
+    {
+      "id": "chiroti_badam_milk",
+      "title": "Chiroti Badam Milk",
+      "filename": "chiroti_badam_milk.png",
+      "path": "nano-banana-icons/individual/chiroti_badam_milk.png"
+    },
+    {
+      "id": "chitradurga_stone_fort",
+      "title": "Chitradurga Stone Fort",
+      "filename": "chitradurga_stone_fort.png",
+      "path": "nano-banana-icons/individual/chitradurga_stone_fort.png"
+    },
+    {
+      "id": "chow_chow_bath_dual_combo",
+      "title": "Chow Chow Bath Dual Combo",
+      "filename": "chow_chow_bath_dual_combo.png",
+      "path": "nano-banana-icons/individual/chow_chow_bath_dual_combo.png"
+    },
+    {
+      "id": "chowka_bara_game",
+      "title": "Chowka Bara Game",
+      "filename": "chowka_bara_game.png",
+      "path": "nano-banana-icons/individual/chowka_bara_game.png"
+    },
+    {
+      "id": "coastal_beach_crab",
+      "title": "Coastal Beach Crab",
+      "filename": "coastal_beach_crab.png",
+      "path": "nano-banana-icons/individual/coastal_beach_crab.png"
+    },
+    {
+      "id": "coconut_breaking_ritual",
+      "title": "Coconut Breaking Ritual",
+      "filename": "coconut_breaking_ritual.png",
+      "path": "nano-banana-icons/individual/coconut_breaking_ritual.png"
+    },
+    {
+      "id": "coconut_palm_frond",
+      "title": "Coconut Palm Frond",
+      "filename": "coconut_palm_frond.png",
+      "path": "nano-banana-icons/individual/coconut_palm_frond.png"
+    },
+    {
+      "id": "coir_fishing_net",
+      "title": "Coir Fishing Net",
+      "filename": "coir_fishing_net.png",
+      "path": "nano-banana-icons/individual/coir_fishing_net.png"
+    },
+    {
+      "id": "coir_rope_iron_anchor",
+      "title": "Coir Rope Iron Anchor",
+      "filename": "coir_rope_iron_anchor.png",
+      "path": "nano-banana-icons/individual/coir_rope_iron_anchor.png"
+    },
+    {
+      "id": "commercial_street_shopping",
+      "title": "Commercial Street Shopping",
+      "filename": "commercial_street_shopping.png",
+      "path": "nano-banana-icons/individual/commercial_street_shopping.png"
+    },
+    {
+      "id": "congress_kadlekai",
+      "title": "Congress Kadlekai",
+      "filename": "congress_kadlekai.png",
+      "path": "nano-banana-icons/individual/congress_kadlekai.png"
+    },
+    {
+      "id": "coorg_coffee_berries",
+      "title": "Coorg Coffee Berries",
+      "filename": "coorg_coffee_berries.png",
+      "path": "nano-banana-icons/individual/coorg_coffee_berries.png"
+    },
+    {
+      "id": "coorg_mandarin_orange",
+      "title": "Coorg Mandarin Orange",
+      "filename": "coorg_mandarin_orange.png",
+      "path": "nano-banana-icons/individual/coorg_mandarin_orange.png"
+    },
+    {
+      "id": "coorg_pandi_curry",
+      "title": "Coorg Pandi Curry",
+      "filename": "coorg_pandi_curry.png",
+      "path": "nano-banana-icons/individual/coorg_pandi_curry.png"
+    },
+    {
+      "id": "crisp_badam_puri_powdered",
+      "title": "Crisp Badam Puri Powdered",
+      "filename": "crisp_badam_puri_powdered.png",
+      "path": "nano-banana-icons/individual/crisp_badam_puri_powdered.png"
+    },
+    {
+      "id": "cubbon_park_library",
+      "title": "Cubbon Park Library",
+      "filename": "cubbon_park_library.png",
+      "path": "nano-banana-icons/individual/cubbon_park_library.png"
+    },
+    {
+      "id": "curd_rice_pomegranate_mosranna",
+      "title": "Curd Rice Pomegranate Mosranna",
+      "filename": "curd_rice_pomegranate_mosranna.png",
+      "path": "nano-banana-icons/individual/curd_rice_pomegranate_mosranna.png"
+    },
+    {
+      "id": "daabu_gold_waist_belt",
+      "title": "Daabu Gold Waist Belt",
+      "filename": "daabu_gold_waist_belt.png",
+      "path": "nano-banana-icons/individual/daabu_gold_waist_belt.png"
+    },
+    {
+      "id": "dandeli_kali_river_rafting",
+      "title": "Dandeli Kali River Rafting",
+      "filename": "dandeli_kali_river_rafting.png",
+      "path": "nano-banana-icons/individual/dandeli_kali_river_rafting.png"
+    },
+    {
+      "id": "daroji_sloth_bear_rocks",
+      "title": "Daroji Sloth Bear Rocks",
+      "filename": "daroji_sloth_bear_rocks.png",
+      "path": "nano-banana-icons/individual/daroji_sloth_bear_rocks.png"
+    },
+    {
+      "id": "dasara_gombe_habba",
+      "title": "Dasara Gombe Habba",
+      "filename": "dasara_gombe_habba.png",
+      "path": "nano-banana-icons/individual/dasara_gombe_habba.png"
+    },
+    {
+      "id": "davangere_benne_dosa",
+      "title": "Davangere Benne Dosa",
+      "filename": "davangere_benne_dosa.png",
+      "path": "nano-banana-icons/individual/davangere_benne_dosa.png"
+    },
+    {
+      "id": "deep_space_network_antenna",
+      "title": "Deep Space Network Antenna",
+      "filename": "deep_space_network_antenna.png",
+      "path": "nano-banana-icons/individual/deep_space_network_antenna.png"
+    },
+    {
+      "id": "deepavali_deepa_sparkler",
+      "title": "Deepavali Deepa Sparkler",
+      "filename": "deepavali_deepa_sparkler.png",
+      "path": "nano-banana-icons/individual/deepavali_deepa_sparkler.png"
+    },
+    {
+      "id": "devbagh_beach_watchtower",
+      "title": "Devbagh Beach Watchtower",
+      "filename": "devbagh_beach_watchtower.png",
+      "path": "nano-banana-icons/individual/devbagh_beach_watchtower.png"
+    },
+    {
+      "id": "dharwad_peda",
+      "title": "Dharwad Peda",
+      "filename": "dharwad_peda.png",
+      "path": "nano-banana-icons/individual/dharwad_peda.png"
+    },
+    {
+      "id": "dharwad_peda_sugar_crystals",
+      "title": "Dharwad Peda Sugar Crystals",
+      "filename": "dharwad_peda_sugar_crystals.png",
+      "path": "nano-banana-icons/individual/dharwad_peda_sugar_crystals.png"
+    },
+    {
+      "id": "dodda_alada_mara_banyan",
+      "title": "Dodda Alada Mara Banyan",
+      "filename": "dodda_alada_mara_banyan.png",
+      "path": "nano-banana-icons/individual/dodda_alada_mara_banyan.png"
+    },
+    {
+      "id": "dollu_kunitha_barrel_drum",
+      "title": "Dollu Kunitha Barrel Drum",
+      "filename": "dollu_kunitha_barrel_drum.png",
+      "path": "nano-banana-icons/individual/dollu_kunitha_barrel_drum.png"
+    },
+    {
+      "id": "dollu_kunitha_drum",
+      "title": "Dollu Kunitha Drum",
+      "filename": "dollu_kunitha_drum.png",
+      "path": "nano-banana-icons/individual/dollu_kunitha_drum.png"
+    },
+    {
+      "id": "dr_rajkumar_portrait",
+      "title": "Dr Rajkumar Portrait",
+      "filename": "dr_rajkumar_portrait.png",
+      "path": "nano-banana-icons/individual/dr_rajkumar_portrait.png"
+    },
+    {
+      "id": "dr_shivaram_karanth",
+      "title": "Dr Shivaram Karanth",
+      "filename": "dr_shivaram_karanth.png",
+      "path": "nano-banana-icons/individual/dr_shivaram_karanth.png"
+    },
+    {
+      "id": "dubare_baby_elephant_bath",
+      "title": "Dubare Baby Elephant Bath",
+      "filename": "dubare_baby_elephant_bath.png",
+      "path": "nano-banana-icons/individual/dubare_baby_elephant_bath.png"
+    },
+    {
+      "id": "dumroot_ash_gourd_halwa",
+      "title": "Dumroot Ash Gourd Halwa",
+      "filename": "dumroot_ash_gourd_halwa.png",
+      "path": "nano-banana-icons/individual/dumroot_ash_gourd_halwa.png"
+    },
+    {
+      "id": "electronic_city_elevated_expressway",
+      "title": "Electronic City Elevated Expressway",
+      "filename": "electronic_city_elevated_expressway.png",
+      "path": "nano-banana-icons/individual/electronic_city_elevated_expressway.png"
+    },
+    {
+      "id": "electronic_shruti_box",
+      "title": "Electronic Shruti Box",
+      "filename": "electronic_shruti_box.png",
+      "path": "nano-banana-icons/individual/electronic_shruti_box.png"
+    },
+    {
+      "id": "emerald_dove",
+      "title": "Emerald Dove",
+      "filename": "emerald_dove.png",
+      "path": "nano-banana-icons/individual/emerald_dove.png"
+    },
+    {
+      "id": "emerald_pearl_haara",
+      "title": "Emerald Pearl Haara",
+      "filename": "emerald_pearl_haara.png",
+      "path": "nano-banana-icons/individual/emerald_pearl_haara.png"
+    },
+    {
+      "id": "field_marshal_cariappa",
+      "title": "Field Marshal Cariappa",
+      "filename": "field_marshal_cariappa.png",
+      "path": "nano-banana-icons/individual/field_marshal_cariappa.png"
+    },
+    {
+      "id": "filter_coffee_tumbler",
+      "title": "Filter Coffee Tumbler",
+      "filename": "filter_coffee_tumbler.png",
+      "path": "nano-banana-icons/individual/filter_coffee_tumbler.png"
+    },
+    {
+      "id": "gaganachukki_falls_twin",
+      "title": "Gaganachukki Falls Twin",
+      "filename": "gaganachukki_falls_twin.png",
+      "path": "nano-banana-icons/individual/gaganachukki_falls_twin.png"
+    },
+    {
+      "id": "gandaberunda_emblem",
+      "title": "Gandaberunda Emblem",
+      "filename": "gandaberunda_emblem.png",
+      "path": "nano-banana-icons/individual/gandaberunda_emblem.png"
+    },
+    {
+      "id": "gandhada_gudi_badge",
+      "title": "Gandhada Gudi Badge",
+      "filename": "gandhada_gudi_badge.png",
+      "path": "nano-banana-icons/individual/gandhada_gudi_badge.png"
+    },
+    {
+      "id": "garuda_kneeling_winged_guardian",
+      "title": "Garuda Kneeling Winged Guardian",
+      "filename": "garuda_kneeling_winged_guardian.png",
+      "path": "nano-banana-icons/individual/garuda_kneeling_winged_guardian.png"
+    },
+    {
+      "id": "gasagase_payasa_silver_cup",
+      "title": "Gasagase Payasa Silver Cup",
+      "filename": "gasagase_payasa_silver_cup.png",
+      "path": "nano-banana-icons/individual/gasagase_payasa_silver_cup.png"
+    },
+    {
+      "id": "ghatam_clay_pot",
+      "title": "Ghatam Clay Pot",
+      "filename": "ghatam_clay_pot.png",
+      "path": "nano-banana-icons/individual/ghatam_clay_pot.png"
+    },
+    {
+      "id": "gilli_danda_wooden",
+      "title": "Gilli Danda Wooden",
+      "filename": "gilli_danda_wooden.png",
+      "path": "nano-banana-icons/individual/gilli_danda_wooden.png"
+    },
+    {
+      "id": "girmit_snack",
+      "title": "Girmit Snack",
+      "filename": "girmit_snack.png",
+      "path": "nano-banana-icons/individual/girmit_snack.png"
+    },
+    {
+      "id": "godhi_huggi_broken_wheat",
+      "title": "Godhi Huggi Broken Wheat",
+      "filename": "godhi_huggi_broken_wheat.png",
+      "path": "nano-banana-icons/individual/godhi_huggi_broken_wheat.png"
+    },
+    {
+      "id": "gokak_karadantu",
+      "title": "Gokak Karadantu",
+      "filename": "gokak_karadantu.png",
+      "path": "nano-banana-icons/individual/gokak_karadantu.png"
+    },
+    {
+      "id": "gokarna_koti_tirtha_pond",
+      "title": "Gokarna Koti Tirtha Pond",
+      "filename": "gokarna_koti_tirtha_pond.png",
+      "path": "nano-banana-icons/individual/gokarna_koti_tirtha_pond.png"
+    },
+    {
+      "id": "gokarna_om_beach",
+      "title": "Gokarna Om Beach",
+      "filename": "gokarna_om_beach.png",
+      "path": "nano-banana-icons/individual/gokarna_om_beach.png"
+    },
+    {
+      "id": "gol_gumbaz",
+      "title": "Gol Gumbaz",
+      "filename": "gol_gumbaz.png",
+      "path": "nano-banana-icons/individual/gol_gumbaz.png"
+    },
+    {
+      "id": "gol_gumbaz_whispering_dome",
+      "title": "Gol Gumbaz Whispering Dome",
+      "filename": "gol_gumbaz_whispering_dome.png",
+      "path": "nano-banana-icons/individual/gol_gumbaz_whispering_dome.png"
+    },
+    {
+      "id": "golden_temple_pallaki",
+      "title": "Golden Temple Pallaki",
+      "filename": "golden_temple_pallaki.png",
+      "path": "nano-banana-icons/individual/golden_temple_pallaki.png"
+    },
+    {
+      "id": "goli_baje_fritters",
+      "title": "Goli Baje Fritters",
+      "filename": "goli_baje_fritters.png",
+      "path": "nano-banana-icons/individual/goli_baje_fritters.png"
+    },
+    {
+      "id": "goravara_kunitha_bear",
+      "title": "Goravara Kunitha Bear",
+      "filename": "goravara_kunitha_bear.png",
+      "path": "nano-banana-icons/individual/goravara_kunitha_bear.png"
+    },
+    {
+      "id": "goravara_kunitha_bearskin",
+      "title": "Goravara Kunitha Bearskin",
+      "filename": "goravara_kunitha_bearskin.png",
+      "path": "nano-banana-icons/individual/goravara_kunitha_bearskin.png"
+    },
+    {
+      "id": "goti_glass_marbles",
+      "title": "Goti Glass Marbles",
+      "filename": "goti_glass_marbles.png",
+      "path": "nano-banana-icons/individual/goti_glass_marbles.png"
+    },
+    {
+      "id": "gowri_ganesha_idol",
+      "title": "Gowri Ganesha Idol",
+      "filename": "gowri_ganesha_idol.png",
+      "path": "nano-banana-icons/individual/gowri_ganesha_idol.png"
+    },
+    {
+      "id": "great_indian_bustard",
+      "title": "Great Indian Bustard",
+      "filename": "great_indian_bustard.png",
+      "path": "nano-banana-icons/individual/great_indian_bustard.png"
+    },
+    {
+      "id": "great_indian_hornbill",
+      "title": "Great Indian Hornbill",
+      "filename": "great_indian_hornbill.png",
+      "path": "nano-banana-icons/individual/great_indian_hornbill.png"
+    },
+    {
+      "id": "green_cardamom_pods",
+      "title": "Green Cardamom Pods",
+      "filename": "green_cardamom_pods.png",
+      "path": "nano-banana-icons/individual/green_cardamom_pods.png"
+    },
+    {
+      "id": "green_ev_charging_station",
+      "title": "Green Ev Charging Station",
+      "filename": "green_ev_charging_station.png",
+      "path": "nano-banana-icons/individual/green_ev_charging_station.png"
+    },
+    {
+      "id": "gulbarga_fort_jami_masjid",
+      "title": "Gulbarga Fort Jami Masjid",
+      "filename": "gulbarga_fort_jami_masjid.png",
+      "path": "nano-banana-icons/individual/gulbarga_fort_jami_masjid.png"
+    },
+    {
+      "id": "guledgudda_khana_fabric",
+      "title": "Guledgudda Khana Fabric",
+      "filename": "guledgudda_khana_fabric.png",
+      "path": "nano-banana-icons/individual/guledgudda_khana_fabric.png"
+    },
+    {
+      "id": "hal_tejas_fighter_jet",
+      "title": "Hal Tejas Fighter Jet",
+      "filename": "hal_tejas_fighter_jet.png",
+      "path": "nano-banana-icons/individual/hal_tejas_fighter_jet.png"
+    },
+    {
+      "id": "halakki_vokkaliga_elder",
+      "title": "Halakki Vokkaliga Elder",
+      "filename": "halakki_vokkaliga_elder.png",
+      "path": "nano-banana-icons/individual/halakki_vokkaliga_elder.png"
+    },
+    {
+      "id": "halasina_hannu_jackfruit",
+      "title": "Halasina Hannu Jackfruit",
+      "filename": "halasina_hannu_jackfruit.png",
+      "path": "nano-banana-icons/individual/halasina_hannu_jackfruit.png"
+    },
+    {
+      "id": "halbai_coconut_milk_fudge",
+      "title": "Halbai Coconut Milk Fudge",
+      "filename": "halbai_coconut_milk_fudge.png",
+      "path": "nano-banana-icons/individual/halbai_coconut_milk_fudge.png"
+    },
+    {
+      "id": "halbai_fudge",
+      "title": "Halbai Fudge",
+      "filename": "halbai_fudge.png",
+      "path": "nano-banana-icons/individual/halbai_fudge.png"
+    },
+    {
+      "id": "halebidu_hoysaleshwara_temple",
+      "title": "Halebidu Hoysaleshwara Temple",
+      "filename": "halebidu_hoysaleshwara_temple.png",
+      "path": "nano-banana-icons/individual/halebidu_hoysaleshwara_temple.png"
+    },
+    {
+      "id": "halmidi_stone_inscription",
+      "title": "Halmidi Stone Inscription",
+      "filename": "halmidi_stone_inscription.png",
+      "path": "nano-banana-icons/individual/halmidi_stone_inscription.png"
+    },
+    {
+      "id": "halmidi_stone_inscription_slab",
+      "title": "Halmidi Stone Inscription Slab",
+      "filename": "halmidi_stone_inscription_slab.png",
+      "path": "nano-banana-icons/individual/halmidi_stone_inscription_slab.png"
+    },
+    {
+      "id": "hampi_stone_chariot",
+      "title": "Hampi Stone Chariot",
+      "filename": "hampi_stone_chariot.png",
+      "path": "nano-banana-icons/individual/hampi_stone_chariot.png"
+    },
+    {
+      "id": "hampi_utsav_chariot",
+      "title": "Hampi Utsav Chariot",
+      "filename": "hampi_utsav_chariot.png",
+      "path": "nano-banana-icons/individual/hampi_utsav_chariot.png"
+    },
+    {
+      "id": "hampi_vijayanagara_chariot",
+      "title": "Hampi Vijayanagara Chariot",
+      "filename": "hampi_vijayanagara_chariot.png",
+      "path": "nano-banana-icons/individual/hampi_vijayanagara_chariot.png"
+    },
+    {
+      "id": "hande_brass_water_pot",
+      "title": "Hande Brass Water Pot",
+      "filename": "hande_brass_water_pot.png",
+      "path": "nano-banana-icons/individual/hande_brass_water_pot.png"
+    },
+    {
+      "id": "haveri_siddheshwara_temple",
+      "title": "Haveri Siddheshwara Temple",
+      "filename": "haveri_siddheshwara_temple.png",
+      "path": "nano-banana-icons/individual/haveri_siddheshwara_temple.png"
+    },
+    {
+      "id": "hayagreeva_chana_jaggery",
+      "title": "Hayagreeva Chana Jaggery",
+      "filename": "hayagreeva_chana_jaggery.png",
+      "path": "nano-banana-icons/individual/hayagreeva_chana_jaggery.png"
+    },
+    {
+      "id": "hebbe_falls_kemmangundi",
+      "title": "Hebbe Falls Kemmangundi",
+      "filename": "hebbe_falls_kemmangundi.png",
+      "path": "nano-banana-icons/individual/hebbe_falls_kemmangundi.png"
+    },
+    {
+      "id": "honne_tree_blossoms",
+      "title": "Honne Tree Blossoms",
+      "filename": "honne_tree_blossoms.png",
+      "path": "nano-banana-icons/individual/honne_tree_blossoms.png"
+    },
+    {
+      "id": "hoysala_sala_slaying_lion",
+      "title": "Hoysala Sala Slaying Lion",
+      "filename": "hoysala_sala_slaying_lion.png",
+      "path": "nano-banana-icons/individual/hoysala_sala_slaying_lion.png"
+    },
+    {
+      "id": "hoysala_sala_tiger",
+      "title": "Hoysala Sala Tiger",
+      "filename": "hoysala_sala_tiger.png",
+      "path": "nano-banana-icons/individual/hoysala_sala_tiger.png"
+    },
+    {
+      "id": "hoysala_sala_tiger_gadyana",
+      "title": "Hoysala Sala Tiger Gadyana",
+      "filename": "hoysala_sala_tiger_gadyana.png",
+      "path": "nano-banana-icons/individual/hoysala_sala_tiger_gadyana.png"
+    },
+    {
+      "id": "ibrahim_rauza_mausoleum",
+      "title": "Ibrahim Rauza Mausoleum",
+      "filename": "ibrahim_rauza_mausoleum.png",
+      "path": "nano-banana-icons/individual/ibrahim_rauza_mausoleum.png"
+    },
+    {
+      "id": "iisc_tower",
+      "title": "Iisc Tower",
+      "filename": "iisc_tower.png",
+      "path": "nano-banana-icons/individual/iisc_tower.png"
+    },
+    {
+      "id": "ilige_mane_cutter",
+      "title": "Ilige Mane Cutter",
+      "filename": "ilige_mane_cutter.png",
+      "path": "nano-banana-icons/individual/ilige_mane_cutter.png"
+    },
+    {
+      "id": "ilkal_saree",
+      "title": "Ilkal Saree",
+      "filename": "ilkal_saree.png",
+      "path": "nano-banana-icons/individual/ilkal_saree.png"
+    },
+    {
+      "id": "ilkal_topi_teni_saree",
+      "title": "Ilkal Topi Teni Saree",
+      "filename": "ilkal_topi_teni_saree.png",
+      "path": "nano-banana-icons/individual/ilkal_topi_teni_saree.png"
+    },
+    {
+      "id": "infosys_glass_pyramid",
+      "title": "Infosys Glass Pyramid",
+      "filename": "infosys_glass_pyramid.png",
+      "path": "nano-banana-icons/individual/infosys_glass_pyramid.png"
+    },
+    {
+      "id": "iruppu_falls_brahmagiri",
+      "title": "Iruppu Falls Brahmagiri",
+      "filename": "iruppu_falls_brahmagiri.png",
+      "path": "nano-banana-icons/individual/iruppu_falls_brahmagiri.png"
+    },
+    {
+      "id": "ishtalinga_pendant",
+      "title": "Ishtalinga Pendant",
+      "filename": "ishtalinga_pendant.png",
+      "path": "nano-banana-icons/individual/ishtalinga_pendant.png"
+    },
+    {
+      "id": "isro_rocket_launch",
+      "title": "Isro Rocket Launch",
+      "filename": "isro_rocket_launch.png",
+      "path": "nano-banana-icons/individual/isro_rocket_launch.png"
+    },
+    {
+      "id": "itagi_mahadeva_temple",
+      "title": "Itagi Mahadeva Temple",
+      "filename": "itagi_mahadeva_temple.png",
+      "path": "nano-banana-icons/individual/itagi_mahadeva_temple.png"
+    },
+    {
+      "id": "jackfruit_happala_papad",
+      "title": "Jackfruit Happala Papad",
+      "filename": "jackfruit_happala_papad.png",
+      "path": "nano-banana-icons/individual/jackfruit_happala_papad.png"
+    },
+    {
+      "id": "jenu_kuruba_honey_basket",
+      "title": "Jenu Kuruba Honey Basket",
+      "filename": "jenu_kuruba_honey_basket.png",
+      "path": "nano-banana-icons/individual/jenu_kuruba_honey_basket.png"
+    },
+    {
+      "id": "jog_falls",
+      "title": "Jog Falls",
+      "filename": "jog_falls.png",
+      "path": "nano-banana-icons/individual/jog_falls.png"
+    },
+    {
+      "id": "jog_falls_four_cascades",
+      "title": "Jog Falls Four Cascades",
+      "filename": "jog_falls_four_cascades.png",
+      "path": "nano-banana-icons/individual/jog_falls_four_cascades.png"
+    },
+    {
+      "id": "jolada_rotti",
+      "title": "Jolada Rotti",
+      "filename": "jolada_rotti.png",
+      "path": "nano-banana-icons/individual/jolada_rotti.png"
+    },
+    {
+      "id": "kadaga_lion_bangle",
+      "title": "Kadaga Lion Bangle",
+      "filename": "kadaga_lion_bangle.png",
+      "path": "nano-banana-icons/individual/kadaga_lion_bangle.png"
+    },
+    {
+      "id": "kadamba_gold_shield",
+      "title": "Kadamba Gold Shield",
+      "filename": "kadamba_gold_shield.png",
+      "path": "nano-banana-icons/individual/kadamba_gold_shield.png"
+    },
+    {
+      "id": "kadamba_lion",
+      "title": "Kadamba Lion",
+      "filename": "kadamba_lion.png",
+      "path": "nano-banana-icons/individual/kadamba_lion.png"
+    },
+    {
+      "id": "kadamba_padma_tanka_lotus",
+      "title": "Kadamba Padma Tanka Lotus",
+      "filename": "kadamba_padma_tanka_lotus.png",
+      "path": "nano-banana-icons/individual/kadamba_padma_tanka_lotus.png"
+    },
+    {
+      "id": "kadambuttu_rice_balls",
+      "title": "Kadambuttu Rice Balls",
+      "filename": "kadambuttu_rice_balls.png",
+      "path": "nano-banana-icons/individual/kadambuttu_rice_balls.png"
+    },
+    {
+      "id": "kadubu_jackfruit_leaf",
+      "title": "Kadubu Jackfruit Leaf",
+      "filename": "kadubu_jackfruit_leaf.png",
+      "path": "nano-banana-icons/individual/kadubu_jackfruit_leaf.png"
+    },
+    {
+      "id": "kalchatti_soapstone_pot",
+      "title": "Kalchatti Soapstone Pot",
+      "filename": "kalchatti_soapstone_pot.png",
+      "path": "nano-banana-icons/individual/kalchatti_soapstone_pot.png"
+    },
+    {
+      "id": "kalpavriksha_golden_wishing_tree",
+      "title": "Kalpavriksha Golden Wishing Tree",
+      "filename": "kalpavriksha_golden_wishing_tree.png",
+      "path": "nano-banana-icons/individual/kalpavriksha_golden_wishing_tree.png"
+    },
+    {
+      "id": "kalu_kuttani_mortar_pestle",
+      "title": "Kalu Kuttani Mortar Pestle",
+      "filename": "kalu_kuttani_mortar_pestle.png",
+      "path": "nano-banana-icons/individual/kalu_kuttani_mortar_pestle.png"
+    },
+    {
+      "id": "kamadhenu_sacred_cow_calf",
+      "title": "Kamadhenu Sacred Cow Calf",
+      "filename": "kamadhenu_sacred_cow_calf.png",
+      "path": "nano-banana-icons/individual/kamadhenu_sacred_cow_calf.png"
+    },
+    {
+      "id": "kambala_racing_buffalo",
+      "title": "Kambala Racing Buffalo",
+      "filename": "kambala_racing_buffalo.png",
+      "path": "nano-banana-icons/individual/kambala_racing_buffalo.png"
+    },
+    {
+      "id": "kamsale_brass_cymbals",
+      "title": "Kamsale Brass Cymbals",
+      "filename": "kamsale_brass_cymbals.png",
+      "path": "nano-banana-icons/individual/kamsale_brass_cymbals.png"
+    },
+    {
+      "id": "kamsale_bronze_cymbals",
+      "title": "Kamsale Bronze Cymbals",
+      "filename": "kamsale_bronze_cymbals.png",
+      "path": "nano-banana-icons/individual/kamsale_bronze_cymbals.png"
+    },
+    {
+      "id": "kanaja_grain_silo",
+      "title": "Kanaja Grain Silo",
+      "filename": "kanaja_grain_silo.png",
+      "path": "nano-banana-icons/individual/kanaja_grain_silo.png"
+    },
+    {
+      "id": "kanakana_kindi_window",
+      "title": "Kanakana Kindi Window",
+      "filename": "kanakana_kindi_window.png",
+      "path": "nano-banana-icons/individual/kanakana_kindi_window.png"
+    },
+    {
+      "id": "kane_ladyfish_fry",
+      "title": "Kane Ladyfish Fry",
+      "filename": "kane_ladyfish_fry.png",
+      "path": "nano-banana-icons/individual/kane_ladyfish_fry.png"
+    },
+    {
+      "id": "kannada_conjunct_jnya",
+      "title": "Kannada Conjunct Jnya",
+      "filename": "kannada_conjunct_jnya.png",
+      "path": "nano-banana-icons/individual/kannada_conjunct_jnya.png"
+    },
+    {
+      "id": "kannada_conjunct_shra",
+      "title": "Kannada Conjunct Shra",
+      "filename": "kannada_conjunct_shra.png",
+      "path": "nano-banana-icons/individual/kannada_conjunct_shra.png"
+    },
+    {
+      "id": "kannada_conjunct_tra",
+      "title": "Kannada Conjunct Tra",
+      "filename": "kannada_conjunct_tra.png",
+      "path": "nano-banana-icons/individual/kannada_conjunct_tra.png"
+    },
+    {
+      "id": "kannada_letter_a",
+      "title": "Kannada Letter A",
+      "filename": "kannada_letter_a.png",
+      "path": "nano-banana-icons/individual/kannada_letter_a.png"
+    },
+    {
+      "id": "kannada_letter_aa",
+      "title": "Kannada Letter Aa",
+      "filename": "kannada_letter_aa.png",
+      "path": "nano-banana-icons/individual/kannada_letter_aa.png"
+    },
+    {
+      "id": "kannada_letter_ae",
+      "title": "Kannada Letter Ae",
+      "filename": "kannada_letter_ae.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ae.png"
+    },
+    {
+      "id": "kannada_letter_aha",
+      "title": "Kannada Letter Aha",
+      "filename": "kannada_letter_aha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_aha.png"
+    },
+    {
+      "id": "kannada_letter_ai",
+      "title": "Kannada Letter Ai",
+      "filename": "kannada_letter_ai.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ai.png"
+    },
+    {
+      "id": "kannada_letter_am",
+      "title": "Kannada Letter Am",
+      "filename": "kannada_letter_am.png",
+      "path": "nano-banana-icons/individual/kannada_letter_am.png"
+    },
+    {
+      "id": "kannada_letter_archaic_rha",
+      "title": "Kannada Letter Archaic Rha",
+      "filename": "kannada_letter_archaic_rha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_archaic_rha.png"
+    },
+    {
+      "id": "kannada_letter_archaic_zha",
+      "title": "Kannada Letter Archaic Zha",
+      "filename": "kannada_letter_archaic_zha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_archaic_zha.png"
+    },
+    {
+      "id": "kannada_letter_au",
+      "title": "Kannada Letter Au",
+      "filename": "kannada_letter_au.png",
+      "path": "nano-banana-icons/individual/kannada_letter_au.png"
+    },
+    {
+      "id": "kannada_letter_ba",
+      "title": "Kannada Letter Ba",
+      "filename": "kannada_letter_ba.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ba.png"
+    },
+    {
+      "id": "kannada_letter_bha",
+      "title": "Kannada Letter Bha",
+      "filename": "kannada_letter_bha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_bha.png"
+    },
+    {
+      "id": "kannada_letter_cha",
+      "title": "Kannada Letter Cha",
+      "filename": "kannada_letter_cha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_cha.png"
+    },
+    {
+      "id": "kannada_letter_chha",
+      "title": "Kannada Letter Chha",
+      "filename": "kannada_letter_chha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_chha.png"
+    },
+    {
+      "id": "kannada_letter_da",
+      "title": "Kannada Letter Da",
+      "filename": "kannada_letter_da.png",
+      "path": "nano-banana-icons/individual/kannada_letter_da.png"
+    },
+    {
+      "id": "kannada_letter_dental_da",
+      "title": "Kannada Letter Dental Da",
+      "filename": "kannada_letter_dental_da.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dental_da.png"
+    },
+    {
+      "id": "kannada_letter_dental_dha",
+      "title": "Kannada Letter Dental Dha",
+      "filename": "kannada_letter_dental_dha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dental_dha.png"
+    },
+    {
+      "id": "kannada_letter_dental_na",
+      "title": "Kannada Letter Dental Na",
+      "filename": "kannada_letter_dental_na.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dental_na.png"
+    },
+    {
+      "id": "kannada_letter_dental_ta",
+      "title": "Kannada Letter Dental Ta",
+      "filename": "kannada_letter_dental_ta.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dental_ta.png"
+    },
+    {
+      "id": "kannada_letter_dental_tha",
+      "title": "Kannada Letter Dental Tha",
+      "filename": "kannada_letter_dental_tha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dental_tha.png"
+    },
+    {
+      "id": "kannada_letter_dha",
+      "title": "Kannada Letter Dha",
+      "filename": "kannada_letter_dha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_dha.png"
+    },
+    {
+      "id": "kannada_letter_e",
+      "title": "Kannada Letter E",
+      "filename": "kannada_letter_e.png",
+      "path": "nano-banana-icons/individual/kannada_letter_e.png"
+    },
+    {
+      "id": "kannada_letter_ee",
+      "title": "Kannada Letter Ee",
+      "filename": "kannada_letter_ee.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ee.png"
+    },
+    {
+      "id": "kannada_letter_ga",
+      "title": "Kannada Letter Ga",
+      "filename": "kannada_letter_ga.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ga.png"
+    },
+    {
+      "id": "kannada_letter_gha",
+      "title": "Kannada Letter Gha",
+      "filename": "kannada_letter_gha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_gha.png"
+    },
+    {
+      "id": "kannada_letter_ha",
+      "title": "Kannada Letter Ha",
+      "filename": "kannada_letter_ha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ha.png"
+    },
+    {
+      "id": "kannada_letter_i",
+      "title": "Kannada Letter I",
+      "filename": "kannada_letter_i.png",
+      "path": "nano-banana-icons/individual/kannada_letter_i.png"
+    },
+    {
+      "id": "kannada_letter_ja",
+      "title": "Kannada Letter Ja",
+      "filename": "kannada_letter_ja.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ja.png"
+    },
+    {
+      "id": "kannada_letter_jha",
+      "title": "Kannada Letter Jha",
+      "filename": "kannada_letter_jha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_jha.png"
+    },
+    {
+      "id": "kannada_letter_ka",
+      "title": "Kannada Letter Ka",
+      "filename": "kannada_letter_ka.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ka.png"
+    },
+    {
+      "id": "kannada_letter_kha",
+      "title": "Kannada Letter Kha",
+      "filename": "kannada_letter_kha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_kha.png"
+    },
+    {
+      "id": "kannada_letter_la",
+      "title": "Kannada Letter La",
+      "filename": "kannada_letter_la.png",
+      "path": "nano-banana-icons/individual/kannada_letter_la.png"
+    },
+    {
+      "id": "kannada_letter_ma",
+      "title": "Kannada Letter Ma",
+      "filename": "kannada_letter_ma.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ma.png"
+    },
+    {
+      "id": "kannada_letter_na_retroflex",
+      "title": "Kannada Letter Na Retroflex",
+      "filename": "kannada_letter_na_retroflex.png",
+      "path": "nano-banana-icons/individual/kannada_letter_na_retroflex.png"
+    },
+    {
+      "id": "kannada_letter_nga",
+      "title": "Kannada Letter Nga",
+      "filename": "kannada_letter_nga.png",
+      "path": "nano-banana-icons/individual/kannada_letter_nga.png"
+    },
+    {
+      "id": "kannada_letter_nya",
+      "title": "Kannada Letter Nya",
+      "filename": "kannada_letter_nya.png",
+      "path": "nano-banana-icons/individual/kannada_letter_nya.png"
+    },
+    {
+      "id": "kannada_letter_o",
+      "title": "Kannada Letter O",
+      "filename": "kannada_letter_o.png",
+      "path": "nano-banana-icons/individual/kannada_letter_o.png"
+    },
+    {
+      "id": "kannada_letter_oh",
+      "title": "Kannada Letter Oh",
+      "filename": "kannada_letter_oh.png",
+      "path": "nano-banana-icons/individual/kannada_letter_oh.png"
+    },
+    {
+      "id": "kannada_letter_oo",
+      "title": "Kannada Letter Oo",
+      "filename": "kannada_letter_oo.png",
+      "path": "nano-banana-icons/individual/kannada_letter_oo.png"
+    },
+    {
+      "id": "kannada_letter_pa",
+      "title": "Kannada Letter Pa",
+      "filename": "kannada_letter_pa.png",
+      "path": "nano-banana-icons/individual/kannada_letter_pa.png"
+    },
+    {
+      "id": "kannada_letter_pha",
+      "title": "Kannada Letter Pha",
+      "filename": "kannada_letter_pha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_pha.png"
+    },
+    {
+      "id": "kannada_letter_ra",
+      "title": "Kannada Letter Ra",
+      "filename": "kannada_letter_ra.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ra.png"
+    },
+    {
+      "id": "kannada_letter_retroflex_la",
+      "title": "Kannada Letter Retroflex La",
+      "filename": "kannada_letter_retroflex_la.png",
+      "path": "nano-banana-icons/individual/kannada_letter_retroflex_la.png"
+    },
+    {
+      "id": "kannada_letter_retroflex_sha",
+      "title": "Kannada Letter Retroflex Sha",
+      "filename": "kannada_letter_retroflex_sha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_retroflex_sha.png"
+    },
+    {
+      "id": "kannada_letter_ru",
+      "title": "Kannada Letter Ru",
+      "filename": "kannada_letter_ru.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ru.png"
+    },
+    {
+      "id": "kannada_letter_sa",
+      "title": "Kannada Letter Sa",
+      "filename": "kannada_letter_sa.png",
+      "path": "nano-banana-icons/individual/kannada_letter_sa.png"
+    },
+    {
+      "id": "kannada_letter_sha",
+      "title": "Kannada Letter Sha",
+      "filename": "kannada_letter_sha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_sha.png"
+    },
+    {
+      "id": "kannada_letter_ta",
+      "title": "Kannada Letter Ta",
+      "filename": "kannada_letter_ta.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ta.png"
+    },
+    {
+      "id": "kannada_letter_tha",
+      "title": "Kannada Letter Tha",
+      "filename": "kannada_letter_tha.png",
+      "path": "nano-banana-icons/individual/kannada_letter_tha.png"
+    },
+    {
+      "id": "kannada_letter_u",
+      "title": "Kannada Letter U",
+      "filename": "kannada_letter_u.png",
+      "path": "nano-banana-icons/individual/kannada_letter_u.png"
+    },
+    {
+      "id": "kannada_letter_va",
+      "title": "Kannada Letter Va",
+      "filename": "kannada_letter_va.png",
+      "path": "nano-banana-icons/individual/kannada_letter_va.png"
+    },
+    {
+      "id": "kannada_letter_ya",
+      "title": "Kannada Letter Ya",
+      "filename": "kannada_letter_ya.png",
+      "path": "nano-banana-icons/individual/kannada_letter_ya.png"
+    },
+    {
+      "id": "kannada_numeral_1",
+      "title": "Kannada Numeral 1",
+      "filename": "kannada_numeral_1.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_1.png"
+    },
+    {
+      "id": "kannada_numeral_2",
+      "title": "Kannada Numeral 2",
+      "filename": "kannada_numeral_2.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_2.png"
+    },
+    {
+      "id": "kannada_numeral_3",
+      "title": "Kannada Numeral 3",
+      "filename": "kannada_numeral_3.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_3.png"
+    },
+    {
+      "id": "kannada_numeral_4",
+      "title": "Kannada Numeral 4",
+      "filename": "kannada_numeral_4.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_4.png"
+    },
+    {
+      "id": "kannada_numeral_5",
+      "title": "Kannada Numeral 5",
+      "filename": "kannada_numeral_5.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_5.png"
+    },
+    {
+      "id": "kannada_numeral_6",
+      "title": "Kannada Numeral 6",
+      "filename": "kannada_numeral_6.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_6.png"
+    },
+    {
+      "id": "kannada_numeral_7",
+      "title": "Kannada Numeral 7",
+      "filename": "kannada_numeral_7.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_7.png"
+    },
+    {
+      "id": "kannada_numeral_8",
+      "title": "Kannada Numeral 8",
+      "filename": "kannada_numeral_8.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_8.png"
+    },
+    {
+      "id": "kannada_numeral_9",
+      "title": "Kannada Numeral 9",
+      "filename": "kannada_numeral_9.png",
+      "path": "nano-banana-icons/individual/kannada_numeral_9.png"
+    },
+    {
+      "id": "kantara_divine_mask",
+      "title": "Kantara Divine Mask",
+      "filename": "kantara_divine_mask.png",
+      "path": "nano-banana-icons/individual/kantara_divine_mask.png"
+    },
+    {
+      "id": "kappe_arabhatta_cliff_rock",
+      "title": "Kappe Arabhatta Cliff Rock",
+      "filename": "kappe_arabhatta_cliff_rock.png",
+      "path": "nano-banana-icons/individual/kappe_arabhatta_cliff_rock.png"
+    },
+    {
+      "id": "karavali_backwater_canoe",
+      "title": "Karavali Backwater Canoe",
+      "filename": "karavali_backwater_canoe.png",
+      "path": "nano-banana-icons/individual/karavali_backwater_canoe.png"
+    },
+    {
+      "id": "karjikai",
+      "title": "Karjikai",
+      "filename": "karjikai.png",
+      "path": "nano-banana-icons/individual/karjikai.png"
+    },
+    {
+      "id": "karnataka_emblem_gandaberunda",
+      "title": "Karnataka Emblem Gandaberunda",
+      "filename": "karnataka_emblem_gandaberunda.png",
+      "path": "nano-banana-icons/individual/karnataka_emblem_gandaberunda.png"
+    },
+    {
+      "id": "karnataka_farmer",
+      "title": "Karnataka Farmer",
+      "filename": "karnataka_farmer.png",
+      "path": "nano-banana-icons/individual/karnataka_farmer.png"
+    },
+    {
+      "id": "karnataka_flag",
+      "title": "Karnataka Flag",
+      "filename": "karnataka_flag.png",
+      "path": "nano-banana-icons/individual/karnataka_flag.png"
+    },
+    {
+      "id": "karnataka_silicon_chip",
+      "title": "Karnataka Silicon Chip",
+      "filename": "karnataka_silicon_chip.png",
+      "path": "nano-banana-icons/individual/karnataka_silicon_chip.png"
+    },
+    {
+      "id": "karnataka_silicon_circuit_wafer",
+      "title": "Karnataka Silicon Circuit Wafer",
+      "filename": "karnataka_silicon_circuit_wafer.png",
+      "path": "nano-banana-icons/individual/karnataka_silicon_circuit_wafer.png"
+    },
+    {
+      "id": "karnataka_yellow_red_flag",
+      "title": "Karnataka Yellow Red Flag",
+      "filename": "karnataka_yellow_red_flag.png",
+      "path": "nano-banana-icons/individual/karnataka_yellow_red_flag.png"
+    },
+    {
+      "id": "kashi_halwa",
+      "title": "Kashi Halwa",
+      "filename": "kashi_halwa.png",
+      "path": "nano-banana-icons/individual/kashi_halwa.png"
+    },
+    {
+      "id": "kasuti_embroidery_mandala",
+      "title": "Kasuti Embroidery Mandala",
+      "filename": "kasuti_embroidery_mandala.png",
+      "path": "nano-banana-icons/individual/kasuti_embroidery_mandala.png"
+    },
+    {
+      "id": "kaup_beach_lighthouse",
+      "title": "Kaup Beach Lighthouse",
+      "filename": "kaup_beach_lighthouse.png",
+      "path": "nano-banana-icons/individual/kaup_beach_lighthouse.png"
+    },
+    {
+      "id": "kaup_lighthouse_red_white",
+      "title": "Kaup Lighthouse Red White",
+      "filename": "kaup_lighthouse_red_white.png",
+      "path": "nano-banana-icons/individual/kaup_lighthouse_red_white.png"
+    },
+    {
+      "id": "kavala_limestone_caves",
+      "title": "Kavala Limestone Caves",
+      "filename": "kavala_limestone_caves.png",
+      "path": "nano-banana-icons/individual/kavala_limestone_caves.png"
+    },
+    {
+      "id": "kaveri_talacauvery_spring",
+      "title": "Kaveri Talacauvery Spring",
+      "filename": "kaveri_talacauvery_spring.png",
+      "path": "nano-banana-icons/individual/kaveri_talacauvery_spring.png"
+    },
+    {
+      "id": "kayi_obbattu_coconut",
+      "title": "Kayi Obbattu Coconut",
+      "filename": "kayi_obbattu_coconut.png",
+      "path": "nano-banana-icons/individual/kayi_obbattu_coconut.png"
+    },
+    {
+      "id": "keladi_nayaka_seal",
+      "title": "Keladi Nayaka Seal",
+      "filename": "keladi_nayaka_seal.png",
+      "path": "nano-banana-icons/individual/keladi_nayaka_seal.png"
+    },
+    {
+      "id": "keladi_shiva_parvati_pagoda",
+      "title": "Keladi Shiva Parvati Pagoda",
+      "filename": "keladi_shiva_parvati_pagoda.png",
+      "path": "nano-banana-icons/individual/keladi_shiva_parvati_pagoda.png"
+    },
+    {
+      "id": "kempu_temple_jhumka",
+      "title": "Kempu Temple Jhumka",
+      "filename": "kempu_temple_jhumka.png",
+      "path": "nano-banana-icons/individual/kempu_temple_jhumka.png"
+    },
+    {
+      "id": "kerala_karnataka_banana_chips",
+      "title": "Kerala Karnataka Banana Chips",
+      "filename": "kerala_karnataka_banana_chips.png",
+      "path": "nano-banana-icons/individual/kerala_karnataka_banana_chips.png"
+    },
+    {
+      "id": "kesari_bath_saffron",
+      "title": "Kesari Bath Saffron",
+      "filename": "kesari_bath_saffron.png",
+      "path": "nano-banana-icons/individual/kesari_bath_saffron.png"
+    },
+    {
+      "id": "kgf_gold_bar_hammer",
+      "title": "Kgf Gold Bar Hammer",
+      "filename": "kgf_gold_bar_hammer.png",
+      "path": "nano-banana-icons/individual/kgf_gold_bar_hammer.png"
+    },
+    {
+      "id": "kinhal_painted_parrot",
+      "title": "Kinhal Painted Parrot",
+      "filename": "kinhal_painted_parrot.png",
+      "path": "nano-banana-icons/individual/kinhal_painted_parrot.png"
+    },
+    {
+      "id": "kirti_mukha_hoysala_guardian",
+      "title": "Kirti Mukha Hoysala Guardian",
+      "filename": "kirti_mukha_hoysala_guardian.png",
+      "path": "nano-banana-icons/individual/kirti_mukha_hoysala_guardian.png"
+    },
+    {
+      "id": "kittur_chennamma_fort",
+      "title": "Kittur Chennamma Fort",
+      "filename": "kittur_chennamma_fort.png",
+      "path": "nano-banana-icons/individual/kittur_chennamma_fort.png"
+    },
+    {
+      "id": "kittur_fort_ruins_gate",
+      "title": "Kittur Fort Ruins Gate",
+      "filename": "kittur_fort_ruins_gate.png",
+      "path": "nano-banana-icons/individual/kittur_fort_ruins_gate.png"
+    },
+    {
+      "id": "kittur_rani_chennamma",
+      "title": "Kittur Rani Chennamma",
+      "filename": "kittur_rani_chennamma.png",
+      "path": "nano-banana-icons/individual/kittur_rani_chennamma.png"
+    },
+    {
+      "id": "kodava_brass_sheath",
+      "title": "Kodava Brass Sheath",
+      "filename": "kodava_brass_sheath.png",
+      "path": "nano-banana-icons/individual/kodava_brass_sheath.png"
+    },
+    {
+      "id": "kodava_kupya_chele",
+      "title": "Kodava Kupya Chele",
+      "filename": "kodava_kupya_chele.png",
+      "path": "nano-banana-icons/individual/kodava_kupya_chele.png"
+    },
+    {
+      "id": "kodava_odi_kathi",
+      "title": "Kodava Odi Kathi",
+      "filename": "kodava_odi_kathi.png",
+      "path": "nano-banana-icons/individual/kodava_odi_kathi.png"
+    },
+    {
+      "id": "kodava_peeche_kathi",
+      "title": "Kodava Peeche Kathi",
+      "filename": "kodava_peeche_kathi.png",
+      "path": "nano-banana-icons/individual/kodava_peeche_kathi.png"
+    },
+    {
+      "id": "kodubale_rings",
+      "title": "Kodubale Rings",
+      "filename": "kodubale_rings.png",
+      "path": "nano-banana-icons/individual/kodubale_rings.png"
+    },
+    {
+      "id": "kokkethathi_cobra_pendant",
+      "title": "Kokkethathi Cobra Pendant",
+      "filename": "kokkethathi_cobra_pendant.png",
+      "path": "nano-banana-icons/individual/kokkethathi_cobra_pendant.png"
+    },
+    {
+      "id": "kokum_punarpuli_drink",
+      "title": "Kokum Punarpuli Drink",
+      "filename": "kokum_punarpuli_drink.png",
+      "path": "nano-banana-icons/individual/kokum_punarpuli_drink.png"
+    },
+    {
+      "id": "koraga_tribal_drums",
+      "title": "Koraga Tribal Drums",
+      "filename": "koraga_tribal_drums.png",
+      "path": "nano-banana-icons/individual/koraga_tribal_drums.png"
+    },
+    {
+      "id": "kori_rotti_chicken_curry",
+      "title": "Kori Rotti Chicken Curry",
+      "filename": "kori_rotti_chicken_curry.png",
+      "path": "nano-banana-icons/individual/kori_rotti_chicken_curry.png"
+    },
+    {
+      "id": "krantiveera_sangolli_rayanna",
+      "title": "Krantiveera Sangolli Rayanna",
+      "filename": "krantiveera_sangolli_rayanna.png",
+      "path": "nano-banana-icons/individual/krantiveera_sangolli_rayanna.png"
+    },
+    {
+      "id": "krishna_river_rocks",
+      "title": "Krishna River Rocks",
+      "filename": "krishna_river_rocks.png",
+      "path": "nano-banana-icons/individual/krishna_river_rocks.png"
+    },
+    {
+      "id": "krishnadevaraya_balakrishna_pagoda",
+      "title": "Krishnadevaraya Balakrishna Pagoda",
+      "filename": "krishnadevaraya_balakrishna_pagoda.png",
+      "path": "nano-banana-icons/individual/krishnadevaraya_balakrishna_pagoda.png"
+    },
+    {
+      "id": "krs_dam_brindavan_gardens",
+      "title": "Krs Dam Brindavan Gardens",
+      "filename": "krs_dam_brindavan_gardens.png",
+      "path": "nano-banana-icons/individual/krs_dam_brindavan_gardens.png"
+    },
+    {
+      "id": "kudremukh_horse_peak",
+      "title": "Kudremukh Horse Peak",
+      "filename": "kudremukh_horse_peak.png",
+      "path": "nano-banana-icons/individual/kudremukh_horse_peak.png"
+    },
+    {
+      "id": "kudremukh_peak",
+      "title": "Kudremukh Peak",
+      "filename": "kudremukh_peak.png",
+      "path": "nano-banana-icons/individual/kudremukh_peak.png"
+    },
+    {
+      "id": "kukke_subramanya_silver_chariot",
+      "title": "Kukke Subramanya Silver Chariot",
+      "filename": "kukke_subramanya_silver_chariot.png",
+      "path": "nano-banana-icons/individual/kukke_subramanya_silver_chariot.png"
+    },
+    {
+      "id": "kuvempu_kavishaila",
+      "title": "Kuvempu Kavishaila",
+      "filename": "kuvempu_kavishaila.png",
+      "path": "nano-banana-icons/individual/kuvempu_kavishaila.png"
+    },
+    {
+      "id": "lagori_seven_stones",
+      "title": "Lagori Seven Stones",
+      "filename": "lagori_seven_stones.png",
+      "path": "nano-banana-icons/individual/lagori_seven_stones.png"
+    },
+    {
+      "id": "lakkundi_temple_shikhara",
+      "title": "Lakkundi Temple Shikhara",
+      "filename": "lakkundi_temple_shikhara.png",
+      "path": "nano-banana-icons/individual/lakkundi_temple_shikhara.png"
+    },
+    {
+      "id": "lakshmi_kasu_malai",
+      "title": "Lakshmi Kasu Malai",
+      "filename": "lakshmi_kasu_malai.png",
+      "path": "nano-banana-icons/individual/lakshmi_kasu_malai.png"
+    },
+    {
+      "id": "lalbagh_glasshouse",
+      "title": "Lalbagh Glasshouse",
+      "filename": "lalbagh_glasshouse.png",
+      "path": "nano-banana-icons/individual/lalbagh_glasshouse.png"
+    },
+    {
+      "id": "lalitha_mahal_palace",
+      "title": "Lalitha Mahal Palace",
+      "filename": "lalitha_mahal_palace.png",
+      "path": "nano-banana-icons/individual/lalitha_mahal_palace.png"
+    },
+    {
+      "id": "lambani_mirrorwork",
+      "title": "Lambani Mirrorwork",
+      "filename": "lambani_mirrorwork.png",
+      "path": "nano-banana-icons/individual/lambani_mirrorwork.png"
+    },
+    {
+      "id": "lambani_tribal_woman",
+      "title": "Lambani Tribal Woman",
+      "filename": "lambani_tribal_woman.png",
+      "path": "nano-banana-icons/individual/lambani_tribal_woman.png"
+    },
+    {
+      "id": "maanji_pomfret_fish_ice",
+      "title": "Maanji Pomfret Fish Ice",
+      "filename": "maanji_pomfret_fish_ice.png",
+      "path": "nano-banana-icons/individual/maanji_pomfret_fish_ice.png"
+    },
+    {
+      "id": "maddale_percussion",
+      "title": "Maddale Percussion",
+      "filename": "maddale_percussion.png",
+      "path": "nano-banana-icons/individual/maddale_percussion.png"
+    },
+    {
+      "id": "maddur_vada",
+      "title": "Maddur Vada",
+      "filename": "maddur_vada.png",
+      "path": "nano-banana-icons/individual/maddur_vada.png"
+    },
+    {
+      "id": "maddur_vada_snack",
+      "title": "Maddur Vada Snack",
+      "filename": "maddur_vada_snack.png",
+      "path": "nano-banana-icons/individual/maddur_vada_snack.png"
+    },
+    {
+      "id": "madhugiri_fort_rock",
+      "title": "Madhugiri Fort Rock",
+      "filename": "madhugiri_fort_rock.png",
+      "path": "nano-banana-icons/individual/madhugiri_fort_rock.png"
+    },
+    {
+      "id": "madikeri_coorg_fort",
+      "title": "Madikeri Coorg Fort",
+      "filename": "madikeri_coorg_fort.png",
+      "path": "nano-banana-icons/individual/madikeri_coorg_fort.png"
+    },
+    {
+      "id": "magod_falls_bedthi_gorge",
+      "title": "Magod Falls Bedthi Gorge",
+      "filename": "magod_falls_bedthi_gorge.png",
+      "path": "nano-banana-icons/individual/magod_falls_bedthi_gorge.png"
+    },
+    {
+      "id": "maha_shivaratri_lingam",
+      "title": "Maha Shivaratri Lingam",
+      "filename": "maha_shivaratri_lingam.png",
+      "path": "nano-banana-icons/individual/maha_shivaratri_lingam.png"
+    },
+    {
+      "id": "mahmud_gawan_madrasa",
+      "title": "Mahmud Gawan Madrasa",
+      "filename": "mahmud_gawan_madrasa.png",
+      "path": "nano-banana-icons/individual/mahmud_gawan_madrasa.png"
+    },
+    {
+      "id": "makar_sankranti_ellu_bella",
+      "title": "Makar Sankranti Ellu Bella",
+      "filename": "makar_sankranti_ellu_bella.png",
+      "path": "nano-banana-icons/individual/makar_sankranti_ellu_bella.png"
+    },
+    {
+      "id": "malabar_giant_squirrel",
+      "title": "Malabar Giant Squirrel",
+      "filename": "malabar_giant_squirrel.png",
+      "path": "nano-banana-icons/individual/malabar_giant_squirrel.png"
+    },
+    {
+      "id": "malabar_pied_hornbill",
+      "title": "Malabar Pied Hornbill",
+      "filename": "malabar_pied_hornbill.png",
+      "path": "nano-banana-icons/individual/malabar_pied_hornbill.png"
+    },
+    {
+      "id": "malaprabha_river_ghats",
+      "title": "Malaprabha River Ghats",
+      "filename": "malaprabha_river_ghats.png",
+      "path": "nano-banana-icons/individual/malaprabha_river_ghats.png"
+    },
+    {
+      "id": "malnad_black_pepper",
+      "title": "Malnad Black Pepper",
+      "filename": "malnad_black_pepper.png",
+      "path": "nano-banana-icons/individual/malnad_black_pepper.png"
+    },
+    {
+      "id": "malpe_fishing_trawler_boat",
+      "title": "Malpe Fishing Trawler Boat",
+      "filename": "malpe_fishing_trawler_boat.png",
+      "path": "nano-banana-icons/individual/malpe_fishing_trawler_boat.png"
+    },
+    {
+      "id": "malpe_pattanod_boat",
+      "title": "Malpe Pattanod Boat",
+      "filename": "malpe_pattanod_boat.png",
+      "path": "nano-banana-icons/individual/malpe_pattanod_boat.png"
+    },
+    {
+      "id": "mandakki_oggarane",
+      "title": "Mandakki Oggarane",
+      "filename": "mandakki_oggarane.png",
+      "path": "nano-banana-icons/individual/mandakki_oggarane.png"
+    },
+    {
+      "id": "mangalore_buns",
+      "title": "Mangalore Buns",
+      "filename": "mangalore_buns.png",
+      "path": "nano-banana-icons/individual/mangalore_buns.png"
+    },
+    {
+      "id": "mangalore_buns_banana_puri",
+      "title": "Mangalore Buns Banana Puri",
+      "filename": "mangalore_buns_banana_puri.png",
+      "path": "nano-banana-icons/individual/mangalore_buns_banana_puri.png"
+    },
+    {
+      "id": "mangalore_roof_tile",
+      "title": "Mangalore Roof Tile",
+      "filename": "mangalore_roof_tile.png",
+      "path": "nano-banana-icons/individual/mangalore_roof_tile.png"
+    },
+    {
+      "id": "mangalore_tile_roof_house",
+      "title": "Mangalore Tile Roof House",
+      "filename": "mangalore_tile_roof_house.png",
+      "path": "nano-banana-icons/individual/mangalore_tile_roof_house.png"
+    },
+    {
+      "id": "mangalyaan_mars_orbiter",
+      "title": "Mangalyaan Mars Orbiter",
+      "filename": "mangalyaan_mars_orbiter.png",
+      "path": "nano-banana-icons/individual/mangalyaan_mars_orbiter.png"
+    },
+    {
+      "id": "marwai_clams_sukka",
+      "title": "Marwai Clams Sukka",
+      "filename": "marwai_clams_sukka.png",
+      "path": "nano-banana-icons/individual/marwai_clams_sukka.png"
+    },
+    {
+      "id": "mathu_wooden_churner",
+      "title": "Mathu Wooden Churner",
+      "filename": "mathu_wooden_churner.png",
+      "path": "nano-banana-icons/individual/mathu_wooden_churner.png"
+    },
+    {
+      "id": "mayura_golden_crown",
+      "title": "Mayura Golden Crown",
+      "filename": "mayura_golden_crown.png",
+      "path": "nano-banana-icons/individual/mayura_golden_crown.png"
+    },
+    {
+      "id": "mekedatu_gorge",
+      "title": "Mekedatu Gorge",
+      "filename": "mekedatu_gorge.png",
+      "path": "nano-banana-icons/individual/mekedatu_gorge.png"
+    },
+    {
+      "id": "melukote_vairamudi_crown",
+      "title": "Melukote Vairamudi Crown",
+      "filename": "melukote_vairamudi_crown.png",
+      "path": "nano-banana-icons/individual/melukote_vairamudi_crown.png"
+    },
+    {
+      "id": "milagres_church_towers",
+      "title": "Milagres Church Towers",
+      "filename": "milagres_church_towers.png",
+      "path": "nano-banana-icons/individual/milagres_church_towers.png"
+    },
+    {
+      "id": "mirjan_laterite_fort",
+      "title": "Mirjan Laterite Fort",
+      "filename": "mirjan_laterite_fort.png",
+      "path": "nano-banana-icons/individual/mirjan_laterite_fort.png"
+    },
+    {
+      "id": "molakalmuru_temple_saree",
+      "title": "Molakalmuru Temple Saree",
+      "filename": "molakalmuru_temple_saree.png",
+      "path": "nano-banana-icons/individual/molakalmuru_temple_saree.png"
+    },
+    {
+      "id": "mora_winnowing_tray",
+      "title": "Mora Winnowing Tray",
+      "filename": "mora_winnowing_tray.png",
+      "path": "nano-banana-icons/individual/mora_winnowing_tray.png"
+    },
+    {
+      "id": "motichoor_laddoo_saffron",
+      "title": "Motichoor Laddoo Saffron",
+      "filename": "motichoor_laddoo_saffron.png",
+      "path": "nano-banana-icons/individual/motichoor_laddoo_saffron.png"
+    },
+    {
+      "id": "mridangam_drum",
+      "title": "Mridangam Drum",
+      "filename": "mridangam_drum.png",
+      "path": "nano-banana-icons/individual/mridangam_drum.png"
+    },
+    {
+      "id": "mridangam_tuning_stone",
+      "title": "Mridangam Tuning Stone",
+      "filename": "mridangam_tuning_stone.png",
+      "path": "nano-banana-icons/individual/mridangam_tuning_stone.png"
+    },
+    {
+      "id": "mullayanagiri_peak",
+      "title": "Mullayanagiri Peak",
+      "filename": "mullayanagiri_peak.png",
+      "path": "nano-banana-icons/individual/mullayanagiri_peak.png"
+    },
+    {
+      "id": "murudeshwar_shiva",
+      "title": "Murudeshwar Shiva",
+      "filename": "murudeshwar_shiva.png",
+      "path": "nano-banana-icons/individual/murudeshwar_shiva.png"
+    },
+    {
+      "id": "mysore_betel_leaf",
+      "title": "Mysore Betel Leaf",
+      "filename": "mysore_betel_leaf.png",
+      "path": "nano-banana-icons/individual/mysore_betel_leaf.png"
+    },
+    {
+      "id": "mysore_brass_filter_davarah",
+      "title": "Mysore Brass Filter Davarah",
+      "filename": "mysore_brass_filter_davarah.png",
+      "path": "nano-banana-icons/individual/mysore_brass_filter_davarah.png"
+    },
+    {
+      "id": "mysore_carnatic_veena",
+      "title": "Mysore Carnatic Veena",
+      "filename": "mysore_carnatic_veena.png",
+      "path": "nano-banana-icons/individual/mysore_carnatic_veena.png"
+    },
+    {
+      "id": "mysore_dasara_ambari",
+      "title": "Mysore Dasara Ambari",
+      "filename": "mysore_dasara_ambari.png",
+      "path": "nano-banana-icons/individual/mysore_dasara_ambari.png"
+    },
+    {
+      "id": "mysore_dasara_ambari_howdah",
+      "title": "Mysore Dasara Ambari Howdah",
+      "filename": "mysore_dasara_ambari_howdah.png",
+      "path": "nano-banana-icons/individual/mysore_dasara_ambari_howdah.png"
+    },
+    {
+      "id": "mysore_pak",
+      "title": "Mysore Pak",
+      "filename": "mysore_pak.png",
+      "path": "nano-banana-icons/individual/mysore_pak.png"
+    },
+    {
+      "id": "mysore_pak_filter_coffee",
+      "title": "Mysore Pak Filter Coffee",
+      "filename": "mysore_pak_filter_coffee.png",
+      "path": "nano-banana-icons/individual/mysore_pak_filter_coffee.png"
+    },
+    {
+      "id": "mysore_pak_porous_ghee",
+      "title": "Mysore Pak Porous Ghee",
+      "filename": "mysore_pak_porous_ghee.png",
+      "path": "nano-banana-icons/individual/mysore_pak_porous_ghee.png"
+    },
+    {
+      "id": "mysore_palace",
+      "title": "Mysore Palace",
+      "filename": "mysore_palace.png",
+      "path": "nano-banana-icons/individual/mysore_palace.png"
+    },
+    {
+      "id": "mysore_peta_turban",
+      "title": "Mysore Peta Turban",
+      "filename": "mysore_peta_turban.png",
+      "path": "nano-banana-icons/individual/mysore_peta_turban.png"
+    },
+    {
+      "id": "mysore_royal_gada",
+      "title": "Mysore Royal Gada",
+      "filename": "mysore_royal_gada.png",
+      "path": "nano-banana-icons/individual/mysore_royal_gada.png"
+    },
+    {
+      "id": "mysore_sandal_soap",
+      "title": "Mysore Sandal Soap",
+      "filename": "mysore_sandal_soap.png",
+      "path": "nano-banana-icons/individual/mysore_sandal_soap.png"
+    },
+    {
+      "id": "mysore_silk_saree",
+      "title": "Mysore Silk Saree",
+      "filename": "mysore_silk_saree.png",
+      "path": "nano-banana-icons/individual/mysore_silk_saree.png"
+    },
+    {
+      "id": "mysore_silk_zari_saree",
+      "title": "Mysore Silk Zari Saree",
+      "filename": "mysore_silk_zari_saree.png",
+      "path": "nano-banana-icons/individual/mysore_silk_zari_saree.png"
+    },
+    {
+      "id": "mysore_talwar_sword",
+      "title": "Mysore Talwar Sword",
+      "filename": "mysore_talwar_sword.png",
+      "path": "nano-banana-icons/individual/mysore_talwar_sword.png"
+    },
+    {
+      "id": "nadaswaram_pipe",
+      "title": "Nadaswaram Pipe",
+      "filename": "nadaswaram_pipe.png",
+      "path": "nano-banana-icons/individual/nadaswaram_pipe.png"
+    },
+    {
+      "id": "nagara_panchami_cobra",
+      "title": "Nagara Panchami Cobra",
+      "filename": "nagara_panchami_cobra.png",
+      "path": "nano-banana-icons/individual/nagara_panchami_cobra.png"
+    },
+    {
+      "id": "nagarhole_tiger_safari_jeep",
+      "title": "Nagarhole Tiger Safari Jeep",
+      "filename": "nagarhole_tiger_safari_jeep.png",
+      "path": "nano-banana-icons/individual/nagarhole_tiger_safari_jeep.png"
+    },
+    {
+      "id": "namma_metro",
+      "title": "Namma Metro",
+      "filename": "namma_metro.png",
+      "path": "nano-banana-icons/individual/namma_metro.png"
+    },
+    {
+      "id": "nandi_sacred_bull_figurine",
+      "title": "Nandi Sacred Bull Figurine",
+      "filename": "nandi_sacred_bull_figurine.png",
+      "path": "nano-banana-icons/individual/nandi_sacred_bull_figurine.png"
+    },
+    {
+      "id": "nanjangud_rasabale_banana",
+      "title": "Nanjangud Rasabale Banana",
+      "filename": "nanjangud_rasabale_banana.png",
+      "path": "nano-banana-icons/individual/nanjangud_rasabale_banana.png"
+    },
+    {
+      "id": "navalgund_jamkhana_durrie",
+      "title": "Navalgund Jamkhana Durrie",
+      "filename": "navalgund_jamkhana_durrie.png",
+      "path": "nano-banana-icons/individual/navalgund_jamkhana_durrie.png"
+    },
+    {
+      "id": "neelakantha_indian_roller",
+      "title": "Neelakantha Indian Roller",
+      "filename": "neelakantha_indian_roller.png",
+      "path": "nano-banana-icons/individual/neelakantha_indian_roller.png"
+    },
+    {
+      "id": "neer_dosa_fish_curry",
+      "title": "Neer Dosa Fish Curry",
+      "filename": "neer_dosa_fish_curry.png",
+      "path": "nano-banana-icons/individual/neer_dosa_fish_curry.png"
+    },
+    {
+      "id": "netravathi_river_estuary",
+      "title": "Netravathi River Estuary",
+      "filename": "netravathi_river_estuary.png",
+      "path": "nano-banana-icons/individual/netravathi_river_estuary.png"
+    },
+    {
+      "id": "ngma_mansion",
+      "title": "Ngma Mansion",
+      "filename": "ngma_mansion.png",
+      "path": "nano-banana-icons/individual/ngma_mansion.png"
+    },
+    {
+      "id": "nippattu_cracker",
+      "title": "Nippattu Cracker",
+      "filename": "nippattu_cracker.png",
+      "path": "nano-banana-icons/individual/nippattu_cracker.png"
+    },
+    {
+      "id": "obbattu_holige",
+      "title": "Obbattu Holige",
+      "filename": "obbattu_holige.png",
+      "path": "nano-banana-icons/individual/obbattu_holige.png"
+    },
+    {
+      "id": "onake_obavva_pestle",
+      "title": "Onake Obavva Pestle",
+      "filename": "onake_obavva_pestle.png",
+      "path": "nano-banana-icons/individual/onake_obavva_pestle.png"
+    },
+    {
+      "id": "paddu_guliyappa_pan",
+      "title": "Paddu Guliyappa Pan",
+      "filename": "paddu_guliyappa_pan.png",
+      "path": "nano-banana-icons/individual/paddu_guliyappa_pan.png"
+    },
+    {
+      "id": "pagade_board_game",
+      "title": "Pagade Board Game",
+      "filename": "pagade_board_game.png",
+      "path": "nano-banana-icons/individual/pagade_board_game.png"
+    },
+    {
+      "id": "painted_stork",
+      "title": "Painted Stork",
+      "filename": "painted_stork.png",
+      "path": "nano-banana-icons/individual/painted_stork.png"
+    },
+    {
+      "id": "palm_leaf_music_notes",
+      "title": "Palm Leaf Music Notes",
+      "filename": "palm_leaf_music_notes.png",
+      "path": "nano-banana-icons/individual/palm_leaf_music_notes.png"
+    },
+    {
+      "id": "parijata_sacred_bloom",
+      "title": "Parijata Sacred Bloom",
+      "filename": "parijata_sacred_bloom.png",
+      "path": "nano-banana-icons/individual/parijata_sacred_bloom.png"
+    },
+    {
+      "id": "patrode_colocasia_roll",
+      "title": "Patrode Colocasia Roll",
+      "filename": "patrode_colocasia_roll.png",
+      "path": "nano-banana-icons/individual/patrode_colocasia_roll.png"
+    },
+    {
+      "id": "pattadakal_virupaksha_temple",
+      "title": "Pattadakal Virupaksha Temple",
+      "filename": "pattadakal_virupaksha_temple.png",
+      "path": "nano-banana-icons/individual/pattadakal_virupaksha_temple.png"
+    },
+    {
+      "id": "patteda_anchu_saree",
+      "title": "Patteda Anchu Saree",
+      "filename": "patteda_anchu_saree.png",
+      "path": "nano-banana-icons/individual/patteda_anchu_saree.png"
+    },
+    {
+      "id": "pheni_sweet",
+      "title": "Pheni Sweet",
+      "filename": "pheni_sweet.png",
+      "path": "nano-banana-icons/individual/pheni_sweet.png"
+    },
+    {
+      "id": "pooja_kalasha",
+      "title": "Pooja Kalasha",
+      "filename": "pooja_kalasha.png",
+      "path": "nano-banana-icons/individual/pooja_kalasha.png"
+    },
+    {
+      "id": "pooja_kunitha_tower",
+      "title": "Pooja Kunitha Tower",
+      "filename": "pooja_kunitha_tower.png",
+      "path": "nano-banana-icons/individual/pooja_kunitha_tower.png"
+    },
+    {
+      "id": "poori_potato_saagu",
+      "title": "Poori Potato Saagu",
+      "filename": "poori_potato_saagu.png",
+      "path": "nano-banana-icons/individual/poori_potato_saagu.png"
+    },
+    {
+      "id": "purandara_dasa_tambura",
+      "title": "Purandara Dasa Tambura",
+      "filename": "purandara_dasa_tambura.png",
+      "path": "nano-banana-icons/individual/purandara_dasa_tambura.png"
+    },
+    {
+      "id": "ragi_mudde",
+      "title": "Ragi Mudde",
+      "filename": "ragi_mudde.png",
+      "path": "nano-banana-icons/individual/ragi_mudde.png"
+    },
+    {
+      "id": "rajyotsava_golden_karnataka_map",
+      "title": "Rajyotsava Golden Karnataka Map",
+      "filename": "rajyotsava_golden_karnataka_map.png",
+      "path": "nano-banana-icons/individual/rajyotsava_golden_karnataka_map.png"
+    },
+    {
+      "id": "ranganathittu_pelican_boat",
+      "title": "Ranganathittu Pelican Boat",
+      "filename": "ranganathittu_pelican_boat.png",
+      "path": "nano-banana-icons/individual/ranganathittu_pelican_boat.png"
+    },
+    {
+      "id": "rangoli_mandala",
+      "title": "Rangoli Mandala",
+      "filename": "rangoli_mandala.png",
+      "path": "nano-banana-icons/individual/rangoli_mandala.png"
+    },
+    {
+      "id": "rashtrakavi_kuvempu",
+      "title": "Rashtrakavi Kuvempu",
+      "filename": "rashtrakavi_kuvempu.png",
+      "path": "nano-banana-icons/individual/rashtrakavi_kuvempu.png"
+    },
+    {
+      "id": "rashtrakuta_garuda",
+      "title": "Rashtrakuta Garuda",
+      "filename": "rashtrakuta_garuda.png",
+      "path": "nano-banana-icons/individual/rashtrakuta_garuda.png"
+    },
+    {
+      "id": "rava_idli_cashew_nut",
+      "title": "Rava Idli Cashew Nut",
+      "filename": "rava_idli_cashew_nut.png",
+      "path": "nano-banana-icons/individual/rava_idli_cashew_nut.png"
+    },
+    {
+      "id": "rava_laddoo_raisins",
+      "title": "Rava Laddoo Raisins",
+      "filename": "rava_laddoo_raisins.png",
+      "path": "nano-banana-icons/individual/rava_laddoo_raisins.png"
+    },
+    {
+      "id": "rosewood_timber_block",
+      "title": "Rosewood Timber Block",
+      "filename": "rosewood_timber_block.png",
+      "path": "nano-banana-icons/individual/rosewood_timber_block.png"
+    },
+    {
+      "id": "royal_bengal_tiger",
+      "title": "Royal Bengal Tiger",
+      "filename": "royal_bengal_tiger.png",
+      "path": "nano-banana-icons/individual/royal_bengal_tiger.png"
+    },
+    {
+      "id": "royal_bengal_tiger_head",
+      "title": "Royal Bengal Tiger Head",
+      "filename": "royal_bengal_tiger_head.png",
+      "path": "nano-banana-icons/individual/royal_bengal_tiger_head.png"
+    },
+    {
+      "id": "royal_elephant_brass_statue",
+      "title": "Royal Elephant Brass Statue",
+      "filename": "royal_elephant_brass_statue.png",
+      "path": "nano-banana-icons/individual/royal_elephant_brass_statue.png"
+    },
+    {
+      "id": "russell_market_clock_tower",
+      "title": "Russell Market Clock Tower",
+      "filename": "russell_market_clock_tower.png",
+      "path": "nano-banana-icons/individual/russell_market_clock_tower.png"
+    },
+    {
+      "id": "sacred_lotus",
+      "title": "Sacred Lotus",
+      "filename": "sacred_lotus.png",
+      "path": "nano-banana-icons/individual/sacred_lotus.png"
+    },
+    {
+      "id": "sampige_champaka_flower",
+      "title": "Sampige Champaka Flower",
+      "filename": "sampige_champaka_flower.png",
+      "path": "nano-banana-icons/individual/sampige_champaka_flower.png"
+    },
+    {
+      "id": "sandalwood_branch_log",
+      "title": "Sandalwood Branch Log",
+      "filename": "sandalwood_branch_log.png",
+      "path": "nano-banana-icons/individual/sandalwood_branch_log.png"
+    },
+    {
+      "id": "sandalwood_carved_elephant",
+      "title": "Sandalwood Carved Elephant",
+      "filename": "sandalwood_carved_elephant.png",
+      "path": "nano-banana-icons/individual/sandalwood_carved_elephant.png"
+    },
+    {
+      "id": "sandalwood_log_paste",
+      "title": "Sandalwood Log Paste",
+      "filename": "sandalwood_log_paste.png",
+      "path": "nano-banana-icons/individual/sandalwood_log_paste.png"
+    },
+    {
+      "id": "saraswati_vagdevi_statue",
+      "title": "Saraswati Vagdevi Statue",
+      "filename": "saraswati_vagdevi_statue.png",
+      "path": "nano-banana-icons/individual/saraswati_vagdevi_statue.png"
+    },
+    {
+      "id": "sathodi_falls_yellapur_pool",
+      "title": "Sathodi Falls Yellapur Pool",
+      "filename": "sathodi_falls_yellapur_pool.png",
+      "path": "nano-banana-icons/individual/sathodi_falls_yellapur_pool.png"
+    },
+    {
+      "id": "savandurga_granite_monolith",
+      "title": "Savandurga Granite Monolith",
+      "filename": "savandurga_granite_monolith.png",
+      "path": "nano-banana-icons/individual/savandurga_granite_monolith.png"
+    },
+    {
+      "id": "scarecrow_paddy_field",
+      "title": "Scarecrow Paddy Field",
+      "filename": "scarecrow_paddy_field.png",
+      "path": "nano-banana-icons/individual/scarecrow_paddy_field.png"
+    },
+    {
+      "id": "set_dosa_sagu_chutney",
+      "title": "Set Dosa Sagu Chutney",
+      "filename": "set_dosa_sagu_chutney.png",
+      "path": "nano-banana-icons/individual/set_dosa_sagu_chutney.png"
+    },
+    {
+      "id": "shakuntala_devi_mathematician",
+      "title": "Shakuntala Devi Mathematician",
+      "filename": "shakuntala_devi_mathematician.png",
+      "path": "nano-banana-icons/individual/shakuntala_devi_mathematician.png"
+    },
+    {
+      "id": "shanku_sacred_conch",
+      "title": "Shanku Sacred Conch",
+      "filename": "shanku_sacred_conch.png",
+      "path": "nano-banana-icons/individual/shanku_sacred_conch.png"
+    },
+    {
+      "id": "sharavathi_railway_bridge",
+      "title": "Sharavathi Railway Bridge",
+      "filename": "sharavathi_railway_bridge.png",
+      "path": "nano-banana-icons/individual/sharavathi_railway_bridge.png"
+    },
+    {
+      "id": "sharavathi_river_cascade",
+      "title": "Sharavathi River Cascade",
+      "filename": "sharavathi_river_cascade.png",
+      "path": "nano-banana-icons/individual/sharavathi_river_cascade.png"
+    },
+    {
+      "id": "shavige_bath_lemon_vermicelli",
+      "title": "Shavige Bath Lemon Vermicelli",
+      "filename": "shavige_bath_lemon_vermicelli.png",
+      "path": "nano-banana-icons/individual/shavige_bath_lemon_vermicelli.png"
+    },
+    {
+      "id": "shavige_payasa",
+      "title": "Shavige Payasa",
+      "filename": "shavige_payasa.png",
+      "path": "nano-banana-icons/individual/shavige_payasa.png"
+    },
+    {
+      "id": "shenga_holige_peanut",
+      "title": "Shenga Holige Peanut",
+      "filename": "shenga_holige_peanut.png",
+      "path": "nano-banana-icons/individual/shenga_holige_peanut.png"
+    },
+    {
+      "id": "shivanasamudra_falls",
+      "title": "Shivanasamudra Falls",
+      "filename": "shivanasamudra_falls.png",
+      "path": "nano-banana-icons/individual/shivanasamudra_falls.png"
+    },
+    {
+      "id": "shravanabelagola_bahubali",
+      "title": "Shravanabelagola Bahubali",
+      "filename": "shravanabelagola_bahubali.png",
+      "path": "nano-banana-icons/individual/shravanabelagola_bahubali.png"
+    },
+    {
+      "id": "sihi_elaneeru_coconut",
+      "title": "Sihi Elaneeru Coconut",
+      "filename": "sihi_elaneeru_coconut.png",
+      "path": "nano-banana-icons/individual/sihi_elaneeru_coconut.png"
+    },
+    {
+      "id": "sihi_huggi_sweet_pongal",
+      "title": "Sihi Huggi Sweet Pongal",
+      "filename": "sihi_huggi_sweet_pongal.png",
+      "path": "nano-banana-icons/individual/sihi_huggi_sweet_pongal.png"
+    },
+    {
+      "id": "silver_kaalungura_rings",
+      "title": "Silver Kaalungura Rings",
+      "filename": "silver_kaalungura_rings.png",
+      "path": "nano-banana-icons/individual/silver_kaalungura_rings.png"
+    },
+    {
+      "id": "sir_mv_visvesvaraya",
+      "title": "Sir Mv Visvesvaraya",
+      "filename": "sir_mv_visvesvaraya.png",
+      "path": "nano-banana-icons/individual/sir_mv_visvesvaraya.png"
+    },
+    {
+      "id": "somana_kunitha_demon_mask",
+      "title": "Somana Kunitha Demon Mask",
+      "filename": "somana_kunitha_demon_mask.png",
+      "path": "nano-banana-icons/individual/somana_kunitha_demon_mask.png"
+    },
+    {
+      "id": "somana_kunitha_mask",
+      "title": "Somana Kunitha Mask",
+      "filename": "somana_kunitha_mask.png",
+      "path": "nano-banana-icons/individual/somana_kunitha_mask.png"
+    },
+    {
+      "id": "south_indian_mookuthi",
+      "title": "South Indian Mookuthi",
+      "filename": "south_indian_mookuthi.png",
+      "path": "nano-banana-icons/individual/south_indian_mookuthi.png"
+    },
+    {
+      "id": "spicy_tiger_prawns_fry",
+      "title": "Spicy Tiger Prawns Fry",
+      "filename": "spicy_tiger_prawns_fry.png",
+      "path": "nano-banana-icons/individual/spicy_tiger_prawns_fry.png"
+    },
+    {
+      "id": "spot_billed_pelican",
+      "title": "Spot Billed Pelican",
+      "filename": "spot_billed_pelican.png",
+      "path": "nano-banana-icons/individual/spot_billed_pelican.png"
+    },
+    {
+      "id": "srirangapatna_water_gate",
+      "title": "Srirangapatna Water Gate",
+      "filename": "srirangapatna_water_gate.png",
+      "path": "nano-banana-icons/individual/srirangapatna_water_gate.png"
+    },
+    {
+      "id": "st_aloysius_chapel_portico",
+      "title": "St Aloysius Chapel Portico",
+      "filename": "st_aloysius_chapel_portico.png",
+      "path": "nano-banana-icons/individual/st_aloysius_chapel_portico.png"
+    },
+    {
+      "id": "st_lawrence_basilica_attur",
+      "title": "St Lawrence Basilica Attur",
+      "filename": "st_lawrence_basilica_attur.png",
+      "path": "nano-banana-icons/individual/st_lawrence_basilica_attur.png"
+    },
+    {
+      "id": "st_marys_basilica",
+      "title": "St Marys Basilica",
+      "filename": "st_marys_basilica.png",
+      "path": "nano-banana-icons/individual/st_marys_basilica.png"
+    },
+    {
+      "id": "st_marys_island",
+      "title": "St Marys Island",
+      "filename": "st_marys_island.png",
+      "path": "nano-banana-icons/individual/st_marys_island.png"
+    },
+    {
+      "id": "st_marys_island_basalt",
+      "title": "St Marys Island Basalt",
+      "filename": "st_marys_island_basalt.png",
+      "path": "nano-banana-icons/individual/st_marys_island_basalt.png"
+    },
+    {
+      "id": "state_animal_asian_elephant",
+      "title": "State Animal Asian Elephant",
+      "filename": "state_animal_asian_elephant.png",
+      "path": "nano-banana-icons/individual/state_animal_asian_elephant.png"
+    },
+    {
+      "id": "state_bird_indian_roller",
+      "title": "State Bird Indian Roller",
+      "filename": "state_bird_indian_roller.png",
+      "path": "nano-banana-icons/individual/state_bird_indian_roller.png"
+    },
+    {
+      "id": "state_butterfly_southern_birdwing",
+      "title": "State Butterfly Southern Birdwing",
+      "filename": "state_butterfly_southern_birdwing.png",
+      "path": "nano-banana-icons/individual/state_butterfly_southern_birdwing.png"
+    },
+    {
+      "id": "state_film_award_trophy",
+      "title": "State Film Award Trophy",
+      "filename": "state_film_award_trophy.png",
+      "path": "nano-banana-icons/individual/state_film_award_trophy.png"
+    },
+    {
+      "id": "state_fish_carnatic_carp",
+      "title": "State Fish Carnatic Carp",
+      "filename": "state_fish_carnatic_carp.png",
+      "path": "nano-banana-icons/individual/state_fish_carnatic_carp.png"
+    },
+    {
+      "id": "state_flower_pink_lotus",
+      "title": "State Flower Pink Lotus",
+      "filename": "state_flower_pink_lotus.png",
+      "path": "nano-banana-icons/individual/state_flower_pink_lotus.png"
+    },
+    {
+      "id": "state_tree_sandalwood_branch",
+      "title": "State Tree Sandalwood Branch",
+      "filename": "state_tree_sandalwood_branch.png",
+      "path": "nano-banana-icons/individual/state_tree_sandalwood_branch.png"
+    },
+    {
+      "id": "stone_well_pulley",
+      "title": "Stone Well Pulley",
+      "filename": "stone_well_pulley.png",
+      "path": "nano-banana-icons/individual/stone_well_pulley.png"
+    },
+    {
+      "id": "suggi_kunitha_floral_tower",
+      "title": "Suggi Kunitha Floral Tower",
+      "filename": "suggi_kunitha_floral_tower.png",
+      "path": "nano-banana-icons/individual/suggi_kunitha_floral_tower.png"
+    },
+    {
+      "id": "suratkal_lighthouse_beacon",
+      "title": "Suratkal Lighthouse Beacon",
+      "filename": "suratkal_lighthouse_beacon.png",
+      "path": "nano-banana-icons/individual/suratkal_lighthouse_beacon.png"
+    },
+    {
+      "id": "surya_brass_sun_mask",
+      "title": "Surya Brass Sun Mask",
+      "filename": "surya_brass_sun_mask.png",
+      "path": "nano-banana-icons/individual/surya_brass_sun_mask.png"
+    },
+    {
+      "id": "talacauvery_spring_pot",
+      "title": "Talacauvery Spring Pot",
+      "filename": "talacauvery_spring_pot.png",
+      "path": "nano-banana-icons/individual/talacauvery_spring_pot.png"
+    },
+    {
+      "id": "talagunda_pillar_edict",
+      "title": "Talagunda Pillar Edict",
+      "filename": "talagunda_pillar_edict.png",
+      "path": "nano-banana-icons/individual/talagunda_pillar_edict.png"
+    },
+    {
+      "id": "tamarashasana_copper_charters",
+      "title": "Tamarashasana Copper Charters",
+      "filename": "tamarashasana_copper_charters.png",
+      "path": "nano-banana-icons/individual/tamarashasana_copper_charters.png"
+    },
+    {
+      "id": "tambittu_festival_laddoo",
+      "title": "Tambittu Festival Laddoo",
+      "filename": "tambittu_festival_laddoo.png",
+      "path": "nano-banana-icons/individual/tambittu_festival_laddoo.png"
+    },
+    {
+      "id": "tambura_lute",
+      "title": "Tambura Lute",
+      "filename": "tambura_lute.png",
+      "path": "nano-banana-icons/individual/tambura_lute.png"
+    },
+    {
+      "id": "teak_wood_tree",
+      "title": "Teak Wood Tree",
+      "filename": "teak_wood_tree.png",
+      "path": "nano-banana-icons/individual/teak_wood_tree.png"
+    },
+    {
+      "id": "temple_chariot_wooden_wheel",
+      "title": "Temple Chariot Wooden Wheel",
+      "filename": "temple_chariot_wooden_wheel.png",
+      "path": "nano-banana-icons/individual/temple_chariot_wooden_wheel.png"
+    },
+    {
+      "id": "temple_umbrella_muthukuda",
+      "title": "Temple Umbrella Muthukuda",
+      "filename": "temple_umbrella_muthukuda.png",
+      "path": "nano-banana-icons/individual/temple_umbrella_muthukuda.png"
+    },
+    {
+      "id": "thatte_idli",
+      "title": "Thatte Idli",
+      "filename": "thatte_idli.png",
+      "path": "nano-banana-icons/individual/thatte_idli.png"
+    },
+    {
+      "id": "tipu_sultan_elephant_paisa",
+      "title": "Tipu Sultan Elephant Paisa",
+      "filename": "tipu_sultan_elephant_paisa.png",
+      "path": "nano-banana-icons/individual/tipu_sultan_elephant_paisa.png"
+    },
+    {
+      "id": "tipu_sultan_tiger",
+      "title": "Tipu Sultan Tiger",
+      "filename": "tipu_sultan_tiger.png",
+      "path": "nano-banana-icons/individual/tipu_sultan_tiger.png"
+    },
+    {
+      "id": "tipu_summer_palace",
+      "title": "Tipu Summer Palace",
+      "filename": "tipu_summer_palace.png",
+      "path": "nano-banana-icons/individual/tipu_summer_palace.png"
+    },
+    {
+      "id": "tipu_tiger_pistol",
+      "title": "Tipu Tiger Pistol",
+      "filename": "tipu_tiger_pistol.png",
+      "path": "nano-banana-icons/individual/tipu_tiger_pistol.png"
+    },
+    {
+      "id": "togalu_gombeyaata_hanuman",
+      "title": "Togalu Gombeyaata Hanuman",
+      "filename": "togalu_gombeyaata_hanuman.png",
+      "path": "nano-banana-icons/individual/togalu_gombeyaata_hanuman.png"
+    },
+    {
+      "id": "traditional_charkha_wheel",
+      "title": "Traditional Charkha Wheel",
+      "filename": "traditional_charkha_wheel.png",
+      "path": "nano-banana-icons/individual/traditional_charkha_wheel.png"
+    },
+    {
+      "id": "tungabhadra_coracle_boat",
+      "title": "Tungabhadra Coracle Boat",
+      "filename": "tungabhadra_coracle_boat.png",
+      "path": "nano-banana-icons/individual/tungabhadra_coracle_boat.png"
+    },
+    {
+      "id": "tungabhadra_dam_masonry",
+      "title": "Tungabhadra Dam Masonry",
+      "filename": "tungabhadra_dam_masonry.png",
+      "path": "nano-banana-icons/individual/tungabhadra_dam_masonry.png"
+    },
+    {
+      "id": "tyagada_kamba_pillar",
+      "title": "Tyagada Kamba Pillar",
+      "filename": "tyagada_kamba_pillar.png",
+      "path": "nano-banana-icons/individual/tyagada_kamba_pillar.png"
+    },
+    {
+      "id": "udupi_brahmaratha_chariot",
+      "title": "Udupi Brahmaratha Chariot",
+      "filename": "udupi_brahmaratha_chariot.png",
+      "path": "nano-banana-icons/individual/udupi_brahmaratha_chariot.png"
+    },
+    {
+      "id": "udupi_cotton_handloom_saree",
+      "title": "Udupi Cotton Handloom Saree",
+      "filename": "udupi_cotton_handloom_saree.png",
+      "path": "nano-banana-icons/individual/udupi_cotton_handloom_saree.png"
+    },
+    {
+      "id": "udupi_mattu_gulla",
+      "title": "Udupi Mattu Gulla",
+      "filename": "udupi_mattu_gulla.png",
+      "path": "nano-banana-icons/individual/udupi_mattu_gulla.png"
+    },
+    {
+      "id": "ugadi_bevu_bella",
+      "title": "Ugadi Bevu Bella",
+      "filename": "ugadi_bevu_bella.png",
+      "path": "nano-banana-icons/individual/ugadi_bevu_bella.png"
+    },
+    {
+      "id": "ullal_sayyid_madani_dargah",
+      "title": "Ullal Sayyid Madani Dargah",
+      "filename": "ullal_sayyid_madani_dargah.png",
+      "path": "nano-banana-icons/individual/ullal_sayyid_madani_dargah.png"
+    },
+    {
+      "id": "ulsoor_lake_boating",
+      "title": "Ulsoor Lake Boating",
+      "filename": "ulsoor_lake_boating.png",
+      "path": "nano-banana-icons/individual/ulsoor_lake_boating.png"
+    },
+    {
+      "id": "unchalli_falls_cataract",
+      "title": "Unchalli Falls Cataract",
+      "filename": "unchalli_falls_cataract.png",
+      "path": "nano-banana-icons/individual/unchalli_falls_cataract.png"
+    },
+    {
+      "id": "vachana_palm_leaf_manuscript",
+      "title": "Vachana Palm Leaf Manuscript",
+      "filename": "vachana_palm_leaf_manuscript.png",
+      "path": "nano-banana-icons/individual/vachana_palm_leaf_manuscript.png"
+    },
+    {
+      "id": "vaikunta_ekadashi_gateway",
+      "title": "Vaikunta Ekadashi Gateway",
+      "filename": "vaikunta_ekadashi_gateway.png",
+      "path": "nano-banana-icons/individual/vaikunta_ekadashi_gateway.png"
+    },
+    {
+      "id": "vanki_ruby_armlet",
+      "title": "Vanki Ruby Armlet",
+      "filename": "vanki_ruby_armlet.png",
+      "path": "nano-banana-icons/individual/vanki_ruby_armlet.png"
+    },
+    {
+      "id": "varamahalakshmi_kalasha",
+      "title": "Varamahalakshmi Kalasha",
+      "filename": "varamahalakshmi_kalasha.png",
+      "path": "nano-banana-icons/individual/varamahalakshmi_kalasha.png"
+    },
+    {
+      "id": "veeragase_battle_regalia",
+      "title": "Veeragase Battle Regalia",
+      "filename": "veeragase_battle_regalia.png",
+      "path": "nano-banana-icons/individual/veeragase_battle_regalia.png"
+    },
+    {
+      "id": "veeragase_warrior",
+      "title": "Veeragase Warrior",
+      "filename": "veeragase_warrior.png",
+      "path": "nano-banana-icons/individual/veeragase_warrior.png"
+    },
+    {
+      "id": "veergallu_battle_hero_stone",
+      "title": "Veergallu Battle Hero Stone",
+      "filename": "veergallu_battle_hero_stone.png",
+      "path": "nano-banana-icons/individual/veergallu_battle_hero_stone.png"
+    },
+    {
+      "id": "venu_bamboo_flute",
+      "title": "Venu Bamboo Flute",
+      "filename": "venu_bamboo_flute.png",
+      "path": "nano-banana-icons/individual/venu_bamboo_flute.png"
+    },
+    {
+      "id": "vidhana_soudha_currency_note",
+      "title": "Vidhana Soudha Currency Note",
+      "filename": "vidhana_soudha_currency_note.png",
+      "path": "nano-banana-icons/individual/vidhana_soudha_currency_note.png"
+    },
+    {
+      "id": "vidyarthi_bhavan_dosa",
+      "title": "Vidyarthi Bhavan Dosa",
+      "filename": "vidyarthi_bhavan_dosa.png",
+      "path": "nano-banana-icons/individual/vidyarthi_bhavan_dosa.png"
+    },
+    {
+      "id": "vijayanagara_gold_varaha",
+      "title": "Vijayanagara Gold Varaha",
+      "filename": "vijayanagara_gold_varaha.png",
+      "path": "nano-banana-icons/individual/vijayanagara_gold_varaha.png"
+    },
+    {
+      "id": "vijayanagara_katar_dagger",
+      "title": "Vijayanagara Katar Dagger",
+      "filename": "vijayanagara_katar_dagger.png",
+      "path": "nano-banana-icons/individual/vijayanagara_katar_dagger.png"
+    },
+    {
+      "id": "vintage_35mm_film_reel",
+      "title": "Vintage 35Mm Film Reel",
+      "filename": "vintage_35mm_film_reel.png",
+      "path": "nano-banana-icons/individual/vintage_35mm_film_reel.png"
+    },
+    {
+      "id": "visvesvaraya_glasses",
+      "title": "Visvesvaraya Glasses",
+      "filename": "visvesvaraya_glasses.png",
+      "path": "nano-banana-icons/individual/visvesvaraya_glasses.png"
+    },
+    {
+      "id": "white_bellied_blue_flycatcher",
+      "title": "White Bellied Blue Flycatcher",
+      "filename": "white_bellied_blue_flycatcher.png",
+      "path": "nano-banana-icons/individual/white_bellied_blue_flycatcher.png"
+    },
+    {
+      "id": "wild_honeycomb",
+      "title": "Wild Honeycomb",
+      "filename": "wild_honeycomb.png",
+      "path": "nano-banana-icons/individual/wild_honeycomb.png"
+    },
+    {
+      "id": "wodeyar_coat_of_arms",
+      "title": "Wodeyar Coat Of Arms",
+      "filename": "wodeyar_coat_of_arms.png",
+      "path": "nano-banana-icons/individual/wodeyar_coat_of_arms.png"
+    },
+    {
+      "id": "wodeyar_kanthirava_narasimha_fanam",
+      "title": "Wodeyar Kanthirava Narasimha Fanam",
+      "filename": "wodeyar_kanthirava_narasimha_fanam.png",
+      "path": "nano-banana-icons/individual/wodeyar_kanthirava_narasimha_fanam.png"
+    },
+    {
+      "id": "wooden_flying_shuttle",
+      "title": "Wooden Flying Shuttle",
+      "filename": "wooden_flying_shuttle.png",
+      "path": "nano-banana-icons/individual/wooden_flying_shuttle.png"
+    },
+    {
+      "id": "wooden_plough_negilu",
+      "title": "Wooden Plough Negilu",
+      "filename": "wooden_plough_negilu.png",
+      "path": "nano-banana-icons/individual/wooden_plough_negilu.png"
+    },
+    {
+      "id": "yakshagana_badagu_kirita",
+      "title": "Yakshagana Badagu Kirita",
+      "filename": "yakshagana_badagu_kirita.png",
+      "path": "nano-banana-icons/individual/yakshagana_badagu_kirita.png"
+    },
+    {
+      "id": "yakshagana_chande",
+      "title": "Yakshagana Chande",
+      "filename": "yakshagana_chande.png",
+      "path": "nano-banana-icons/individual/yakshagana_chande.png"
+    },
+    {
+      "id": "yakshagana_kirita_face",
+      "title": "Yakshagana Kirita Face",
+      "filename": "yakshagana_kirita_face.png",
+      "path": "nano-banana-icons/individual/yakshagana_kirita_face.png"
+    },
+    {
+      "id": "yakshagana_mask",
+      "title": "Yakshagana Mask",
+      "filename": "yakshagana_mask.png",
+      "path": "nano-banana-icons/individual/yakshagana_mask.png"
+    },
+    {
+      "id": "yakshagana_tenku_pagade",
+      "title": "Yakshagana Tenku Pagade",
+      "filename": "yakshagana_tenku_pagade.png",
+      "path": "nano-banana-icons/individual/yakshagana_tenku_pagade.png"
+    },
+    {
+      "id": "yana_bhairaveshwara_spire",
+      "title": "Yana Bhairaveshwara Spire",
+      "filename": "yana_bhairaveshwara_spire.png",
+      "path": "nano-banana-icons/individual/yana_bhairaveshwara_spire.png"
+    },
+    {
+      "id": "yana_caves",
+      "title": "Yana Caves",
+      "filename": "yana_caves.png",
+      "path": "nano-banana-icons/individual/yana_caves.png"
+    },
+    {
+      "id": "yana_mohini_spire",
+      "title": "Yana Mohini Spire",
+      "filename": "yana_mohini_spire.png",
+      "path": "nano-banana-icons/individual/yana_mohini_spire.png"
+    }
+  ]
+}

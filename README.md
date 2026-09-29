@@ -5,23 +5,35 @@
 </p>
 
 <p align="center">
-  <strong>೫೧೫ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು • 515 Production-Ready Vector Icons</strong><br>
+  <strong>೧೦೨೩+ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು • 1,020+ Production-Ready Vector & 3D App Icons</strong><br>
   <em>Celebrating Karnataka’s 2000+ year cultural heritage, temple architecture, performing arts, folklore, wildlife, culinary treasures, and modern Bengaluru innovation.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Icons-515-C8102E?style=for-the-badge&logoColor=white" alt="Total Icons" />
-  <img src="https://img.shields.io/badge/Categories-10-F5B800?style=for-the-badge&logoColor=black" alt="Categories" />
-  <img src="https://img.shields.io/badge/Formats-SVG_+_PNG_512px-0F172A?style=for-the-badge&logoColor=white" alt="Formats" />
-  <img src="https://img.shields.io/badge/Background-Transparent-059669?style=for-the-badge&logoColor=white" alt="Background" />
+  <img src="https://img.shields.io/badge/Nano_Banana_3D_Icons-508-C8102E?style=for-the-badge&logoColor=white" alt="Nano Banana 3D Icons" />
+  <img src="https://img.shields.io/badge/Standard_Vector_Icons-515-F5B800?style=for-the-badge&logoColor=black" alt="Standard Vector Icons" />
+  <img src="https://img.shields.io/badge/Total_Icons-1023-0F172A?style=for-the-badge&logoColor=white" alt="Total Icons" />
+  <img src="https://img.shields.io/badge/Formats-SVG_+_PNG_512px-059669?style=for-the-badge&logoColor=white" alt="Formats" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 ---
 
-## 🌟 Highlights
+## 🌟 Dual Editions
 
-- **515 Handcrafted Vectors**: Fully scalable, standardized on a `64x64` coordinate grid with uniform stroke weights (`1.5px` - `2.5px`).
+This repository provides two distinct, comprehensive icon collections:
+
+### 1. 🎨 Nano Banana 3D App Icons Edition (508 Icons)
+- **508 Standalone High-Resolution 512×512 PNG Icons** located in [`nano-banana-icons/individual/`](nano-banana-icons/individual/).
+- **56 Master Thematic Pack Sheets** (each containing 9 iconic vectors) in [`nano-banana-icons/`](nano-banana-icons/).
+- Generated using state-of-the-art **Nano Banana** multimodal AI image generation with vivid 3D gloss, authentic Kannada cultural details, and app icon aesthetic.
+- Interactive catalog: [`nano_banana.html`](nano_banana.html).
+
+### 2. 📐 Standard Flat & Duo-tone Vector Icons Edition (515 Icons)
+- **515 Handcrafted Vectors**: Standardized on a `64x64` coordinate grid with uniform stroke weights (`1.5px` - `2.5px`).
+- Available in scalable vector [`svg/`](svg/) and transparent raster [`png/`](png/) (`512x512`).
+- Interactive catalog: [`index.html`](index.html).
+
 - **100% Transparent Backgrounds**: Seamlessly drop into light, dark, colored, or textured design canvases.
 - **Dual Formats**:
   - `svg/`: Crisp, scalable vector source files (`.svg`).

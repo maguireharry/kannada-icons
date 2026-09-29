@@ -61,7 +61,7 @@ SHEET_ICONS = {
         "badami_mango", "areca_nut_adike", "sihi_elaneeru_coconut"
     ],
     "musical_instruments_pack_sheet": [
-        "carnatic_veena", "yakshagana_chande", "mridangam_drum",
+        "mysore_carnatic_veena", "yakshagana_chande", "mridangam_drum",
         "maddale_percussion", "kamsale_brass_cymbals", "tambura_lute",
         "ghatam_clay_pot", "shanku_sacred_conch", "nadaswaram_pipe"
     ],
@@ -229,6 +229,61 @@ SHEET_ICONS = {
         "crisp_badam_puri_powdered", "dharwad_peda_sugar_crystals", "sihi_huggi_sweet_pongal",
         "hayagreeva_chana_jaggery", "gasagase_payasa_silver_cup", "tambittu_festival_laddoo",
         "bele_obbattu_holige_ghee", "kayi_obbattu_coconut", "motichoor_laddoo_saffron"
+    ],
+    "kannada_consonants_part1_pack_sheet": [
+        "kannada_letter_gha", "kannada_letter_nga", "kannada_letter_cha",
+        "kannada_letter_chha", "kannada_letter_ja", "kannada_letter_jha",
+        "kannada_letter_nya", "kannada_letter_ta", "kannada_letter_tha"
+    ],
+    "kannada_consonants_part2_pack_sheet": [
+        "kannada_letter_da", "kannada_letter_dha", "kannada_letter_na_retroflex",
+        "kannada_letter_dental_ta", "kannada_letter_dental_tha", "kannada_letter_dental_da",
+        "kannada_letter_dental_dha", "kannada_letter_dental_na", "kannada_letter_pa"
+    ],
+    "kannada_consonants_part3_pack_sheet": [
+        "kannada_letter_pha", "kannada_letter_ba", "kannada_letter_bha",
+        "kannada_letter_ma", "kannada_letter_ya", "kannada_letter_ra",
+        "kannada_letter_la", "kannada_letter_va", "kannada_letter_sha"
+    ],
+    "kannada_consonants_part4_pack_sheet": [
+        "kannada_letter_retroflex_sha", "kannada_letter_sa", "kannada_letter_ha",
+        "kannada_letter_retroflex_la", "kannada_letter_archaic_rha", "kannada_letter_archaic_zha",
+        "kannada_conjunct_jnya", "kannada_conjunct_tra", "kannada_conjunct_shra"
+    ],
+    "traditional_sweets_part3_pack_sheet": [
+        "mysore_pak_porous_ghee", "rava_laddoo_raisins", "shenga_holige_peanut",
+        "besan_laddoo_pistachio", "dumroot_ash_gourd_halwa", "kesari_bath_saffron",
+        "halbai_coconut_milk_fudge", "godhi_huggi_broken_wheat", "boondi_laddoo_golden"
+    ],
+    "waterfalls_cascades_pack_sheet": [
+        "jog_falls_four_cascades", "gaganachukki_falls_twin", "bharachukki_falls_horseshoe",
+        "abbey_falls_coorg_coffee", "iruppu_falls_brahmagiri", "magod_falls_bedthi_gorge",
+        "sathodi_falls_yellapur_pool", "hebbe_falls_kemmangundi", "unchalli_falls_cataract"
+    ],
+    "wildlife_sanctuaries_pack_sheet": [
+        "nagarhole_tiger_safari_jeep", "bandipur_elephant_crossing_sign", "dandeli_kali_river_rafting",
+        "kudremukh_horse_peak", "anshi_black_panther", "ranganathittu_pelican_boat",
+        "daroji_sloth_bear_rocks", "bhadra_tiger_paw_pugmark", "dubare_baby_elephant_bath"
+    ],
+    "coastal_architecture_pack_sheet": [
+        "kaup_lighthouse_red_white", "bhatkal_lighthouse_cliff", "suratkal_lighthouse_beacon",
+        "devbagh_beach_watchtower", "st_aloysius_chapel_portico", "milagres_church_towers",
+        "ullal_sayyid_madani_dargah", "barkur_stone_pavilion_ruins", "sharavathi_railway_bridge"
+    ],
+    "breakfast_delicacies_pack_sheet": [
+        "set_dosa_sagu_chutney", "rava_idli_cashew_nut", "chow_chow_bath_dual_combo",
+        "akki_rotti_dill_leaves", "mangalore_buns_banana_puri", "poori_potato_saagu",
+        "shavige_bath_lemon_vermicelli", "curd_rice_pomegranate_mosranna", "bisi_bele_bath_boondi"
+    ],
+    "state_symbols_pack_sheet": [
+        "karnataka_emblem_gandaberunda", "state_animal_asian_elephant", "state_bird_indian_roller",
+        "state_tree_sandalwood_branch", "state_flower_pink_lotus", "state_butterfly_southern_birdwing",
+        "state_fish_carnatic_carp", "karnataka_yellow_red_flag", "rajyotsava_golden_karnataka_map"
+    ],
+    "sacred_sculptures_pack_sheet": [
+        "surya_brass_sun_mask", "chandra_silver_moon_mask", "kirti_mukha_hoysala_guardian",
+        "nandi_sacred_bull_figurine", "garuda_kneeling_winged_guardian", "hoysala_sala_slaying_lion",
+        "royal_elephant_brass_statue", "kamadhenu_sacred_cow_calf", "kalpavriksha_golden_wishing_tree"
     ]
 }
 
