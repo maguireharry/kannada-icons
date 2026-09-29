@@ -129,6 +129,56 @@ SHEET_ICONS = {
         "lakshmi_kasu_malai", "kadaga_lion_bangle", "vanki_ruby_armlet",
         "south_indian_mookuthi", "chandra_surya_hair_jewels", "emerald_pearl_haara",
         "daabu_gold_waist_belt", "silver_kaalungura_rings", "brass_gejje_ankle_bells"
+    ],
+    "kannada_swaras_pack_sheet": [
+        "kannada_letter_a", "kannada_letter_aa", "kannada_letter_i",
+        "kannada_letter_ee", "kannada_letter_u", "kannada_letter_oo",
+        "kannada_letter_ru", "kannada_letter_e", "kannada_letter_ae"
+    ],
+    "kannada_letters_part2_pack_sheet": [
+        "kannada_letter_ai", "kannada_letter_o", "kannada_letter_oh",
+        "kannada_letter_au", "kannada_letter_am", "kannada_letter_aha",
+        "kannada_letter_ka", "kannada_letter_kha", "kannada_letter_ga"
+    ],
+    "kannada_numerals_pack_sheet": [
+        "kannada_numeral_1", "kannada_numeral_2", "kannada_numeral_3",
+        "kannada_numeral_4", "kannada_numeral_5", "kannada_numeral_6",
+        "kannada_numeral_7", "kannada_numeral_8", "kannada_numeral_9"
+    ],
+    "sacred_festivals_pack_sheet": [
+        "gowri_ganesha_idol", "varamahalakshmi_kalasha", "nagara_panchami_cobra",
+        "deepavali_deepa_sparkler", "makar_sankranti_ellu_bella", "hampi_utsav_chariot",
+        "ayudha_pooja_tools", "maha_shivaratri_lingam", "vaikunta_ekadashi_gateway"
+    ],
+    "village_farming_pack_sheet": [
+        "bullock_cart", "wooden_plough_negilu", "scarecrow_paddy_field",
+        "stone_well_pulley", "beesuva_kallu_grinder", "kanaja_grain_silo",
+        "mora_winnowing_tray", "brass_milk_can", "karnataka_farmer"
+    ],
+    "traditional_games_pack_sheet": [
+        "chowka_bara_game", "pagade_board_game", "buguri_spinning_top",
+        "gilli_danda_wooden", "chenne_mane_mancala", "aadu_huli_aata",
+        "goti_glass_marbles", "channapatna_rattle_toy", "lagori_seven_stones"
+    ],
+    "rivers_reservoirs_pack_sheet": [
+        "kaveri_talacauvery_spring", "krishna_river_rocks", "tungabhadra_coracle_boat",
+        "sharavathi_river_cascade", "krs_dam_brindavan_gardens", "almatti_dam_gates",
+        "netravathi_river_estuary", "tungabhadra_dam_masonry", "malaprabha_river_ghats"
+    ],
+    "karnataka_legends_pack_sheet": [
+        "sir_mv_visvesvaraya", "rashtrakavi_kuvempu", "kittur_rani_chennamma",
+        "krantiveera_sangolli_rayanna", "akka_mahadevi_vachanakarthi", "bhakta_kanakadasa",
+        "dr_shivaram_karanth", "field_marshal_cariappa", "shakuntala_devi_mathematician"
+    ],
+    "handloom_sarees_pack_sheet": [
+        "mysore_silk_zari_saree", "ilkal_topi_teni_saree", "molakalmuru_temple_saree",
+        "guledgudda_khana_fabric", "udupi_cotton_handloom_saree", "patteda_anchu_saree",
+        "navalgund_jamkhana_durrie", "wooden_flying_shuttle", "traditional_charkha_wheel"
+    ],
+    "sacred_chariots_pack_sheet": [
+        "mysore_dasara_ambari_howdah", "udupi_brahmaratha_chariot", "temple_chariot_wooden_wheel",
+        "melukote_vairamudi_crown", "kukke_subramanya_silver_chariot", "golden_temple_pallaki",
+        "temple_umbrella_muthukuda", "chamundeshwari_golden_idol", "coconut_breaking_ritual"
     ]
 }
 
