@@ -179,6 +179,56 @@ SHEET_ICONS = {
         "mysore_dasara_ambari_howdah", "udupi_brahmaratha_chariot", "temple_chariot_wooden_wheel",
         "melukote_vairamudi_crown", "kukke_subramanya_silver_chariot", "golden_temple_pallaki",
         "temple_umbrella_muthukuda", "chamundeshwari_golden_idol", "coconut_breaking_ritual"
+    ],
+    "caves_geology_pack_sheet": [
+        "badami_cave_1_nataraja", "badami_cave_3_vishnu", "yana_bhairaveshwara_spire",
+        "yana_mohini_spire", "kavala_limestone_caves", "st_marys_island_basalt",
+        "savandurga_granite_monolith", "madhugiri_fort_rock", "anthargange_caves_spring"
+    ],
+    "epigraphy_inscriptions_pack_sheet": [
+        "halmidi_stone_inscription_slab", "kappe_arabhatta_cliff_rock", "atakur_dog_hero_stone",
+        "tyagada_kamba_pillar", "talagunda_pillar_edict", "belur_pedestal_inscription",
+        "aihole_ravikirti_slab", "tamarashasana_copper_charters", "veergallu_battle_hero_stone"
+    ],
+    "flora_trees_pack_sheet": [
+        "sandalwood_log_paste", "teak_wood_tree", "rosewood_timber_block",
+        "honne_tree_blossoms", "sampige_champaka_flower", "parijata_sacred_bloom",
+        "coconut_palm_frond", "arecanut_betel_palm", "dodda_alada_mara_banyan"
+    ],
+    "traditional_utensils_pack_sheet": [
+        "mysore_brass_filter_davarah", "kalchatti_soapstone_pot", "paddu_guliyappa_pan",
+        "hande_brass_water_pot", "mathu_wooden_churner", "bronze_thali_katoris",
+        "ilige_mane_cutter", "chirava_mane_coconut_scraper", "kalu_kuttani_mortar_pestle"
+    ],
+    "modern_tech_pack_sheet": [
+        "chandrayaan_moon_lander", "mangalyaan_mars_orbiter", "hal_tejas_fighter_jet",
+        "electronic_city_elevated_expressway", "infosys_glass_pyramid", "karnataka_silicon_circuit_wafer",
+        "green_ev_charging_station", "bengaluru_tech_desk_laptop", "deep_space_network_antenna"
+    ],
+    "performing_arts_pack_sheet": [
+        "yakshagana_badagu_kirita", "yakshagana_tenku_pagade", "somana_kunitha_demon_mask",
+        "goravara_kunitha_bearskin", "dollu_kunitha_barrel_drum", "veeragase_battle_regalia",
+        "suggi_kunitha_floral_tower", "bhoota_kola_frond_aani", "kamsale_bronze_cymbals"
+    ],
+    "north_karnataka_heritage_pack_sheet": [
+        "gol_gumbaz_whispering_dome", "ibrahim_rauza_mausoleum", "mahmud_gawan_madrasa",
+        "basavakalyana_fort_ramparts", "gulbarga_fort_jami_masjid", "kittur_fort_ruins_gate",
+        "lakkundi_temple_shikhara", "itagi_mahadeva_temple", "haveri_siddheshwara_temple"
+    ],
+    "coastal_marine_pack_sheet": [
+        "malpe_fishing_trawler_boat", "beach_sailing_doni_canoe", "cane_fish_trap_koodu",
+        "coir_rope_iron_anchor", "maanji_pomfret_fish_ice", "spicy_tiger_prawns_fry",
+        "coastal_beach_crab", "mangalore_tile_roof_house", "st_lawrence_basilica_attur"
+    ],
+    "historic_coins_pack_sheet": [
+        "kadamba_padma_tanka_lotus", "chalukya_varaha_boar_coin", "hoysala_sala_tiger_gadyana",
+        "krishnadevaraya_balakrishna_pagoda", "wodeyar_kanthirava_narasimha_fanam", "tipu_sultan_elephant_paisa",
+        "bahmani_silver_tanka_calligraphy", "keladi_shiva_parvati_pagoda", "vidhana_soudha_currency_note"
+    ],
+    "traditional_sweets_part2_pack_sheet": [
+        "crisp_badam_puri_powdered", "dharwad_peda_sugar_crystals", "sihi_huggi_sweet_pongal",
+        "hayagreeva_chana_jaggery", "gasagase_payasa_silver_cup", "tambittu_festival_laddoo",
+        "bele_obbattu_holige_ghee", "kayi_obbattu_coconut", "motichoor_laddoo_saffron"
     ]
 }
 
