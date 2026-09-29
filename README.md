@@ -1,50 +1,80 @@
-# ಕನ್ನಡ ಐಕಾನ್‌ಗಳು — Kannada Icons Collection
+# ಕನ್ನಡ ಐಕಾನ್‌ಗಳು ಮತ್ತು ಕ್ಲಾಸಿಕ್ ಪೋಸ್ಟರ್‌ಗಳು — Kannada Icons & Classic Posters Archive
 
 <p align="center">
-  <img src="catalog_preview.png" alt="Kannada Icons Preview" width="850" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="posters/test_crops/contact_posters_sheet_08_pan_indian_epics.png" alt="Kannada Cinema Posters Preview" width="400" style="border-radius: 12px; margin: 6px;" />
+  <img src="nano-banana-icons/heritage_pack_sheet.png" alt="Nano Banana 3D Icons Preview" width="400" style="border-radius: 12px; margin: 6px;" />
 </p>
 
 <p align="center">
-  <strong>೧೦೨೩+ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು • 1,020+ Production-Ready Vector & 3D App Icons</strong><br>
-  <em>Celebrating Karnataka’s 2000+ year cultural heritage, temple architecture, performing arts, folklore, wildlife, culinary treasures, and modern Bengaluru innovation.</em>
+  <strong>೧೦೮ ಕ್ಲಾಸಿಕ್ ಚಲನಚಿತ್ರ ಪೋಸ್ಟರ್‌ಗಳು + ೧೦೨೩+ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು</strong><br>
+  <strong>108 Reimagined Classic Movie Posters • 1,023+ Vector & 3D App Icons</strong><br>
+  <em>Celebrating Karnataka’s 2000+ year cultural heritage, temple architecture, performing arts, folklore, culinary treasures, and 70 years of landmark Kannada cinema (1954–2024).</em>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Movie_Posters-108-D4AF37?style=for-the-badge&logoColor=black" alt="Movie Posters" />
   <img src="https://img.shields.io/badge/Nano_Banana_3D_Icons-508-C8102E?style=for-the-badge&logoColor=white" alt="Nano Banana 3D Icons" />
   <img src="https://img.shields.io/badge/Standard_Vector_Icons-515-F5B800?style=for-the-badge&logoColor=black" alt="Standard Vector Icons" />
-  <img src="https://img.shields.io/badge/Total_Icons-1023-0F172A?style=for-the-badge&logoColor=white" alt="Total Icons" />
-  <img src="https://img.shields.io/badge/Formats-SVG_+_PNG_512px-059669?style=for-the-badge&logoColor=white" alt="Formats" />
+  <img src="https://img.shields.io/badge/Total_Assets-1131-0F172A?style=for-the-badge&logoColor=white" alt="Total Assets" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 ---
 
-## 🌟 Dual Editions
+## 🌟 Three Flagship Collections
 
-This repository provides two distinct, comprehensive icon collections:
+This repository is an all-in-one graphic design archive containing three premier digital art collections:
 
-### 1. 🎨 Nano Banana 3D App Icons Edition (508 Icons)
-- **508 Standalone High-Resolution 512×512 PNG Icons** located in [`nano-banana-icons/individual/`](nano-banana-icons/individual/).
-- **56 Master Thematic Pack Sheets** (each containing 9 iconic vectors) in [`nano-banana-icons/`](nano-banana-icons/).
+### 1. 🎬 108 Classic Kannada Movie Posters Reimagined (Kannada Typography)
+- **108 Individual High-Resolution Posters (700×1050 PNG)** in [`posters/individual/`](posters/individual/).
+- **12 Master Exhibition Sheets (3×3 Art Grids)** in [`posters/sheets/`](posters/sheets/).
+- **Authentic Kannada Fonts on Every Poster**: Every single poster prominently features the movie's title rendered in native **Kannada script** (`NotoSansKannada-Bold.ttf`) alongside English title, release year, director, starring cast, and artistic style notes.
+- **10+ Global Art Movements**:
+  - *Japanese Ukiyo-e Woodblock*: Mayura, Ranadheera, Kantara Panjurli
+  - *Soviet Constructivism / Agitprop*: Bangarada Manushya, Kaatera
+  - *Cyberpunk & Synthwave Neon Noir*: Antha, Lucia, Salaga, Gultoo
+  - *Gothic Woodcut & Stained Glass*: Chomana Dudi, Om (Rose Window), Tabarana Kathe
+  - *Art Deco & Travel Lithograph*: Pushpaka Vimana, America America
+  - *Studio Ghibli Anime & Watercolor*: 777 Charlie, Mungaru Male, Beladingala Baale
+  - *Pop Art & Comic Strip*: Shankar Guru, Tarle Nan Maga, Jackie
+  - *Ancient Stone Bas-Relief*: Bedara Kannappa, Bhakta Kumbara
+  - *Heavy Metal Industrial & Noir*: K.G.F Chapter 1 & 2, Ulidavaru Kandanthe
+- **Interactive Web Gallery**: [`posters.html`](posters.html) with bilingual search (Kannada & English), era filter tabs, individual vs master sheet views, and instant download modal.
+
+### 2. 🍌 508 Nano Banana 3D App Icons Edition
+- **508 Standalone 512×512 PNG Icons** located in [`nano-banana-icons/individual/`](nano-banana-icons/individual/).
+- **56 Master Thematic Pack Sheets** in [`nano-banana-icons/`](nano-banana-icons/).
 - Generated using state-of-the-art **Nano Banana** multimodal AI image generation with vivid 3D gloss, authentic Kannada cultural details, and app icon aesthetic.
-- Interactive catalog: [`nano_banana.html`](nano_banana.html).
+- **Interactive Web Catalog**: [`nano_banana.html`](nano_banana.html).
 
-### 2. 📐 Standard Flat & Duo-tone Vector Icons Edition (515 Icons)
-- **515 Handcrafted Vectors**: Standardized on a `64x64` coordinate grid with uniform stroke weights (`1.5px` - `2.5px`).
-- Available in scalable vector [`svg/`](svg/) and transparent raster [`png/`](png/) (`512x512`).
-- Interactive catalog: [`index.html`](index.html).
-
-- **100% Transparent Backgrounds**: Seamlessly drop into light, dark, colored, or textured design canvases.
-- **Dual Formats**:
-  - `svg/`: Crisp, scalable vector source files (`.svg`).
-  - `png/`: High-resolution `512x512` anti-aliased transparent raster exports (`.png`).
-- **Bilingual & Searchable**: Every icon is labeled with both Kannada (`ಕನ್ನಡ ಹೆಸರು`) and English names, categorized, and tagged in `icons.json`.
-- **Interactive Web Catalog**: Zero-dependency `index.html` with instant live search in Kannada & English, category filters, background switchers, and single-click SVG/PNG copying and downloading.
-- **Graphic Design Ready**: Ideal for Figma, Sketch, Adobe Illustrator, Canva, web applications, Flutter/React Native apps, print media, and festival posters.
+### 3. 🎨 515 Standard Flat & Duo-tone Vector Icons Edition
+- **515 Handcrafted Vectors**: Standardized on a `64x64` coordinate grid with uniform stroke weights.
+- Formats: Scalable vector [`svg/`](svg/) and transparent raster [`png/`](png/) (`512x512`).
+- Spans 10 cultural categories: Script, Royalty, Architecture, Arts, Crafts, Wildlife, Geography, Cuisine, Literature, Modern Karnataka.
+- **Interactive Web Catalog**: [`index.html`](index.html).
 
 ---
 
-## 📂 Category Breakdown (515 Icons)
+## 🎬 108 Reimagined Movie Posters Breakdown (12 Master Sheets)
+
+| Sheet | Theme / Era | Decade / Era | Landmark Films Included |
+|:-----:|-------------|:------------:|-------------------------|
+| **01** | **Golden Era Epics** | 1950s–1970s | *Bedara Kannappa, Bhakta Prahlada, Satya Harishchandra, Bangarada Manushya, Naagarahaavu, Babruvahana, Mayura, Kasturi Nivasa, Eradu Kanasu* |
+| **02** | **Art-House & Parallel Cinema** | 1970s–2000s | *Chomana Dudi, Samskara, Ghatashraddha, Tabarana Kathe, Kaviratna Kalidasa, Bhakta Kumbara, Bhookailasa, Bhoomi Geetha, Chigurida Kanasu* |
+| **03** | **1980s Action Thrillers & Sci-Fi** | 1975–1993 | *Antha, Accident, Geetha, Shankar Guru, CBI Shankar, Ranadheera, Premada Kanike, Daari Tappida Maga, Nishkarsha* |
+| **04** | **Romance & Musicals** | 1982–1997 | *Bandhana, Muthina Haara, Hrudaya Haadithu, Pushpaka Vimana, Beladingala Baale, Amruthavarshini, Janumada Jodi, America America, Haalu Jenu* |
+| **05** | **Cult Underworld & Upendra** | 1990–2002 | *Om, A, Upendra, AK-47, Tarle Nan Maga, Gauri Ganesha, Ganeshana Maduve, Yaare Neenu Cheluve, Appu* |
+| **06** | **2000s New Wave Blockbusters** | 2005–2010 | *Mungaru Male, Duniya, Aa Dinagalu, Jogi, Gaalipata, Milana, Jackie, Kallarali Hoovagi, Eddelu Manjunatha* |
+| **07** | **Kannada Indie Revolution** | 2013–2017 | *Lucia, Ulidavaru Kandanthe, U-Turn, Thithi, RangiTaranga, Rama Rama Re..., Kirik Party, Godhi Banna Sadharana Mykattu, Ondu Motteya Kathe* |
+| **08** | **Pan-Indian Epics & Phenomenon** | 2017–2022 | *KGF Chapter 1, Kantara, KGF Chapter 2, 777 Charlie, Garuda Gamana Vrishabha Vahana, Sarkari Hi. Pra. Shaale Kasaragodu, Bell Bottom, Tagaru, Mufti* |
+| **09** | **Contemporary Cinema & Visuals** | 2019–2023 | *Sapta Saagaradaache Ello Side A & B, Dia, Love Mocktail, Daredevil Musthafa, Hostel Hudugaru Bekagiddare, Kavaludaari, Avane Srimannarayana, Vikrant Rona* |
+| **10** | **Mass Blockbusters & Crime Sagas** | 2001–2023 | *Kaatera, Salaga, Head Bush, Badava Rascal, Ghost, Kabzaa, James, Kotigobba, Simhadriya Simha* |
+| **11** | **Cult Comedies & Melodramas** | 1986–2018 | *Mata, Kothigalu Saar Kothigalu, Bhagyada Lakshmi Baramma, Shivalinga, Sanju Weds Geetha, Krishnan Love Story, Gultoo, Nathicharami, Taj Mahal* |
+| **12** | **Historic Epics & Flagship Art** | 1961–2022 | *Sparsha, Nandi, Kittur Chennamma, Sangolli Rayanna, Kanooru Heggadithi, Veera Kannadiga, Mayura (Ukiyo-e), Om (Rose Window), Kantara (Daiva Woodblock)* |
+
+---
+
+## 📂 Vector Icons Category Breakdown (515 Icons)
 
 | # | Category | ಕನ್ನಡ ಹೆಸರು | Icons | Description |
 |---|----------|-------------|:-----:|-------------|
@@ -52,93 +82,34 @@ This repository provides two distinct, comprehensive icon collections:
 | 2 | **[Emblems & Royalty](svg/emblems-royalty/)** | ರಾಜಮನೆತನಗಳು ಮತ್ತು ಲಾಂಛನಗಳು | **50** | Gandaberunda, Hoysala Sala, Kadamba Lion, Chalukya Varaha, Wodeyar Crest, Mysore Peta, Golden Ambari |
 | 3 | **[Architecture & Monuments](svg/architecture-monuments/)** | ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸ್ಮಾರಕಗಳು | **60** | Hampi Stone Chariot, Virupaksha Gopuram, Mysore Palace, Belur Stellate Star, Gol Gumbaz, Bahubali Monolith |
 | 4 | **[Performing Arts & Music](svg/performing-arts-music/)** | ರಂಗಕಲೆಗಳು, ಜಾನಪದ ಮತ್ತು ಸಂಗೀತ | **50** | Yakshagana crowns (Tenkutittu & Badagutittu), Dollu Kunitha, Veeragase, Kamsale, Bhoota Kola, Mysore Veena |
-| 5 | **[Crafts, Textiles & Jewelry](svg/crafts-textiles-jewelry/)** | ಕರಕುಶಲ ವಸ್ತುಗಳು ಮತ್ತು ಆಭರಣಗಳು | **50** | Mysore Silk sarees, Ilkal Tope Teni, Channapatna toys, Bidriware, Sandalwood carving, Kasuti embroidery, Temple jewelry |
-| 6 | **[Wildlife, Flora & Fauna](svg/wildlife-flora-fauna/)** | ವನ್ಯಜೀವಿಗಳು ಮತ್ತು ಸಸ್ಯಸಂಪತ್ತು | **50** | Asian Elephant, Indian Roller (Neelakantha), Lotus, Sandalwood tree, Bengal Tiger, Blackbuck, Lion-tailed Macaque |
-| 7 | **[Geography, Rivers & Hills](svg/geography-nature/)** | ಭೌಗೋಳಿಕ ಪರಿಸರ, ನದಿಗಳು, ಗಿರಿಶಿಖರಗಳು | **45** | Karnataka state map, Sahyadri Western Ghats, Jog Falls, Shivanasamudra, Mullayanagiri, Cauvery, Yana Karsts, Kaup Lighthouse |
-| 8 | **[Cuisine & Flavors](svg/cuisine-flavors/)** | ಕರ್ನಾಟಕದ ಖಾದ್ಯ ವೈವಿಧ್ಯ ಮತ್ತು ಸಿಹಿತಿಂಡಿಗಳು | **50** | Mysore Pak, Dharwad Peda, Davangere Benne Dosa, Masala Dosa, Thatte Idli, Bisi Bele Bath, Ragi Mudde, Filter Coffee |
-| 9 | **[Festivals & Literature](svg/festivals-traditions-literature/)** | ಹಬ್ಬಗಳು, ಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಸ್ಕೃತಿ | **50** | Karnataka Bicolor Flag, Jamboo Savari, Kambala racing, Ugadi Bevu-Bella, Karaga, Kuvempu, Basavanna, 8 Jnanpith Awards |
-| 10 | **[Modern Karnataka & Lifestyle](svg/modern-karnataka-lifestyle/)** | ಆಧುನಿಕ ಕರ್ನಾಟಕ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ | **45** | Namma Metro, BMTC bus, Auto Rickshaw, Silicon Valley chip, ISRO rocket & satellite, HAL Tejas, Mysore Sandal Soap, IISc |
+| 5 | **[Crafts, Textiles & Jewelry](svg/crafts-textiles-jewelry/)** | ಕರಕುಶಲ ವಸ್ತುಗಳು ಮತ್ತು ಆಭರಣಗಳು | **50** | Mysore Silk sarees, Ilkal Tope Teni, Channapatna toys, Bidriware, Sandalwood carving, Kasuti embroidery |
+| 6 | **[Wildlife, Flora & Fauna](svg/wildlife-flora-fauna/)** | ವನ್ಯಜೀವಿಗಳು ಮತ್ತು ಸಸ್ಯಸಂಪತ್ತು | **50** | Asian Elephant, Indian Roller (Neelakantha), Lotus, Sandalwood tree, Bengal Tiger, Blackbuck |
+| 7 | **[Geography, Rivers & Hills](svg/geography-nature/)** | ಭೌಗೋಳಿಕ ಪರಿಸರ, ನದಿಗಳು, ಗಿರಿಶಿಖರಗಳು | **45** | Karnataka state map, Sahyadri Western Ghats, Jog Falls, Shivanasamudra, Mullayanagiri, Cauvery |
+| 8 | **[Cuisine & Flavors](svg/cuisine-flavors/)** | ಕರ್ನಾಟಕದ ಖಾದ್ಯ ವೈವಿಧ್ಯ ಮತ್ತು ಸಿಹಿತಿಂಡಿಗಳು | **50** | Mysore Pak, Dharwad Peda, Davangere Benne Dosa, Masala Dosa, Thatte Idli, Bisi Bele Bath, Filter Coffee |
+| 9 | **[Festivals & Literature](svg/festivals-traditions-literature/)** | ಹಬ್ಬಗಳು, ಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಸ್ಕೃತಿ | **50** | Karnataka Flag, Jamboo Savari, Kambala racing, Ugadi Bevu-Bella, Kuvempu, Basavanna, 8 Jnanpith Awards |
+| 10 | **[Modern Karnataka & Lifestyle](svg/modern-karnataka-lifestyle/)** | ಆಧುನಿಕ ಕರ್ನಾಟಕ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ | **45** | Namma Metro, BMTC bus, Auto Rickshaw, Silicon Valley chip, ISRO rocket & satellite, HAL Tejas |
 | **Total** | | | **515** | |
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Interactive Catalogs
 
-### 1. Browse the Interactive Web Catalog
-Open `index.html` in any web browser (no local web server needed):
+All three web catalogs are zero-dependency static HTML pages:
+- **🎬 Movie Posters**: [`posters.html`](posters.html)
+- **🍌 Nano Banana 3D Icons**: [`nano_banana.html`](nano_banana.html)
+- **🎨 Standard Vectors**: [`index.html`](index.html)
+
+Open directly in any modern browser:
 ```bash
 # On Linux
-xdg-open index.html
+xdg-open posters.html
 
 # On macOS
-open index.html
+open posters.html
 
 # On Windows
-start index.html
+start posters.html
 ```
-
-### 2. Using with Figma or Adobe Illustrator
-- Simply drag and drop any `.svg` file from the `svg/` directory directly onto your canvas or artboard.
-- The SVGs are pure vectors, allowing you to freely scale, recolor, and extract individual path layers.
-
-### 3. Using in HTML / Web Applications
-```html
-<!-- Inline SVG -->
-<svg width="48" height="48" viewBox="0 0 64 64">
-  <!-- Paste SVG content from svg/<category>/<icon_id>.svg -->
-</svg>
-
-<!-- As an Image Tag -->
-<img src="svg/emblems-royalty/emblem_01_gandaberunda_state_crest.svg" alt="Gandaberunda" width="64" height="64" />
-<img src="png/cuisine-flavors/food_01_mysore_pak_square.png" alt="Mysore Pak" width="64" height="64" />
-```
-
-### 4. Using in React / Next.js
-```jsx
-import React from 'react';
-
-export const GandaberundaIcon = ({ size = 48, className = "" }) => (
-  <img 
-    src="/icons/emblem_01_gandaberunda_state_crest.svg" 
-    alt="Gandaberunda State Emblem" 
-    width={size} 
-    height={size} 
-    className={className} 
-  />
-);
-```
-
-### 5. Accessing Programmatic Metadata
-All 515 icons and categories are fully indexed in `icons.json`:
-```json
-{
-  "id": "arch_01_hampi_stone_chariot",
-  "name": "Hampi Stone Chariot (Vittala Temple)",
-  "kannada_name": "ಹಂಪಿ ಕಲ್ಲಿನ ರಥ (ವಿಜಯ ವಿಠ್ಠಲ)",
-  "category_slug": "architecture-monuments",
-  "tags": ["architecture", "monument", "hampi", "vijayanagara", "stonechariot"],
-  "svg_relative_path": "svg/architecture-monuments/arch_01_hampi_stone_chariot.svg",
-  "png_relative_path": "png/architecture-monuments/arch_01_hampi_stone_chariot.png"
-}
-```
-
----
-
-## 🎨 Design System & Palette
-
-The icon system is anchored in Karnataka's iconic royal and natural color palette:
-
-| Color Token | Hex Code | Representation |
-|-------------|:--------:|----------------|
-| **Kannada Red** | `#C8102E` | State Flag crimson band, Kunkuma, Royal passion |
-| **Kannada Yellow** | `#F5B800` | State Flag turmeric yellow band, Arasina, Joy |
-| **Karnataka Gold** | `#D97706` | Temple brass, Mysore Ambari, Royal Hoysala gold |
-| **Deep Forest Green** | `#15803D` | Western Ghats flora, Coorg coffee plantations |
-| **Cauvery Royal Blue** | `#1D4ED8` | Sacred Cauvery & Krishna river waters |
-| **Arabian Sky Blue** | `#0284C7` | Karavali coastline, Arabian Sea sky |
-| **Heritage Slate** | `#475569` | Hampi granite, Belur soapstone, Badami caves |
-| **Obsidian Dark** | `#0F172A` | Crisp architectural contours, Bidriware black patina |
-| **Temple Cream** | `#FFFBEB` | Sandalwood paste, Mysore silk fabric |
 
 ---
 
@@ -146,27 +117,24 @@ The icon system is anchored in Karnataka's iconic royal and natural color palett
 
 ```
 kannada-icons/
-├── svg/                                    # 515 Vector SVG files
-│   ├── script-typography/                  # 65 icons
-│   ├── emblems-royalty/                    # 50 icons
-│   ├── architecture-monuments/             # 60 icons
-│   ├── performing-arts-music/              # 50 icons
-│   ├── crafts-textiles-jewelry/            # 50 icons
-│   ├── wildlife-flora-fauna/               # 50 icons
-│   ├── geography-nature/                   # 45 icons
-│   ├── cuisine-flavors/                    # 50 icons
-│   ├── festivals-traditions-literature/    # 50 icons
-│   └── modern-karnataka-lifestyle/         # 45 icons
-├── png/                                    # 515 Transparent 512x512 PNG files
-│   └── [identical category folders]
-├── scripts/                                # Generation & export toolchain
-│   ├── icon_data/                          # 10 Python category generator modules
+├── posters/                                # 🎬 108 Movie Posters Archive
+│   ├── individual/                         # 108 High-Res 700x1050 PNG posters (with Kannada fonts)
+│   ├── sheets/                             # 12 Master 3x3 Exhibition Sheets (1024x1024)
+│   ├── posters.json                        # Full metadata index for 108 films
+│   └── posters_data.js                     # Static JS data for web viewer
+├── nano-banana-icons/                      # 🍌 508 Nano Banana 3D Icons
+│   ├── individual/                         # 508 High-Res 512x512 PNG icons
+│   └── [56 master pack sheets]
+├── svg/                                    # 🎨 515 Scalable Vector SVG files (10 categories)
+├── png/                                    # 🎨 515 Transparent 512x512 PNG files
+├── scripts/                                # Python automation toolchain
+│   ├── generate_individual_posters.py      # Poster compositor & typography engine
 │   ├── generate_all.py                     # Master SVG & JSON generator
 │   ├── export_pngs.py                      # Headless Chrome 512px PNG exporter
-│   └── build_catalog.py                    # Standalone index.html builder
-├── icons.json                              # Master metadata index
-├── index.html                              # Standalone interactive web catalog
-├── catalog_preview.png                     # Visual showcase screenshot
+│   └── build_catalog.py                    # Standalone HTML builder
+├── posters.html                            # 🎬 Interactive Movie Posters Catalog
+├── nano_banana.html                        # 🍌 Interactive Nano Banana 3D Catalog
+├── index.html                              # 🎨 Interactive Standard Vectors Catalog
 ├── package.json                            # NPM package descriptor
 ├── LICENSE                                 # MIT License
 └── README.md                               # Project documentation
@@ -174,25 +142,8 @@ kannada-icons/
 
 ---
 
-## 🛠️ Regeneration & Build Toolchain
-
-To regenerate SVGs, re-export PNGs, or rebuild the catalog from the python source definitions:
-
-```bash
-# 1. Regenerate all 515 SVGs and icons.json
-python3 scripts/generate_all.py
-
-# 2. Re-export all 515 high-res 512x512 transparent PNGs
-python3 scripts/export_pngs.py
-
-# 3. Rebuild the standalone index.html web catalog
-python3 scripts/build_catalog.py
-```
-
----
-
 ## 📄 License
 
-This collection is proudly open-sourced under the [MIT License](LICENSE). You are free to use, modify, distribute, and integrate these icons in both personal and commercial projects without royalties.
+This collection is proudly open-sourced under the [MIT License](LICENSE). You are free to use, modify, distribute, and integrate these assets in both personal and commercial projects.
 
-Crafted with ❤️ for Karnataka and Kannada enthusiasts across the globe.
+Crafted with ❤️ for Karnataka, Kannada culture, and Sandalwood cinema enthusiasts across the world.
