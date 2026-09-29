@@ -104,6 +104,31 @@ SHEET_ICONS = {
         "bangalore_palace_tudor", "cubbon_park_library", "ulsoor_lake_boating",
         "vidyarthi_bhavan_dosa", "bangalore_auto_meter", "ngma_mansion",
         "st_marys_basilica", "russell_market_clock_tower", "commercial_street_shopping"
+    ],
+    "weapons_armor_pack_sheet": [
+        "mysore_talwar_sword", "onake_obavva_pestle", "kadamba_gold_shield",
+        "vijayanagara_katar_dagger", "tipu_tiger_pistol", "mysore_royal_gada",
+        "kodava_peeche_kathi", "kodava_odi_kathi", "archery_bow_arrow"
+    ],
+    "coorg_kodagu_pack_sheet": [
+        "kodava_kupya_chele", "coorg_pandi_curry", "coorg_mandarin_orange",
+        "talacauvery_spring_pot", "kadambuttu_rice_balls", "kokkethathi_cobra_pendant",
+        "bamboo_shoot_kanile_curry", "kodava_brass_sheath", "brahmagiri_coffee_blossom"
+    ],
+    "carnatic_music_pack_sheet": [
+        "purandara_dasa_tambura", "kanakana_kindi_window", "carnatic_violin",
+        "venu_bamboo_flute", "mridangam_tuning_stone", "electronic_shruti_box",
+        "chipla_hand_clappers", "palm_leaf_music_notes", "bronze_nataraja"
+    ],
+    "sandalwood_cinema_pack_sheet": [
+        "dr_rajkumar_portrait", "vintage_35mm_film_reel", "gandhada_gudi_badge",
+        "mayura_golden_crown", "auto_raja_driver_cap", "babruvahana_sword_shield",
+        "kgf_gold_bar_hammer", "kantara_divine_mask", "state_film_award_trophy"
+    ],
+    "traditional_jewellery_pack_sheet": [
+        "lakshmi_kasu_malai", "kadaga_lion_bangle", "vanki_ruby_armlet",
+        "south_indian_mookuthi", "chandra_surya_hair_jewels", "emerald_pearl_haara",
+        "daabu_gold_waist_belt", "silver_kaalungura_rings", "brass_gejje_ankle_bells"
     ]
 }
 
