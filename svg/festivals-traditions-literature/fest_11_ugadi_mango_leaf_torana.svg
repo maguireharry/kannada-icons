@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Thread -->
+        <line x1="8" y1="18" x2="56" y2="18" stroke="#C8102E" stroke-width="2"/>
+        <!-- Pointed green mango leaves -->
+        <polygon points="16,18 20,38 12,38" fill="#15803D" stroke="#0F172A" stroke-width="1"/>
+        <polygon points="32,18 36,40 28,40" fill="#15803D" stroke="#0F172A" stroke-width="1"/>
+        <polygon points="48,18 52,38 44,38" fill="#15803D" stroke="#0F172A" stroke-width="1"/>
+        <!-- Bright orange marigold flowers (Chendu Hoovu) -->
+        <circle cx="24" cy="22" r="4" fill="#EA580C"/>
+        <circle cx="40" cy="22" r="4" fill="#EA580C"/>
+</svg>

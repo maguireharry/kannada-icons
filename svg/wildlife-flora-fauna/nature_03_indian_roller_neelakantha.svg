@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Vibrant blue and turquoise Indian Roller perched -->
+    <path d="M 30 16 C 36 16 42 22 40 32 L 36 48 L 30 48 L 26 34 C 24 24 24 16 30 16 Z" fill="#0284C7" stroke="#1E293B" stroke-width="1.5"/>
+    <!-- Deep blue wing patch -->
+    <path d="M 28 26 C 34 26 36 36 34 44 C 30 40 26 34 28 26 Z" fill="#1D4ED8"/>
+    <!-- Beak and eye -->
+    <polygon points="40,20 48,22 40,24" fill="#0F172A"/>
+    <circle cx="36" cy="20" r="1.5" fill="#FFFFFF"/>
+    <!-- Branch perch -->
+    <line x1="16" y1="46" x2="48" y2="46" stroke="#78350F" stroke-width="3" stroke-linecap="round"/>
+</svg>

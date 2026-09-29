@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Yellow top, green bottom body -->
+    <path d="M 22 14 L 38 14 C 44 14 48 20 48 28 L 48 42 L 16 42 L 16 28 C 16 20 18 14 22 14 Z" fill="#FFD100" stroke="#0F172A" stroke-width="2"/>
+    <rect x="16" y="28" width="32" height="14" fill="#15803D" stroke="#0F172A" stroke-width="1.5"/>
+    <!-- Windshield -->
+    <polygon points="20,18 44,18 42,27 22,27" fill="#0284C7"/>
+    <!-- Wheels -->
+    <circle cx="32" cy="46" r="4" fill="#0F172A"/>
+    <circle cx="18" cy="46" r="4" fill="#0F172A"/>
+    <circle cx="46" cy="46" r="4" fill="#0F172A"/>
+    <!-- Single center headlight -->
+    <circle cx="32" cy="34" r="2.5" fill="#FFD100" stroke="#0F172A" stroke-width="1"/>
+</svg>

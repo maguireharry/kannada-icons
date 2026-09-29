@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Sluice gate masonry wall -->
+        <rect x="12" y="24" width="40" height="26" fill="#1E293B" stroke="#0F172A" stroke-width="2"/>
+        <!-- Arched water spillways -->
+        <path d="M 18 36 C 18 30 22 30 22 36 M 26 36 C 26 30 30 30 30 36 M 34 36 C 34 30 38 30 38 36 M 42 36 C 42 30 46 30 46 36" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+        <!-- Water spraying out -->
+        <line x1="20" y1="38" x2="16" y2="52" stroke="#0284C7" stroke-width="2"/>
+        <line x1="28" y1="38" x2="26" y2="52" stroke="#0284C7" stroke-width="2"/>
+        <line x1="36" y1="38" x2="38" y2="52" stroke="#0284C7" stroke-width="2"/>
+        <line x1="44" y1="38" x2="48" y2="52" stroke="#0284C7" stroke-width="2"/>
+</svg>

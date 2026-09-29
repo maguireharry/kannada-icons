@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Bright green frog body -->
+        <ellipse cx="32" cy="32" rx="12" ry="10" fill="#15803D" stroke="#0F172A" stroke-width="1.5"/>
+        <!-- Bulbous eyes -->
+        <circle cx="26" cy="24" r="4" fill="#FFD100" stroke="#0F172A" stroke-width="1"/>
+        <circle cx="38" cy="24" r="4" fill="#FFD100" stroke="#0F172A" stroke-width="1"/>
+        <!-- Webbed reddish-orange feet -->
+        <polygon points="18,28 10,24 14,34" fill="#EA580C"/>
+        <polygon points="46,28 54,24 50,34" fill="#EA580C"/>
+        <polygon points="20,40 12,46 18,48" fill="#EA580C"/>
+        <polygon points="44,40 52,46 46,48" fill="#EA580C"/>
+</svg>

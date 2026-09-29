@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Majestic elephant head with large flapping ears and curved tusk -->
+    <path d="M 22 20 C 14 20 12 32 18 38 C 22 42 26 36 28 32 L 28 46 C 28 54 36 54 36 46 L 36 30 C 42 30 52 24 50 16 C 46 12 36 14 30 18 Z" fill="#1E293B" stroke="#0F172A" stroke-width="2"/>
+    <!-- Large ear -->
+    <path d="M 22 22 C 14 24 14 34 22 36" stroke="#0F172A" stroke-width="1.5" fill="none"/>
+    <circle cx="34" cy="22" r="2" fill="#FFFFFF"/>
+    <circle cx="34" cy="22" r="1" fill="#0F172A"/>
+    <!-- Ivory Tusk -->
+    <path d="M 32 36 C 36 38 42 36 44 30" stroke="#FEF9C3" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>

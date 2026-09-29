@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Horizontal barrel drum -->
+    <ellipse cx="32" cy="34" rx="20" ry="12" fill="#78350F" stroke="#0F172A" stroke-width="2"/>
+    <ellipse cx="12" cy="34" rx="3" ry="9" fill="#FEF9C3" stroke="#0F172A" stroke-width="1.5"/>
+    <ellipse cx="52" cy="34" rx="3" ry="9" fill="#FEF9C3" stroke="#0F172A" stroke-width="1.5"/>
+    <!-- Black ink spot (Karani) on right head -->
+    <circle cx="52" cy="34" r="4" fill="#0F172A"/>
+    <line x1="15" y1="26" x2="49" y2="26" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="15" y1="42" x2="49" y2="42" stroke="#D4AF37" stroke-width="1.5"/>
+</svg>

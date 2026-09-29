@@ -1,0 +1,43 @@
+{
+  "name": "kannada-icons",
+  "version": "1.0.0",
+  "description": "515 open-source vector icons celebrating Karnataka's heritage, culture, script, wildlife, cuisine, architecture, and modern innovation.",
+  "keywords": [
+    "kannada",
+    "karnataka",
+    "icons",
+    "svg",
+    "vector",
+    "graphic-design",
+    "ui-icons",
+    "cultural-icons",
+    "bengaluru",
+    "hampi",
+    "mysore",
+    "yakshagana"
+  ],
+  "author": "Harry Maguire <197755983+maguireharry@users.noreply.github.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/maguireharry/kannada-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maguireharry/kannada-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maguireharry/kannada-icons/issues"
+  },
+  "main": "icons.json",
+  "files": [
+    "svg",
+    "png",
+    "icons.json",
+    "index.html",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "generate": "python3 scripts/generate_all.py",
+    "export-png": "python3 scripts/export_pngs.py",
+    "build-catalog": "python3 scripts/build_catalog.py"
+  }
+}

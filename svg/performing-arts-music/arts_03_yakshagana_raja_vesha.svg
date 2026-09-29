@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<circle cx="32" cy="34" r="16" fill="#FEF9C3" stroke="#1E293B" stroke-width="2"/>
+    <!-- Tilaka on forehead -->
+    <path d="M 32 22 L 32 30 M 28 26 L 36 26" stroke="#C8102E" stroke-width="2"/>
+    <!-- Painted curved eyes & mustache -->
+    <path d="M 22 32 Q 26 28 30 32 M 34 32 Q 38 28 42 32" stroke="#0F172A" stroke-width="2" fill="none"/>
+    <path d="M 22 40 Q 32 46 42 40" stroke="#0F172A" stroke-width="2.5" fill="none"/>
+    <!-- Miniature crown atop -->
+    <polygon points="32,8 22,20 42,20" fill="#D4AF37" stroke="#C8102E" stroke-width="1.5"/>
+</svg>

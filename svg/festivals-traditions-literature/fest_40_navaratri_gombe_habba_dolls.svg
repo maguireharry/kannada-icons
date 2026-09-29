@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Raja wooden doll -->
+        <rect x="18" y="26" width="10" height="22" rx="2" fill="#C8102E" stroke="#D4AF37" stroke-width="1.5"/>
+        <circle cx="23" cy="20" r="4" fill="#FEF9C3"/>
+        <polygon points="23,12 19,16 27,16" fill="#D4AF37"/>
+        <!-- Rani wooden doll -->
+        <rect x="36" y="26" width="10" height="22" rx="2" fill="#FFD100" stroke="#C8102E" stroke-width="1.5"/>
+        <circle cx="41" cy="20" r="4" fill="#FEF9C3"/>
+        <circle cx="41" cy="14" r="3" fill="#C8102E"/>
+</svg>

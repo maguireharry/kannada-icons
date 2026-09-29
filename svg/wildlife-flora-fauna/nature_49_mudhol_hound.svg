@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Slender aerodynamic sighthound silhouette -->
+        <ellipse cx="26" cy="34" rx="13" ry="8" fill="#FEF9C3" stroke="#0F172A" stroke-width="1.5"/>
+        <!-- Narrow sleek head & long muzzle -->
+        <path d="M 36 28 L 48 24 L 40 20 Z" fill="#FEF9C3" stroke="#0F172A" stroke-width="1.5"/>
+        <circle cx="40" cy="22" r="1" fill="#0F172A"/>
+        <!-- Long slender legs -->
+        <line x1="18" y1="40" x2="16" y2="54" stroke="#0F172A" stroke-width="2"/>
+        <line x1="32" y1="40" x2="34" y2="54" stroke="#0F172A" stroke-width="2"/>
+        <!-- Curled whiplash tail -->
+        <path d="M 14 32 Q 8 38 10 46" stroke="#0F172A" stroke-width="1.5" fill="none"/>
+</svg>

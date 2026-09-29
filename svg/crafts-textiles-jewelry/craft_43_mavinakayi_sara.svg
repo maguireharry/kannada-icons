@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Paisley / mango motif gold beads -->
+        <path d="M 16 20 C 16 44 48 44 48 20" stroke="#D4AF37" stroke-width="2" fill="none"/>
+        <path d="M 22 34 C 20 30 26 28 26 34 C 26 38 22 38 22 34 Z" fill="#C8102E" stroke="#D4AF37" stroke-width="1"/>
+        <path d="M 32 40 C 30 36 36 34 36 40 C 36 44 32 44 32 40 Z" fill="#C8102E" stroke="#D4AF37" stroke-width="1"/>
+        <path d="M 42 34 C 40 30 46 28 46 34 C 46 38 42 38 42 34 Z" fill="#C8102E" stroke="#D4AF37" stroke-width="1"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Backrest -->
+    <path d="M 20 40 L 20 18 C 20 12 44 12 44 18 L 44 40 Z" fill="rgba(200,16,46,0.15)" stroke="#D4AF37" stroke-width="2"/>
+    <!-- Finial Crown -->
+    <path d="M 28 14 L 32 8 L 36 14 Z" fill="#FFD100" stroke="#D4AF37" stroke-width="1.5"/>
+    <!-- Seat -->
+    <rect x="14" y="38" width="36" height="8" rx="2" fill="#C8102E" stroke="#D4AF37" stroke-width="1.5"/>
+    <!-- Lion Legs -->
+    <path d="M 16 46 L 14 56 M 48 46 L 50 56 M 26 46 L 26 56 M 38 46 L 38 56" stroke="#D4AF37" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

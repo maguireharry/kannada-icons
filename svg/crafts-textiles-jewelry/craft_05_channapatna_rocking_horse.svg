@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Curved rocking runner -->
+    <path d="M 10 50 Q 32 60 54 50" stroke="#C8102E" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Horse Body -->
+    <ellipse cx="32" cy="36" rx="14" ry="8" fill="#FFD100" stroke="#B8860B" stroke-width="2"/>
+    <!-- Horse Head & Mane -->
+    <path d="M 40 32 L 46 20 C 48 16 46 12 42 14 L 38 22 Z" fill="#C8102E" stroke="#B8860B" stroke-width="1.5"/>
+    <circle cx="42" cy="18" r="1.5" fill="#FFFFFF"/>
+    <!-- Rocking struts -->
+    <line x1="22" y1="42" x2="18" y2="53" stroke="#15803D" stroke-width="2.5"/>
+    <line x1="42" y1="42" x2="46" y2="53" stroke="#15803D" stroke-width="2.5"/>
+</svg>

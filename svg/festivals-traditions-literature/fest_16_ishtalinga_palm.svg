@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Open cupped palm -->
+        <path d="M 16 46 Q 32 54 48 46 L 46 38 Q 32 44 18 38 Z" fill="#FEF9C3" stroke="#1E293B" stroke-width="1.5"/>
+        <!-- Shiny black Ishtalinga resting in center of palm -->
+        <ellipse cx="32" cy="34" rx="8" ry="6" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+        <circle cx="32" cy="31" r="5" fill="#0F172A"/>
+        <!-- Vibhuti stripe on linga -->
+        <line x1="28" y1="30" x2="36" y2="30" stroke="#FFFFFF" stroke-width="1.5"/>
+</svg>

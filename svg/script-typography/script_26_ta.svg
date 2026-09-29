@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Kannada Script Icon: Kannada Consonant Ta (Retroflex) -->
+    <rect x="6" y="6" width="52" height="52" rx="14" fill="rgba(200, 16, 46, 0.06)" stroke="#C8102E" stroke-width="2"/>
+    <circle cx="12" cy="12" r="1.5" fill="#D4AF37"/>
+    <circle cx="52" cy="12" r="1.5" fill="#D4AF37"/>
+    <circle cx="12" cy="52" r="1.5" fill="#D4AF37"/>
+    <circle cx="52" cy="52" r="1.5" fill="#D4AF37"/>
+    <path d="M 26 8 Q 32 4 38 8" stroke="#C8102E" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    <text x="32" y="37" font-family="'Noto Sans Kannada', 'Noto Serif Kannada', 'Tunga', 'Kedage', sans-serif" font-size="26" font-weight="bold" fill="#1E293B" text-anchor="middle" dominant-baseline="middle">ಟ</text>
+    <text x="32" y="53" font-family="sans-serif" font-size="6" font-weight="600" fill="#64748B" text-anchor="middle">ṭa</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Main resonator body -->
+        <circle cx="44" cy="38" r="12" fill="#78350F" stroke="#0F172A" stroke-width="2"/>
+        <!-- Fretboard neck -->
+        <line x1="44" y1="38" x2="16" y2="18" stroke="#78350F" stroke-width="4" stroke-linecap="round"/>
+        <!-- Frets -->
+        <line x1="34" y1="27" x2="36" y2="31" stroke="#D4AF37" stroke-width="2"/>
+        <line x1="28" y1="23" x2="30" y2="27" stroke="#D4AF37" stroke-width="2"/>
+        <line x1="22" y1="19" x2="24" y2="23" stroke="#D4AF37" stroke-width="2"/>
+        <!-- Secondary gourd resonator -->
+        <circle cx="18" cy="26" r="6" fill="#B8860B" stroke="#78350F" stroke-width="1.5"/>
+        <!-- Yali Dragon Head terminal -->
+        <path d="M 14 18 C 10 16 10 12 14 10" stroke="#D4AF37" stroke-width="2.5" fill="none"/>
+</svg>

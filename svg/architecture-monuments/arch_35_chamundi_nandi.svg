@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Recumbent majestic monolithic bull -->
+        <ellipse cx="32" cy="38" rx="18" ry="12" fill="#1E293B" stroke="#0F172A" stroke-width="2"/>
+        <!-- Head & Horns -->
+        <circle cx="44" cy="26" r="8" fill="#1E293B" stroke="#0F172A" stroke-width="1.5"/>
+        <path d="M 44 20 L 46 12 M 40 20 L 38 12" stroke="#D4AF37" stroke-width="2.5" stroke-linecap="round"/>
+        <!-- Bell garland (Gante sara) around neck -->
+        <path d="M 36 28 C 36 34 42 36 44 32" stroke="#D4AF37" stroke-width="2" fill="none"/>
+        <circle cx="40" cy="34" r="2" fill="#C8102E"/>
+        <!-- Hump -->
+        <ellipse cx="26" cy="26" rx="6" ry="5" fill="#1E293B"/>
+        <line x1="12" y1="52" x2="52" y2="52" stroke="#1E293B" stroke-width="2"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<defs>
+    <linearGradient id="flagGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#FFD100"/>
+      <stop offset="50%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+    <linearGradient id="coffeeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#451A03"/>
+    </linearGradient>
+
+</defs>
+<!-- Grand golden throne backrest -->
+    <path d="M 20 40 L 20 16 C 20 10 44 10 44 16 L 44 40 Z" fill="#D4AF37" stroke="#B8860B" stroke-width="2"/>
+    <circle cx="32" cy="22" r="5" fill="#C8102E" stroke="#D4AF37" stroke-width="1.5"/>
+    <!-- Royal umbrella canopy atop -->
+    <path d="M 16 10 C 16 4 48 4 48 10 Z" fill="#C8102E" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="32" y1="4" x2="32" y2="0" stroke="#D4AF37" stroke-width="2"/>
+    <!-- Seat cushion & legs -->
+    <rect x="16" y="40" width="32" height="8" rx="2" fill="#C8102E" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="18" y1="48" x2="16" y2="56" stroke="#D4AF37" stroke-width="3"/>
+    <line x1="46" y1="48" x2="48" y2="56" stroke="#D4AF37" stroke-width="3"/>
+</svg>
