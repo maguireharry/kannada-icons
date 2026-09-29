@@ -79,6 +79,31 @@ SHEET_ICONS = {
         "malpe_pattanod_boat", "bangude_mackerel_fish", "mangalore_roof_tile",
         "cashew_apple_nut", "neer_dosa_fish_curry", "karavali_backwater_canoe",
         "coir_fishing_net", "blue_flag_beach", "gokarna_koti_tirtha_pond"
+    ],
+    "birds_sanctuaries_pack_sheet": [
+        "great_indian_bustard", "painted_stork", "malabar_pied_hornbill",
+        "asian_paradise_flycatcher", "brahminy_kite", "spot_billed_pelican",
+        "bar_headed_goose", "emerald_dove", "white_bellied_blue_flycatcher"
+    ],
+    "sweets_confectionery_pack_sheet": [
+        "belagavi_kunda", "gokak_karadantu", "karjikai",
+        "obbattu_holige", "chiroti_badam_milk", "kashi_halwa",
+        "halbai_fudge", "shavige_payasa", "pheni_sweet"
+    ],
+    "savouries_snacks_pack_sheet": [
+        "nippattu_cracker", "kodubale_rings", "chakkuli_murukku",
+        "goli_baje_fritters", "congress_kadlekai", "maddur_vada_snack",
+        "mandakki_oggarane", "avarekalu_mixture", "kerala_karnataka_banana_chips"
+    ],
+    "malnad_coastal_food_pack_sheet": [
+        "kori_rotti_chicken_curry", "patrode_colocasia_roll", "akki_rotti_banana_leaf",
+        "kane_ladyfish_fry", "marwai_clams_sukka", "kadubu_jackfruit_leaf",
+        "halasina_hannu_jackfruit", "kokum_punarpuli_drink", "jackfruit_happala_papad"
+    ],
+    "bengaluru_landmarks_pack_sheet": [
+        "bangalore_palace_tudor", "cubbon_park_library", "ulsoor_lake_boating",
+        "vidyarthi_bhavan_dosa", "bangalore_auto_meter", "ngma_mansion",
+        "st_marys_basilica", "russell_market_clock_tower", "commercial_street_shopping"
     ]
 }
 
@@ -122,7 +147,6 @@ def crop_icons():
             if not any(abs(b[0] - fb[0]) < 50 and abs(b[1] - fb[1]) < 50 for fb in filtered_icons):
                 filtered_icons.append(b)
                 
-        # If detection didn't get exactly 9, fall back to geometric 3x3 grid
         if len(filtered_icons) != 9:
             xs = [50, 375, 700]
             ys = [80, 400, 715]
