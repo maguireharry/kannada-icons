@@ -1,57 +1,83 @@
-# ಕನ್ನಡ ಐಕಾನ್‌ಗಳು ಮತ್ತು ಕ್ಲಾಸಿಕ್ ಪೋಸ್ಟರ್‌ಗಳು — Kannada Icons & Classic Posters Archive
+# ಕನ್ನಡ ಐಕಾನ್‌ಗಳು, ಕ್ಲಾಸಿಕ್ ಚಲನಚಿತ್ರ ಮತ್ತು ಗೀತೆಗಳ ಪೋಸ್ಟರ್‌ಗಳು
+## Kannada Icons, Classic Cinema & Landmark Song Posters Archive
 
 <p align="center">
-  <img src="posters/test_crops/contact_posters_sheet_08_pan_indian_epics.png" alt="Kannada Cinema Posters Preview" width="400" style="border-radius: 12px; margin: 6px;" />
-  <img src="nano-banana-icons/heritage_pack_sheet.png" alt="Nano Banana 3D Icons Preview" width="400" style="border-radius: 12px; margin: 6px;" />
+  <img src="songs/individual/song_001_kaanada_kadalige.png" alt="Kaanada Kadalige Song Poster" width="260" style="border-radius: 10px; margin: 4px;" />
+  <img src="posters/test_crops/contact_posters_sheet_08_pan_indian_epics.png" alt="Kannada Cinema Posters Preview" width="260" style="border-radius: 10px; margin: 4px;" />
+  <img src="nano-banana-icons/heritage_pack_sheet.png" alt="Nano Banana 3D Icons Preview" width="260" style="border-radius: 10px; margin: 4px;" />
 </p>
 
 <p align="center">
-  <strong>೧೦೮ ಕ್ಲಾಸಿಕ್ ಚಲನಚಿತ್ರ ಪೋಸ್ಟರ್‌ಗಳು + ೧೦೨೩+ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು</strong><br>
-  <strong>108 Reimagined Classic Movie Posters • 1,023+ Vector & 3D App Icons</strong><br>
-  <em>Celebrating Karnataka’s 2000+ year cultural heritage, temple architecture, performing arts, folklore, culinary treasures, and 70 years of landmark Kannada cinema (1954–2024).</em>
+  <strong>೧೫೩ ಕ್ಲಾಸಿಕ್ ಹಾಡುಗಳ ಪೋಸ್ಟರ್‌ಗಳು + ೧೦೮ ಚಲನಚಿತ್ರ ಪೋಸ್ಟರ್‌ಗಳು + ೧೦೨೩+ ಮುಕ್ತ ವಾಹಕ ಐಕಾನ್‌ಗಳು</strong><br>
+  <strong>153 Landmark Kannada Song Posters • 108 Reimagined Movie Posters • 1,023+ Vector & 3D App Icons</strong><br>
+  <em>Celebrating Karnataka’s 2000+ year cultural heritage, temple architecture, performing arts, folklore, culinary treasures, and 70+ years of landmark Kannada cinema & music traditions.</em>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Song_Posters-153-FFDF64?style=for-the-badge&logoColor=black" alt="Song Posters" />
   <img src="https://img.shields.io/badge/Movie_Posters-108-D4AF37?style=for-the-badge&logoColor=black" alt="Movie Posters" />
   <img src="https://img.shields.io/badge/Nano_Banana_3D_Icons-508-C8102E?style=for-the-badge&logoColor=white" alt="Nano Banana 3D Icons" />
   <img src="https://img.shields.io/badge/Standard_Vector_Icons-515-F5B800?style=for-the-badge&logoColor=black" alt="Standard Vector Icons" />
-  <img src="https://img.shields.io/badge/Total_Assets-1131-0F172A?style=for-the-badge&logoColor=white" alt="Total Assets" />
+  <img src="https://img.shields.io/badge/Total_Assets-1300%2B-0F172A?style=for-the-badge&logoColor=white" alt="Total Assets" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 ---
 
-## 🌟 Three Flagship Collections
+## 🌟 Four Flagship Collections
 
-This repository is an all-in-one graphic design archive containing three premier digital art collections:
+This repository is an all-in-one graphic design archive containing four premier digital art collections:
 
-### 1. 🎬 108 Classic Kannada Movie Posters Reimagined (Kannada Typography)
+### 1. 🎵 153 Landmark Kannada Song Posters (Native Kannada Typography)
+- **153 Individual High-Resolution Posters (700×1050 PNG)** in [`songs/individual/`](songs/individual/).
+- **17 Master Exhibition Sheets (3×3 Art Grids)** in [`songs/sheets/`](songs/sheets/).
+- **No Realism**: Rendered across diverse stylized art movements (Japanese Ukiyo-e, Soviet Constructivism, Ghibli Watercolor, Bauhaus Geometric, Psychedelic Folk, Gothic Woodcut, Synthwave Neon Noir, 8-Bit Pixel, Linocut, Stained Glass).
+- **Native Kannada Fonts**: Every poster prominently features authentic **Kannada script typography** (`NotoSansKannada-Bold.ttf`) alongside English titles, release years, singer, composer, lyricist, and art movement notes.
+- **17 Curated Themes**: Bhavageethe & Poetic Anthems, Kannada Pride & Rajyotsava, Golden Era Romance, Dr. Rajkumar Philosophical, Ilaiyaraaja Melodies, Hamsalekha Magic, Monsoon & Rain, Spiritual & Bhakti, Folk Janapada, Upendra Cult Hits, 2000s Youth Anthems, Pan-Indian Epics, Contemporary Ballads, Classical Ragas, Retro Grooves, Sugama Sangeetha, and Indie Waves.
+- **Interactive Web Gallery**: [`songs.html`](songs.html) with bilingual instant search (Kannada & English), theme filter chips, individual vs exhibition sheet switcher, and download modal.
+
+### 2. 🎬 108 Classic Kannada Movie Posters Reimagined
 - **108 Individual High-Resolution Posters (700×1050 PNG)** in [`posters/individual/`](posters/individual/).
 - **12 Master Exhibition Sheets (3×3 Art Grids)** in [`posters/sheets/`](posters/sheets/).
-- **Authentic Kannada Fonts on Every Poster**: Every single poster prominently features the movie's title rendered in native **Kannada script** (`NotoSansKannada-Bold.ttf`) alongside English title, release year, director, starring cast, and artistic style notes.
-- **10+ Global Art Movements**:
-  - *Japanese Ukiyo-e Woodblock*: Mayura, Ranadheera, Kantara Panjurli
-  - *Soviet Constructivism / Agitprop*: Bangarada Manushya, Kaatera
-  - *Cyberpunk & Synthwave Neon Noir*: Antha, Lucia, Salaga, Gultoo
-  - *Gothic Woodcut & Stained Glass*: Chomana Dudi, Om (Rose Window), Tabarana Kathe
-  - *Art Deco & Travel Lithograph*: Pushpaka Vimana, America America
-  - *Studio Ghibli Anime & Watercolor*: 777 Charlie, Mungaru Male, Beladingala Baale
-  - *Pop Art & Comic Strip*: Shankar Guru, Tarle Nan Maga, Jackie
-  - *Ancient Stone Bas-Relief*: Bedara Kannappa, Bhakta Kumbara
-  - *Heavy Metal Industrial & Noir*: K.G.F Chapter 1 & 2, Ulidavaru Kandanthe
-- **Interactive Web Gallery**: [`posters.html`](posters.html) with bilingual search (Kannada & English), era filter tabs, individual vs master sheet views, and instant download modal.
+- **Prominent Kannada Typography**: Every poster features the title rendered in native Kannada script alongside director, cast, and year.
+- **10+ Global Art Movements**: Constructivist Agitprop, Stained Glass, Art Deco, Cyberpunk Neon, Japanese Woodblock, and more.
+- **Interactive Web Gallery**: [`posters.html`](posters.html).
 
-### 2. 🍌 508 Nano Banana 3D App Icons Edition
+### 3. 🍌 508 Nano Banana 3D App Icons Edition
 - **508 Standalone 512×512 PNG Icons** located in [`nano-banana-icons/individual/`](nano-banana-icons/individual/).
 - **56 Master Thematic Pack Sheets** in [`nano-banana-icons/`](nano-banana-icons/).
 - Generated using state-of-the-art **Nano Banana** multimodal AI image generation with vivid 3D gloss, authentic Kannada cultural details, and app icon aesthetic.
 - **Interactive Web Catalog**: [`nano_banana.html`](nano_banana.html).
 
-### 3. 🎨 515 Standard Flat & Duo-tone Vector Icons Edition
+### 4. 🎨 515 Standard Flat & Duo-tone Vector Icons Edition
 - **515 Handcrafted Vectors**: Standardized on a `64x64` coordinate grid with uniform stroke weights.
 - Formats: Scalable vector [`svg/`](svg/) and transparent raster [`png/`](png/) (`512x512`).
 - Spans 10 cultural categories: Script, Royalty, Architecture, Arts, Crafts, Wildlife, Geography, Cuisine, Literature, Modern Karnataka.
 - **Interactive Web Catalog**: [`index.html`](index.html).
+
+---
+
+## 🎵 153 Classic Kannada Song Posters Breakdown (17 Master Sheets)
+
+| Sheet | Theme / Genre | Art Movement Style | Sample Landmark Songs Included |
+|:-----:|---------------|-------------------|--------------------------------|
+| **01** | **Bhavageethe & Poetic Anthems** | Abstract Watercolor & Paper Cutout | *Kaanada Kadalige, Kurigalu Saar, Taravva Thangi, Jogada Siri Belakinalli, Benne Kadda* |
+| **02** | **Kannada Pride & Rajyotsava** | Soviet Constructivist & Silkscreen | *Huttidare Kannada Nadalli, Baarisu Kannada Dindimava, Jenina Holeyo, Kannada Nadina Jeevanadi* |
+| **03** | **Golden Era Romance & Serenades** | Mid-Century French Lithograph | *Aaha Nanna Sangaathi, Baala Nonada Raagave, Gaanave Jeeva, Kangalu Tumbiralu* |
+| **04** | **Dr. Rajkumar Philosophical** | Surrealist Marionette & Woodcut | *Aadisi Nodu Beelisi Nodu, Yaare Koogadali, Beladingalaagi Baa, Naa Ninna Mareyalare* |
+| **05** | **Ilaiyaraaja 1980s Melodies** | Synthwave Sunset & Vinyl Minimal | *Naguva Nayana, Jotheyali Jothe Jotheyali, Hrudaya Rangoli, Santasa Araluva Samaya* |
+| **06** | **Hamsalekha 1990s Magic** | Psychedelic Pop & Stained Glass | *Premalokada Paarijaathave, O Priyathama, Bombe Heluthaithe, Chaitrada Premanjaliya* |
+| **07** | **Monsoon & Rain Romance** | Impressionist Oil & Rain Vignette | *Anisuthide Yaako Indu, Mungaru Maleye, Beladingalaagi Baa, Male Ninthu Hoda Mele* |
+| **08** | **Spiritual Bhakti & Haridasa** | Sacred Tanjore Gold Foil & Brass | *Bhagyada Lakshmi Baramma, Kaayo Shri Gananatha, Jagadoddharana, Krishna Nee Begane Baaro* |
+| **09** | **Folk & Janapada Traditions** | Madhubani Earth & Terracotta | *Mayadantha Male Bantanna, Kuri Kayo Kuruba, Moodal Kunigal Kere, Kolu Mande Jangamadeva* |
+| **10** | **Upendra Cult & Experimental** | Surrealist Dali & Cyberpunk Noir | *En Kathe Helali, Maari Kannu Hori Myage, Uppittu Saaku Nange, Kanyakumari* |
+| **11** | **2000s Youth & Romance** | Pop Manga & Sunlit Pastel | *Neenene Nanna Saviganasu, Milana Milana, Usire Usire, Anthu Inthu Preethi Bantu* |
+| **12** | **Modern Pan-Indian Epics** | Heavy Metal Gold Dust & Bioluminescent | *Singara Siriye, Varaha Roopam, Salaam Rocky Bhai, Dheera Dheera, Toofan, Mehabooba* |
+| **13** | **Contemporary Ballads & Fusion** | Ocean Wave Cutouts & 8-Bit Pixel | *Sapta Saagaradaache Ello, Lokada Kaalaji, Gudugudiya Sedi Nodu, Marali Manasaagide* |
+| **14** | **Classical Carnatic Ragas** | Celestial Soundwaves & Swara Mandala | *Naadamaya Ee Lokavella, Shankarabharanam, Maamavathu Shri Saraswathi, Paavamana* |
+| **15** | **Retro Grooves & Playful Pop** | Rangoli Patterns & 70s Disco Vectors | *Ellamma Rangoli Cheluve, Shankar Guru Disco, Baare Santhege Hogona, Priya Priya* |
+| **16** | **Sugama Sangeetha & Nature** | Botanical Lithograph & Calligraphy | *Baaro Sadhanakerige, Kuniyonu Baara, Ilidu Baa Thaayi, Moodala Maneya, Thaaye Baa* |
+| **17** | **Indie Waves & New Age Cinema** | Rural Charcoal & Minimalist Vector | *Thithi Village Ballad, Rama Rama Re, Maleye Maleye, Daariya Konege, Motte Heggade* |
 
 ---
 
@@ -92,58 +118,15 @@ This repository is an all-in-one graphic design archive containing three premier
 
 ---
 
-## 🚀 Interactive Catalogs
+## 🚀 Interactive Web Catalogs
 
-All three web catalogs are zero-dependency static HTML pages:
-- **🎬 Movie Posters**: [`posters.html`](posters.html)
-- **🍌 Nano Banana 3D Icons**: [`nano_banana.html`](nano_banana.html)
-- **🎨 Standard Vectors**: [`index.html`](index.html)
-
-Open directly in any modern browser:
-```bash
-# On Linux
-xdg-open posters.html
-
-# On macOS
-open posters.html
-
-# On Windows
-start posters.html
-```
-
----
-
-## 📁 Repository Structure
-
-```
-kannada-icons/
-├── posters/                                # 🎬 108 Movie Posters Archive
-│   ├── individual/                         # 108 High-Res 700x1050 PNG posters (with Kannada fonts)
-│   ├── sheets/                             # 12 Master 3x3 Exhibition Sheets (1024x1024)
-│   ├── posters.json                        # Full metadata index for 108 films
-│   └── posters_data.js                     # Static JS data for web viewer
-├── nano-banana-icons/                      # 🍌 508 Nano Banana 3D Icons
-│   ├── individual/                         # 508 High-Res 512x512 PNG icons
-│   └── [56 master pack sheets]
-├── svg/                                    # 🎨 515 Scalable Vector SVG files (10 categories)
-├── png/                                    # 🎨 515 Transparent 512x512 PNG files
-├── scripts/                                # Python automation toolchain
-│   ├── generate_individual_posters.py      # Poster compositor & typography engine
-│   ├── generate_all.py                     # Master SVG & JSON generator
-│   ├── export_pngs.py                      # Headless Chrome 512px PNG exporter
-│   └── build_catalog.py                    # Standalone HTML builder
-├── posters.html                            # 🎬 Interactive Movie Posters Catalog
-├── nano_banana.html                        # 🍌 Interactive Nano Banana 3D Catalog
-├── index.html                              # 🎨 Interactive Standard Vectors Catalog
-├── package.json                            # NPM package descriptor
-├── LICENSE                                 # MIT License
-└── README.md                               # Project documentation
-```
+All four web catalogs are zero-dependency static HTML pages:
+- **🎵 Song Posters (153)**: [`songs.html`](songs.html)
+- **🎬 Movie Posters (108)**: [`posters.html`](posters.html)
+- **🍌 Nano Banana 3D Icons (508)**: [`nano_banana.html`](nano_banana.html)
+- **🎨 Standard Vectors (515)**: [`index.html`](index.html)
 
 ---
 
 ## 📄 License
-
-This collection is proudly open-sourced under the [MIT License](LICENSE). You are free to use, modify, distribute, and integrate these assets in both personal and commercial projects.
-
-Crafted with ❤️ for Karnataka, Kannada culture, and Sandalwood cinema enthusiasts across the world.
+Released under the **MIT License**. Free for commercial and non-commercial use with attribution to the Kannada Heritage & Digital Art Project.
