@@ -281,6 +281,42 @@
       border: 1px solid var(--border-gold);
     }
 
+    /* Volume selector row */
+    .volume-selector-row {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.25rem;
+    }
+
+    .vol-btn {
+      background: #12151e;
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      padding: 0.65rem 1.25rem;
+      border-radius: 12px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.25s ease;
+    }
+
+    .vol-btn:hover {
+      border-color: var(--gold);
+      color: var(--text-main);
+      transform: translateY(-2px);
+    }
+
+    .vol-btn.active {
+      background: linear-gradient(135deg, rgba(212, 175, 55, 0.22), rgba(212, 175, 55, 0.08));
+      border: 1px solid var(--gold);
+      color: var(--gold-bright);
+      box-shadow: 0 4px 15px rgba(212, 175, 55, 0.25);
+    }
+
     /* Era filter tabs */
     .filter-scroll-row {
       display: flex;
@@ -687,58 +723,57 @@
   <!-- Hero -->
   <section class="hero">
     <div class="hero-badge">
-      <span>✨</span> 108 LANDMARK FILMS • 10 DIVERSE ART STYLES • ALL KANNADA TYPOGRAPHY
+      <span>✨</span> 216 LANDMARK FILMS • 2 VOLUMES • 25+ GLOBAL ART TRADITIONS • ALL KANNADA TYPOGRAPHY
     </div>
-    <h2 class="hero-title-kn kannada-text">ಕನ್ನಡ ಚಿತ್ರರಂಗದ 108 ಸಾರ್ವಕಾಲಿಕ ಕ್ಲಾಸಿಕ್ ಪೋಸ್ಟರ್‌ಗಳು</h2>
-    <h3 class="hero-title-en cinema-font">108 Sandalwood Classics Reimagined</h3>
+    <h2 class="hero-title-kn kannada-text">ಕನ್ನಡ ಚಿತ್ರರಂಗದ 216 ಸಾರ್ವಕಾಲಿಕ ಕ್ಲಾಸಿಕ್ ಪೋಸ್ಟರ್‌ಗಳು</h2>
+    <h3 class="hero-title-en cinema-font">216 Sandalwood Classics Reimagined</h3>
     <p class="hero-desc">
-      A monumental visual tribute celebrating 70 years of Kannada cinema (1954 - 2024). From the mythological grandeur of Dr. Rajkumar to Upendra's psychological surrealism and the pan-Indian cinematic power of Kantara & KGF — reimagined across 10 global art movements, all featuring authentic Kannada typography.
+      A monumental two-volume visual archive celebrating 90 years of Kannada cinema (1934 - 2024). From the birth of talkies in Sati Sulochana to modern global phenomena like Kantara, KGF, Charlie 777, and SSE — reimagined across Western avant-garde & Asian classical art movements, each adorned with authentic Kannada typography.
     </p>
 
     <div class="stats-row">
       <div class="stat-pill">
+        <div class="stat-num" id="totalCountDisplay">216</div>
+        <div class="stat-label">Total HD Posters</div>
+      </div>
+      <div class="stat-pill">
         <div class="stat-num">108</div>
-        <div class="stat-label">Individual Posters</div>
+        <div class="stat-label">Vol 2: Western & Asian Styles</div>
       </div>
       <div class="stat-pill">
-        <div class="stat-num">12</div>
-        <div class="stat-label">Master Exhibition Sheets</div>
+        <div class="stat-num">108</div>
+        <div class="stat-label">Vol 1: Heritage & Folk Art</div>
       </div>
       <div class="stat-pill">
-        <div class="stat-num">10+</div>
-        <div class="stat-label">Art Movements</div>
-      </div>
-      <div class="stat-pill">
-        <div class="stat-num">70</div>
-        <div class="stat-label">Years of Cinema (1954-2024)</div>
+        <div class="stat-num">90</div>
+        <div class="stat-label">Years of Cinema (1934-2024)</div>
       </div>
     </div>
   </section>
 
   <!-- Controls -->
   <div class="controls-container">
+    <!-- Volume Selector -->
+    <div class="volume-selector-row">
+      <button class="vol-btn active" data-vol="all">🌟 All 216 Posters</button>
+      <button class="vol-btn" data-vol="2">🎨 Volume 2: 108 Western & Asian Art Styles (New)</button>
+      <button class="vol-btn" data-vol="1">🏛️ Volume 1: 108 Heritage Classics</button>
+    </div>
+
     <div class="search-and-view-bar">
       <div class="search-box">
         <span class="search-icon">🔍</span>
         <input type="text" id="searchInput" placeholder="Search by movie title (Kannada or English), director, star, art style...">
       </div>
       <div class="view-mode-tabs">
-        <button class="view-btn active" id="btnViewIndividual">🖼️ Individual Posters (<span id="countIndividual">108</span>)</button>
-        <button class="view-btn" id="btnViewSheets">🏛️ Master Sheets (12)</button>
+        <button class="view-btn active" id="btnViewIndividual">🖼️ Individual Posters (<span id="countIndividual">216</span>)</button>
+        <button class="view-btn" id="btnViewSheets">🏛️ Vol 1 Master Sheets (12)</button>
       </div>
     </div>
 
     <!-- Era Filters -->
     <div class="filter-scroll-row" id="eraFilterRow">
-      <button class="filter-tab active" data-era="all">All Eras (108)</button>
-      <button class="filter-tab" data-era="Golden Era (1950s-1970s)">Golden Era (1950s-70s)</button>
-      <button class="filter-tab" data-era="Parallel & Art-House (1970s-2000s)">Art-House Milestones</button>
-      <button class="filter-tab" data-era="1980s-1990s Action & Thrillers">80s Action Thrillers</button>
-      <button class="filter-tab" data-era="1980s-1990s Romance & Musicals">Romance & Musicals</button>
-      <button class="filter-tab" data-era="Cult Cinema (1990s-2000s)">Cult & Upendra Cinema</button>
-      <button class="filter-tab" data-era="2000s-2010s">2000s Blockbusters</button>
-      <button class="filter-tab" data-era="New Wave (2011-2018)">Indie Revolution</button>
-      <button class="filter-tab" data-era="Contemporary (2019-2024)">Contemporary & Pan-Indian</button>
+      <!-- Populated dynamically via JS -->
     </div>
   </div>
 
@@ -788,12 +823,18 @@
     </div>
   </div>
 
-  <!-- Data script -->
+  <!-- Data scripts -->
+  <script src="posters/posters_all_data.js"></script>
   <script src="posters/posters_data.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const data = window.POSTERS_DATA || { posters: [] };
-      const posters = data.posters;
+      // Data source
+      let allPosters = [];
+      if (window.POSTERS_ALL_DATA && window.POSTERS_ALL_DATA.posters) {
+        allPosters = window.POSTERS_ALL_DATA.posters;
+      } else if (window.POSTERS_DATA && window.POSTERS_DATA.posters) {
+        allPosters = window.POSTERS_DATA.posters.map(p => ({ ...p, volume: 1 }));
+      }
 
       const sheetsInfo = [
         { key: "posters_sheet_01_golden_epics", title: "Sheet 01: Golden Era Epics (1954-1977)", desc: "Bedara Kannappa, Bhakta Prahlada, Satya Harishchandra, Bangarada Manushya, Naagarahaavu, Babruvahana, Mayura, Kasturi Nivasa, Eradu Kanasu." },
@@ -813,10 +854,11 @@
       const postersGrid = document.getElementById('postersGrid');
       const sheetsGrid = document.getElementById('sheetsGrid');
       const searchInput = document.getElementById('searchInput');
-      const eraFilterTabs = document.querySelectorAll('.filter-tab');
       const btnViewIndividual = document.getElementById('btnViewIndividual');
       const btnViewSheets = document.getElementById('btnViewSheets');
       const countIndividual = document.getElementById('countIndividual');
+      const eraFilterRow = document.getElementById('eraFilterRow');
+      const volButtons = document.querySelectorAll('.vol-btn');
 
       // Modal elements
       const modalBackdrop = document.getElementById('modalBackdrop');
@@ -832,23 +874,60 @@
       const modalDesc = document.getElementById('modalDesc');
       const modalDownloadBtn = document.getElementById('modalDownloadBtn');
 
+      let currentVol = 'all'; // 'all', '1', '2'
       let currentEra = 'all';
       let currentQuery = '';
+
+      function buildEraFilters() {
+        eraFilterRow.innerHTML = '';
+
+        // Get unique eras for current volume
+        const volPosters = allPosters.filter(p => currentVol === 'all' || p.volume === parseInt(currentVol));
+        const eras = Array.from(new Set(volPosters.map(p => p.era))).filter(Boolean);
+
+        const allBtn = document.createElement('button');
+        allBtn.className = 'filter-tab ' + (currentEra === 'all' ? 'active' : '');
+        allBtn.dataset.era = 'all';
+        allBtn.textContent = `All Eras (${volPosters.length})`;
+        allBtn.addEventListener('click', () => {
+          document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+          allBtn.classList.add('active');
+          currentEra = 'all';
+          renderPosters();
+        });
+        eraFilterRow.appendChild(allBtn);
+
+        eras.forEach(era => {
+          const count = volPosters.filter(p => p.era === era).length;
+          const btn = document.createElement('button');
+          btn.className = 'filter-tab ' + (currentEra === era ? 'active' : '');
+          btn.dataset.era = era;
+          btn.textContent = `${era.split('(')[0].trim()} (${count})`;
+          btn.addEventListener('click', () => {
+            document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+            btn.classList.add('active');
+            currentEra = era;
+            renderPosters();
+          });
+          eraFilterRow.appendChild(btn);
+        });
+      }
 
       function renderPosters() {
         postersGrid.innerHTML = '';
         const q = currentQuery.toLowerCase();
 
-        const filtered = posters.filter(p => {
+        const filtered = allPosters.filter(p => {
+          const matchVol = currentVol === 'all' || p.volume === parseInt(currentVol);
           const matchEra = currentEra === 'all' || p.era === currentEra;
           const matchQuery = !q || 
-            p.title.toLowerCase().includes(q) ||
-            p.title_kn.includes(q) ||
-            p.director.toLowerCase().includes(q) ||
-            p.cast.toLowerCase().includes(q) ||
-            p.style.toLowerCase().includes(q) ||
-            p.year.toString().includes(q);
-          return matchEra && matchQuery;
+            (p.title && p.title.toLowerCase().includes(q)) ||
+            (p.title_kn && p.title_kn.includes(q)) ||
+            (p.director && p.director.toLowerCase().includes(q)) ||
+            (p.cast && p.cast.toLowerCase().includes(q)) ||
+            (p.style && p.style.toLowerCase().includes(q)) ||
+            (p.year && p.year.toString().includes(q));
+          return matchVol && matchEra && matchQuery;
         });
 
         countIndividual.textContent = filtered.length;
@@ -856,19 +935,21 @@
         filtered.forEach(p => {
           const card = document.createElement('div');
           card.className = 'poster-card';
+          const volBadgeText = p.volume === 2 ? 'Vol 2: Western & Asian' : 'Vol 1: Heritage';
           card.innerHTML = `
             <div class="poster-img-wrap">
               <img src="${p.poster_image}" alt="${p.title}" loading="lazy">
               <span class="card-badge-top">${p.year}</span>
+              <span style="position: absolute; bottom: 8px; left: 8px; background: rgba(0,0,0,0.75); border: 1px solid rgba(212,175,55,0.4); color: #ffdf64; font-size: 0.7rem; font-weight: 600; padding: 2px 8px; border-radius: 999px;">${volBadgeText}</span>
             </div>
-            <div class="card-content">
-              <div class="card-title-kn kannada-text">${p.title_kn}</div>
-              <div class="card-title-en">
+            <div class="card-content" style="padding: 1.1rem; display: flex; flex-direction: column; gap: 0.4rem;">
+              <div class="card-title-kn kannada-text" style="font-size: 1.25rem; font-weight: 700; color: #ffdf64;">${p.title_kn}</div>
+              <div class="card-title-en" style="font-size: 0.92rem; font-weight: 600; color: #fff; display: flex; justify-content: space-between;">
                 <span>${p.title}</span>
-                <span class="card-year">${p.year}</span>
+                <span class="card-year" style="color: #9aa5b5;">${p.year}</span>
               </div>
-              <div class="card-style-pill">${p.style}</div>
-              <div class="card-credits">Dir: ${p.director} • ${p.cast}</div>
+              <div class="card-style-pill" style="display: inline-block; align-self: flex-start; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); color: #d4af37; padding: 2px 8px; border-radius: 6px; font-size: 0.72rem; margin-top: 2px;">${p.style}</div>
+              <div class="card-credits" style="font-size: 0.75rem; color: #9aa5b5; margin-top: 4px;">Dir: ${p.director} • ${p.cast}</div>
             </div>
           `;
           card.addEventListener('click', () => openModal(p));
@@ -911,7 +992,7 @@
 
       function openModal(p) {
         modalImg.src = p.poster_image;
-        modalEra.textContent = p.era;
+        modalEra.textContent = `${p.era} • Volume ${p.volume || 1}`;
         modalTitleKn.textContent = p.title_kn;
         modalTitleEn.textContent = `${p.title} (${p.year})`;
         modalDirector.textContent = p.director;
@@ -934,12 +1015,14 @@
         }
       });
 
-      // Filter tabs
-      eraFilterTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-          eraFilterTabs.forEach(t => t.classList.remove('active'));
-          tab.classList.add('active');
-          currentEra = tab.dataset.era;
+      // Volume buttons
+      volButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          volButtons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentVol = btn.dataset.vol;
+          currentEra = 'all';
+          buildEraFilters();
           renderPosters();
         });
       });
@@ -956,7 +1039,7 @@
         btnViewSheets.classList.remove('active');
         postersGrid.style.display = 'grid';
         sheetsGrid.style.display = 'none';
-        document.getElementById('eraFilterRow').style.display = 'flex';
+        eraFilterRow.style.display = 'flex';
       });
 
       btnViewSheets.addEventListener('click', () => {
@@ -964,11 +1047,12 @@
         btnViewIndividual.classList.remove('active');
         postersGrid.style.display = 'none';
         sheetsGrid.style.display = 'grid';
-        document.getElementById('eraFilterRow').style.display = 'none';
+        eraFilterRow.style.display = 'none';
         renderSheets();
       });
 
       // Initial render
+      buildEraFilters();
       renderPosters();
       renderSheets();
     });
